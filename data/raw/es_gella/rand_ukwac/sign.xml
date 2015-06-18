@@ -1,0 +1,2035 @@
+<?xml version="1.0" ?>
+<root>
+	<CONTENT>
+		<WORD>sign</WORD>
+		<SENSES>
+			<SENSE id="sense_1">a piece of evidence that something is happening or that something exists&lt;font color=blue&gt; ex: Looking back now, I realize I failed to spot the warning signs. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_2">a written symbol that has a particular meaning, such as % meaning &quot;percent&quot; or $ meaning &quot;dollar&quot;&lt;font color=blue&gt; ex: a multiplication/division sign &lt;/font&gt;</SENSE>
+			<SENSE id="sense_3">a movement or sound that you make that tells other people what you want, how you feel, what they should do, etc.&lt;font color=blue&gt; ex: He turned and gave the familiar thumbs-up sign to the crowd. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_4">a    star sign&lt;font color=blue&gt; ex: I'm a Scorpio. What's your sign? &lt;/font&gt;</SENSE>
+			<SENSE id="sense_5">a flat object with words or pictures on it, put in a public place to provide information or advertise something&lt;font color=blue&gt; ex: Several people were ignoring the no-smoking sign. &lt;/font&gt;</SENSE>
+		</SENSES>
+		<SENTENCES>
+			<SENTENCE id="&lt;text id=&quot;http://esds.mcc.ac.uk/VisualInterface/CommonGIS/doc/english/raster/grid_functions.html&quot;&gt;">
+				<TEXT>Operation &lt;b&gt; signs &lt;/b&gt;  are inserted in the formula field when the user presses the corresponding buttons .</TEXT>
+				<ANNOTATOR id="A3MZUMSFO3WCJT">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ABYKQRCNOFYGK">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2BX9RY192YG6A">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.peagreenboat.co.uk/astronomy.htm&quot;&gt;">
+				<TEXT>This means that in astronomical terms I 'm really a Cancer and not a Leo ... we 're all about a &lt;b&gt; sign  &lt;/b&gt; out .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.abd.org.uk/brunstrom.htm&quot;&gt;">
+				<TEXT>&quot; Instead of more cameras , Brunstrom is now supporting vehicle activated speed warning &lt;b&gt; signs &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.skyscript.co.uk/houprob_print.html&quot;&gt;">
+				<TEXT>Of the &lt;b&gt; signs &lt;/b&gt;  that do rise , some linger on the ascendant for many hours while others speed by in a matter of minutes .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cbrd.co.uk/reference/international/iceland.shtml&quot;&gt;">
+				<TEXT>This is quite the most bizarre road &lt;b&gt; sign  &lt;/b&gt; we saw , on route 427 east of Grindavk .</TEXT>
+				<ANNOTATOR id="AW3VP3U8NZEAX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A543UOEX2LSBY">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1IS0218RVG60K">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A5H5MJI5GFN92">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.faithnet.org.uk/AS%20Subjects/Philosophyofreligion/miraclesbible.htm&quot;&gt;">
+				<TEXT>Sometimes miracles were done as &lt;b&gt; signs &lt;/b&gt;  to show that God wanted something to happen ( E.g .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AHZK68L2UCA70">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ombudsman.org.uk/improving_services/selected_cases/HSC/ic0203/pt2-e722.html&quot;&gt;">
+				<TEXT>The A&amp;E Sister took his vital &lt;b&gt; signs &lt;/b&gt;  ( pulse , temperature , respirations and blood pressure ) which were within the normal limits .</TEXT>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1,sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.signonline.org.uk/sign_linguistics/introducing_the_linguistics_of_sign_language/what_is_linguistic_knowledge.php&quot;&gt;">
+				<TEXT>The &lt;b&gt; sign  &lt;/b&gt; WAIT can contain extra information to make signs like WAIT-BRIEFLY , WAIT-A-WHILE and WAIT-A-LONG-TIME .</TEXT>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.northumberland.gov.uk/BB_News.asp?BB_Bulletin_ID=2994&amp;BB_return=/Default.asp&quot;&gt;">
+				<TEXT>Measures include improving traffic &lt;b&gt; signs &lt;/b&gt;  , visibility improvements and upgrading road surfacing .</TEXT>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ydbka.org.uk/June%202006.htm&quot;&gt;">
+				<TEXT>After eating the fresh or dried plant , &lt;b&gt; signs &lt;/b&gt;  may not be seen for several months .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVOF14300525D">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+					<COMMENT>The sentence talks about a piece of evidence that something is happening or that something exists.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cofepow.org.uk/pages/asia_haruku2.htm&quot;&gt;">
+				<TEXT>As the diarrhoea worsened the motions showed &lt;b&gt; signs &lt;/b&gt;  of entrail colitis , with watery stools , undigested particles of food and some slime .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.citynetguide.co.uk/exterior-signage.htm&quot;&gt;">
+				<TEXT>Exterior &lt;b&gt; Signa &lt;/b&gt; ge At Signs &amp; Safety Ltd For all your business signage needs , see the experts at Signs &amp; Safety Ltd in Surrey .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.rvc.ac.uk/Hospitals/FoalUnit/Septicaemia.cfm&quot;&gt;">
+				<TEXT>Some foals show &lt;b&gt; signs &lt;/b&gt;  of infection in their eyes ( illustrated in the middle , below ) .</TEXT>
+				<ANNOTATOR id="A15781PHGW377Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3C9OSLR9NZW5L">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1PQTQ7EURN1Y7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.peterfinch.co.uk/cardiff.htm&quot;&gt;">
+				<TEXT>There is a &lt;b&gt; sign  &lt;/b&gt; which reads WARNING - TOXIC BLUE GREEN ALGAE MAY BE PRESENT IN THIS DOCK .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.claveringonline.org.uk/Parish%20Council/Minutes%20May%2006.htm&quot;&gt;">
+				<TEXT>F Brian Barrow reported the Oxleys Close 30mph &lt;b&gt; sign  &lt;/b&gt; missing ; to refer to Highways .</TEXT>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.natcorp.ox.ac.uk/docs/chapter4.html&quot;&gt;">
+				<TEXT>You can now inspect the content of any elements before or after the hit by clicking on the plus &lt;b&gt; signs &lt;/b&gt;  , as before .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AHZK68L2UCA70">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.stusoc.cf.ac.uk/suon/korfball/0001/europeans01.html&quot;&gt;">
+				<TEXT>And showed very little &lt;b&gt; sign  &lt;/b&gt; of being about to leave without a little gentle coaxing .</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2PKRQGUOU8EFJ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.interhoroscopes.co.uk/articles/birthcharts/interpreting-birthcharts/aspects/major-minor-aspects.php&quot;&gt;">
+				<TEXT>Sesquiquadrate ( 135 degrees , 4-1/2 &lt;b&gt; signs &lt;/b&gt;  apart ) A little more minor than Semi-Square , causing irritation , frustration and conflict .</TEXT>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_7</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.tinytalk.co.uk/baby-signing-other/baby-signing-bsl.htm&quot;&gt;">
+				<TEXT>When making the &lt;b&gt; sign  &lt;/b&gt; we always make sure that we have the real object to hand if possible .</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>may refer to the process of a display board picturing some &quot;real object&quot; i.e. to use as a model</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.birdtours.co.uk/tripreports/israel/israel3/issite.html&quot;&gt;">
+				<TEXT>There is a small brown or green &lt;b&gt; sign  &lt;/b&gt; with the symbol of an ibex , representing the Israeli nature conservation body .</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.gty.org.uk/transcripts/2367.htm&quot;&gt;">
+				<TEXT>Now there are five more &lt;b&gt; signs &lt;/b&gt;  that are only the beginning , that happen in the early part of the Great Tribulation .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1,sense_3</SENSE_LABEL>
+					<COMMENT>religious context suggests the possibility of the second meaning</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.stmarys-fleetwood.org.uk/images/ADVENT2000/NewStartAdventWk3.html&quot;&gt;">
+				<TEXT>Ahaz 's rejection of the &lt;b&gt; sign  &lt;/b&gt; showed that his mind and heart were closed against God 's word .</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1,sense_3</SENSE_LABEL>
+					<COMMENT>Biblical connotation suggests the second meaning</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.villagegreensigns.co.uk/birds.htm&quot;&gt;">
+				<TEXT>We are constantly trying to improve our range of de&lt;b&gt; signs &lt;/b&gt;  for our house &lt;b&gt; signs &lt;/b&gt;  or address plaques so we will welcome any special commissions .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.horoscopes.co.uk/Archive/Aquarius/Archive-January-2006.php&quot;&gt;">
+				<TEXT>Patience with those born under the Cardinal &lt;b&gt; signs &lt;/b&gt;  ( Aries , Cancer , Libra and Capricorn ) could drive this .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.abd.org.uk/local/leicestershire.htm&quot;&gt;">
+				<TEXT>These are not the only speed limit &lt;b&gt; signs &lt;/b&gt;  in Leicestershire which have an illegal yellow circular border .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.mccmanchester.co.uk/news/sermon_11jan04.htm&quot;&gt;">
+				<TEXT>You are to undergo circumcision , and it will be the &lt;b&gt; sign  &lt;/b&gt; of the covenant between me and you .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2PGGBN0DSA2RL">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1U5BE8XJRXKW3">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1PQTQ7EURN1Y7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3D651FH9WQY16">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.greatorme.freeserve.co.uk/evidence.htm&quot;&gt;">
+				<TEXT>Over 50 bones showed definite &lt;b&gt; signs &lt;/b&gt;  of modification , with wear consistent with having been used as tools .</TEXT>
+				<ANNOTATOR id="A1KF05U5IO9AFG">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A6X2LOXN4ZA9G">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.huddersfield1.co.uk/bkilcline/lynns_book/o_mamallawotsit.htm&quot;&gt;">
+				<TEXT>These &lt;b&gt; signs &lt;/b&gt;  were sponsored by The Lonely Planet guidebook and indicated as much at the foot of the &lt;b&gt; signs &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.house-signs.co.uk/signsblog/2006_01_01_house-signs_archive.html&quot;&gt;">
+				<TEXT>But why anyone would consider defacing their home with such tacky house &lt;b&gt; signs &lt;/b&gt;  is beyond me .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.port-vale.premiumtv.co.uk/page/TravelMatchPack/0,,10381~404772,00.html&quot;&gt;">
+				<TEXT>Directions : By Road : From North : Follow City &lt;b&gt; signs &lt;/b&gt;  from A1/M1 , then &lt;b&gt; signs &lt;/b&gt;  for Shoreditch and Whitechapel .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1I8952MLVA6SL">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.keplersoftware.co.uk/reports/report_samples/Feline.htm&quot;&gt;">
+				<TEXT>The basic needs and patterns in Kitty 's life are strongly influenced by the &lt;b&gt; sign  &lt;/b&gt; and placement of the Sun .</TEXT>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2PGGBN0DSA2RL">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.meningitis.org.uk/news/newsitem.jsp?newsid=96&quot;&gt;">
+				<TEXT>Therefore , it is vital to know the &lt;b&gt; signs &lt;/b&gt;  and symptoms and the need to obtain medical help immediately if a case is suspected .</TEXT>
+				<ANNOTATOR id="A2C27YTQSQ1GXS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A303L6DGICJIL">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.scambuster419.co.uk/signwriterptii.htm&quot;&gt;">
+				<TEXT>It 's a bank holiday over here this weekend , but I 'll be spending most of it repainting the &lt;b&gt; sign  &lt;/b&gt; for Mr Panis .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.astrology-horoscopes.co.uk/medical-electional-astrology.htm&quot;&gt;">
+				<TEXT>We look primarily to see what &lt;b&gt; sign  &lt;/b&gt; the Moon is in and what aspects it makes before leaving the &lt;b&gt; sign  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cbrd.co.uk/media/photo/&quot;&gt;">
+				<TEXT>Old &lt;b&gt; Signs &lt;/b&gt;  A few photos of the increasingly rare signs from before the big change-over in the mid 1960's .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.edp24.co.uk/Content/Leisure/Walks/asp/Shipdham.asp&quot;&gt;">
+				<TEXT>At the finger post &lt;b&gt; sign  &lt;/b&gt; we turned left across the field , then right on reaching the track .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE627VT8OR8A6">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AGXQ6XNWLMVJI">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20VG7NZ13S29U">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.chiltern.gov.uk/site/scripts/services_info.php?serviceID=847&amp;startsWith=R&quot;&gt;">
+				<TEXT>Priority is given to safety and regulatory &lt;b&gt; signs &lt;/b&gt;  e.g. Give Way , Stop , Speed Limit .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.artatwalsall.org.uk/index2.asp?sec=3&amp;id=2&quot;&gt;">
+				<TEXT>Then turn left to follow the brown ' The New Art Gallery ' &lt;b&gt; sign  &lt;/b&gt; to Crown Wharf and Retail Park .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://bubl.ac.uk/org/tacit/tac/tac51/theymigh.htm&quot;&gt;">
+				<TEXT>An unexpected bonus came when two blokes were met walking up , having seen the Hill Open &lt;b&gt; signs &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A1BE2EQFHHB22K">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.skiptonweb.co.uk/tourist/walks/05_ingleton/index.htm&quot;&gt;">
+				<TEXT>21 A quarry &lt;b&gt; sign  &lt;/b&gt; on your left , and pass an old disused industrial site on your left .</TEXT>
+				<ANNOTATOR id="A1BE2EQFHHB22K">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.thedragoon.co.uk/page/main/direct_print.htm&quot;&gt;">
+				<TEXT>At the roundabout , turn left taking the 1st exit following &lt;b&gt; sign  &lt;/b&gt; for &quot; Huntingdon , Brampton , Brampton Racecourse &quot; .</TEXT>
+				<ANNOTATOR id="A1BE2EQFHHB22K">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.strubi.ox.ac.uk/strubi/fuller/docs/spider2001/man/apsa.html&quot;&gt;">
+				<TEXT>The angle &lt;b&gt; signs &lt;/b&gt;  used for 3-D reconstruction from tilted series have to be reversed .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.batod.org.uk/index.php?id=/publications/on-linemagazine/models/russia.htm&quot;&gt;">
+				<TEXT>Links with the West are maintained through two support groups , ' &lt;b&gt; Signs &lt;/b&gt;  of Russia ' and the Moscow Bilingual Deaf School Association .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.scotland-inverness.co.uk/harris.htm&quot;&gt;">
+				<TEXT>A &lt;b&gt; sign  &lt;/b&gt; points the way to Macleod 's standing stone on the far side of the sand about 700 metres from the road .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://cain.ulst.ac.uk/issues/politics/docs/connolly.htm&quot;&gt;">
+				<TEXT>Indeed , they are taken as a &lt;b&gt; sign  &lt;/b&gt; of his integrity and the perfidious nature of his detractors .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.doit.org.uk/blog/page/overseas/20060918&quot;&gt;">
+				<TEXT>Posted by Emily ( 9:56 AM ) Link to this post Comments [ 0 ] Wednesday September 13 , 2006 &lt;b&gt; signs &lt;/b&gt;  OK .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1,sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.coventrycity-mad.co.uk/news/loadfeat.asp?cid=EDY1&amp;id=289922&quot;&gt;">
+				<TEXT>From the North Take the A1079 towards Beverley then follow &lt;b&gt; signs &lt;/b&gt;  for the Humber Bridge and the A164 .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.brake.org.uk/index.php?p=318&quot;&gt;">
+				<TEXT>The &lt;b&gt; signs &lt;/b&gt;  are used to warn drivers of the lower speed limits when they are in force .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.neithdirect.ndo.co.uk/jdsplut4.htm&quot;&gt;">
+				<TEXT>There are , moreover , no grounds for confining the application of this principle to man-made &lt;b&gt; signs &lt;/b&gt;  used for the purposes of communication .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1,sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://skyscript.co.uk/forums/viewtopic.php?t=254&amp;postdays=0&amp;postorder=asc&amp;start=15&quot;&gt;">
+				<TEXT>Looking elsewhere in the earlier period , Uranus is being used but with no &lt;b&gt; sign  &lt;/b&gt; rulership attributed .</TEXT>
+				<ANNOTATOR id="A1AJG4BGSRPC93">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3L5YV8KM8U1AV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+					<COMMENT>uranus is a planet, with no symbol associated</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.exetermemories.co.uk/EM/4_Exeter_Pub_List.html&quot;&gt;">
+				<TEXT>Good Woman , Quiet Woman and Silent Woman all relate to a ' headless ' woman , the &lt;b&gt; sign  &lt;/b&gt; of an oilshop .</TEXT>
+				<ANNOTATOR id="A1AJG4BGSRPC93">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3L5YV8KM8U1AV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+					<COMMENT>talking about the oilshops sign</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.coventrycity-mad.co.uk/news/loadnews.asp?cid=PREV&amp;id=270555&quot;&gt;">
+				<TEXT>From the M3 , continue to the end of the motorway then follow &lt;b&gt; signs &lt;/b&gt;  for the M27 East and then as above .</TEXT>
+				<ANNOTATOR id="A1AJG4BGSRPC93">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3L5YV8KM8U1AV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+					<COMMENT>the sign used to point to somewhere</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.scoutingresources.org.uk/codes_safety.html&quot;&gt;">
+				<TEXT>Riding along You should not ride on the pavement unless there are special &lt;b&gt; signs &lt;/b&gt;  allowing you to do so .</TEXT>
+				<ANNOTATOR id="A1AJG4BGSRPC93">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3L5YV8KM8U1AV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+					<COMMENT>a sign that displays a public rule</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.edp24.co.uk/Content/Leisure/Walks/2004/asp/Horning.asp&quot;&gt;">
+				<TEXT>Keeping straight ahead along the grassy track , we watched Egyptian geese feeding before ignoring the concessionary path &lt;b&gt; sign  &lt;/b&gt; on our right .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.trg.soton.ac.uk/prime/southampton/descr5.htm&quot;&gt;">
+				<TEXT>These &lt;b&gt; signs &lt;/b&gt;  were augmented by five mobile ( trailer mounted ) &lt;b&gt; signs &lt;/b&gt;  capable of being deployed during major incidents and special events .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.horoscopes.co.uk/Archive/Gemini/Archive-April-2006.php&quot;&gt;">
+				<TEXT>Week Beginning Sunday 23rd April 2006 People of your &lt;b&gt; sign  &lt;/b&gt; are supposed to be good with words .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.edp24.co.uk/Content/Leisure/Walks/2005/asp/Martham.asp&quot;&gt;">
+				<TEXT>At the notice with a light plane on it , and the &lt;b&gt; sign  &lt;/b&gt; in the hedge , we turned left along another track .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.whitedragon.org.uk/articles/john.htm&quot;&gt;">
+				<TEXT>Full marks go to Mansfield Brewery for their intricate and highly detailed but immensely beautiful large circular &lt;b&gt; signs &lt;/b&gt;  which are superb works of art .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.macclesfield-express.co.uk/features/200023_save_our_hospital.html&quot;&gt;">
+				<TEXT>Full story More news  News Over 4,000 &lt;b&gt; sign  &lt;/b&gt; petition OVER 4,000 residents have signed the petition to protect services at Macclesfield Hospital .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>put a signature on</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Signature</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20VG7NZ13S29U">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A196YAYUDDD8CK">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>to place a signature on a document</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.signingbabes.co.uk/article.php?id=9&quot;&gt;">
+				<TEXT>Some of Billy 's favourite &lt;b&gt; signs &lt;/b&gt;  revolve around his stomach : chips , burger and pear .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>slang reference to &quot;something of interest&quot;</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.britishpolio.org.uk/library1998to00.shtml&quot;&gt;">
+				<TEXT>The minimum time interval between primary insult and the time of evaluation for patients who had &lt;b&gt; sign  &lt;/b&gt; of denervation was 36 months .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.mike-stevens.co.uk/cutmisc/humour/regsigns.htm&quot;&gt;">
+				<TEXT>It is said that in a single night-time raid , 138 new &lt;b&gt; signs &lt;/b&gt;  were installed within a mile of Braunston Turn .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ebarnetbaptist.org.uk/believersbaptism.htm&quot;&gt;">
+				<TEXT>One area where Baptists differ with each other is whether baptism is more than a mere &lt;b&gt; sign  &lt;/b&gt; of the Holy Spirit 's presence .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_1,sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.hatii.arts.gla.ac.uk/MultimediaStudentProjects/99-00/9704752l/project/html/analysis.htm&quot;&gt;">
+				<TEXT>Graffiti writers combine these different systems of &lt;b&gt; signs &lt;/b&gt;  , in the ultimate attempt to create a self portrait .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.prodigy.nhs.uk/heart_failure/extended_information/background_information&quot;&gt;">
+				<TEXT>Making an accurate clinical diagnosis of heart failure is difficult because individual symptoms and &lt;b&gt; signs &lt;/b&gt;  are poorly predictive .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.bigga.org.uk/greenkeeper/viewstory.php?id=424&quot;&gt;">
+				<TEXT>Eagle Promotions have recently supplied &lt;b&gt; signa &lt;/b&gt; ge for Disneyland Paris who required a number of unusually shaped signs , portraying various images .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>--- boldface letters are not a word ---</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.naturalchildbirth.co.uk/signs_of_pregnancy.shtml&quot;&gt;">
+				<TEXT>Others may notice no &lt;b&gt; signs &lt;/b&gt;  of pregnancy for weeks and begin to wonder &quot; Am I pregnant ?</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://localplan.tmbc.gov.uk/written/cpt13.htm&quot;&gt;">
+				<TEXT>Wholly internally illuminated facia box &lt;b&gt; signs &lt;/b&gt;  will not generally be acceptable unless this was an historic feature of the original shopfront .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://vetgate.ac.uk/browse/subject-listing/*SF994.html&quot;&gt;">
+				<TEXT>Discussed are clinical &lt;b&gt; signs &lt;/b&gt;  and symptoms , gross lesions , microscopic lesions , and pathogenesis and control .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.neithdirect.ndo.co.uk/jdspluv5.htm&quot;&gt;">
+				<TEXT>It ought to be obvious that the overwhelmingly dominant importance of visual percepts , especially in infancy , is as &lt;b&gt; signs &lt;/b&gt;  for tactile possibilities .</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30L4CIDXSGJSW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ABYKQRCNOFYGK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.independentliving.co.uk/news/archive2.2001.html&quot;&gt;">
+				<TEXT>Some mice were &quot; pretreated &quot; with avicins , and fewer than 30 % of them developed early &lt;b&gt; signs &lt;/b&gt;  of skin cancer .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30L4CIDXSGJSW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.doit.org.uk/blog/page/overseas/20061003&quot;&gt;">
+				<TEXT>Posted by Emily ( 9:56 AM ) Link to this post Comments [ 0 ] Wednesday September 13 , 2006 &lt;b&gt; signs &lt;/b&gt;  OK .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30L4CIDXSGJSW">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>sign - be engaged by a written agreement</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.is.stir.ac.uk/itsupport/software/refmgr/dataentry.php&quot;&gt;">
+				<TEXT>Department of Agriculture =Apple Computer Inc The equal &lt;b&gt; sign  &lt;/b&gt; is not printed when you format citations and/or generate a bibliography .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30L4CIDXSGJSW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.skyscript.co.uk/frawley2.html&quot;&gt;">
+				<TEXT>He did , however , take note of the &lt;b&gt; sign  &lt;/b&gt; that Jupiter is in : Scorpio , a water &lt;b&gt; sign  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.horsham.gov.uk/council_services/council_services_920.asp&quot;&gt;">
+				<TEXT>If you are not sure whether your advertisement or &lt;b&gt; sign  &lt;/b&gt; will need this consent , ask us for advice .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.stebbes.org.uk/?s=talks&amp;transcript=476&quot;&gt;">
+				<TEXT>For people to be convinced that Jesus is the King by astonishing &lt;b&gt; signs &lt;/b&gt;  and wonders .</TEXT>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.tvradiobits.co.uk/desandmick/dm208.htm&quot;&gt;">
+				<TEXT>Mick laid out the chocolate cakes on a table , while Des put the &lt;b&gt; sign  &lt;/b&gt; up over their stall .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.localhistory.scit.wlv.ac.uk/Museum/metalware/chromo.htm&quot;&gt;">
+				<TEXT>But anyone might find it worthwhile to have an enamelled &lt;b&gt; sign  &lt;/b&gt; on their premises and Chromo would make it .</TEXT>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.jusnoctis.co.uk/index.php?jove=yox&amp;episode=54&quot;&gt;">
+				<TEXT>She does , however , begin to see &lt;b&gt; signs &lt;/b&gt;  of battered shops and bullet-ridden concrete along the way .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.big-print.co.uk/xpedio/groups/public/documents/visugate/public_focussep95.hcsp&quot;&gt;">
+				<TEXT>Me : Lots of blind and partially sighted people have difficulty seeing &lt;b&gt; sign  &lt;/b&gt; language .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A32LT9WD9VFW6U">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Sign language</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.gen.cam.ac.uk/About/Gethere/gethere.htm&quot;&gt;">
+				<TEXT>If this is full , follow &lt;b&gt; signs &lt;/b&gt;  for St. Anne 's Terrace car park , about half a kilometre away .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.tinytalk.co.uk/baby-signing-research4.htm&quot;&gt;">
+				<TEXT>It shows the &lt;b&gt; signs &lt;/b&gt;  for hundreds of &lt;b&gt; signs &lt;/b&gt;  with clear photographs and detailed descriptions of how to make them .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.eenet.org.uk/deaf/mongolia.shtml&quot;&gt;">
+				<TEXT>They develop their own &lt;b&gt; sign  &lt;/b&gt; language and communication mode together with their students .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://devon-weddings.co.uk/links.html&quot;&gt;">
+				<TEXT>Slate House &lt;b&gt; Signs &lt;/b&gt;  - house signs in almost any size and in a wide range of lettering styles .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cbrd.co.uk/reference/international/mexico/kcmor.shtml&quot;&gt;">
+				<TEXT>The &lt;b&gt; sign  &lt;/b&gt; at top uses a federal highway shield for what is , in fact , a state highway .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.dundeeunitedfc.co.uk/index.asp?lm=2&quot;&gt;">
+				<TEXT>By car : From The North ( Inverness-shire ) Follow the A9 South and follow &lt;b&gt; signs &lt;/b&gt;  for PERTH .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ombudsman.org.uk/improving_services/selected_cases/HSC/ic9903/pt2-e1405.html&quot;&gt;">
+				<TEXT>The SHO 's response to the statement of complaint mentioned abdominal tenderness as being a &lt;b&gt; sign  &lt;/b&gt; of oesophageal perforation .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.hippy.freeserve.co.uk/speeding.htm&quot;&gt;">
+				<TEXT>To enforce these speed limits ; laws are passed making speeding an offence and &lt;b&gt; signs &lt;/b&gt;  are erected to indicate the maximum permissible speeds .</TEXT>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1BY04BWSZTFGX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nmk.co.uk/article/2004/06/29/healthy-business&quot;&gt;">
+				<TEXT>You should constantly be on the look out for these &lt;b&gt; signs &lt;/b&gt;  - because your creditors certainly are !</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1BY04BWSZTFGX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30WJWW131W266">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.tauruscrafts.co.uk/SteveHyslop.htm&quot;&gt;">
+				<TEXT>Steve built the &lt;b&gt; sign  &lt;/b&gt; from scrap materials found either lurking in his houseboat moored on the River Severn or from the Lydney scrap yard .</TEXT>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1BY04BWSZTFGX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.jewishdeaf.org.uk/events/pastevents/pastevents2.htm&quot;&gt;">
+				<TEXT>It worked to our advantage that she was deaf as we communicated in &lt;b&gt; sign  &lt;/b&gt; the entire time .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AXFESYBQ21CVX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1BY04BWSZTFGX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.bmf.co.uk/briefing/timelimitedrightsofwaymotorisedinterestworkinggroupproposals.html&quot;&gt;">
+				<TEXT>This &lt;b&gt; sign  &lt;/b&gt; imposes the same list of prohibitions ( e.g. motorcycles under 50cc ) without the requirement to list each and all .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ufcos.org.uk/ga01/panel02.htm&quot;&gt;">
+				<TEXT>Water baptism is but the outward &lt;b&gt; sign  &lt;/b&gt; of which Christ 's death and resurrection are the reality .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.abd.org.uk/cameras/somerset.htm&quot;&gt;">
+				<TEXT>40 1592 1999-09-20 A37 Pylle A37 at Pylle nr Shepton Mallet delibratly concealed behind a direction &lt;b&gt; sign  &lt;/b&gt; for the traffic from the North .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.climbrannoch.co.uk/RhonaWrites/battle_of_sheriffmuir.htm&quot;&gt;">
+				<TEXT>Screeching to a halt at the first bar we found a &lt;b&gt; sign  &lt;/b&gt; welcoming coffee drinkers but offering no alcohol .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.andypreece.co.uk/cycling/cr_blantyre.php&quot;&gt;">
+				<TEXT>It appears to go round in a circle , but the &lt;b&gt; signs &lt;/b&gt;  do not say where this route is meant to lead .</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://jbe.gold.ac.uk/5/macqn981.html&quot;&gt;">
+				<TEXT>Josaphat then sees the three &lt;b&gt; signs &lt;/b&gt;  , and having seen them he has his first insight experience .</TEXT>
+				<ANNOTATOR id="ABUNAEPK8GV63">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE627VT8OR8A6">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A18IJ8C5SL628I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.journalonline.co.uk/article/1000176.aspx&quot;&gt;">
+				<TEXT>Parking places need the appropriate white line markings and &lt;b&gt; signs &lt;/b&gt;  at the roadside .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.vwl.co.uk/site/contactus/&quot;&gt;">
+				<TEXT>At the junction with Bond Street turn right and follow &lt;b&gt; signs &lt;/b&gt;  for the Bristol Royal Infirmary ( BRI ) .</TEXT>
+				<ANNOTATOR id="AVOF14300525D">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+					<COMMENT>This sentence means a flat objects with words or pictures on it, put in a public place to provide information.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3H5OONJQWTSW5">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+		</SENTENCES>
+	</CONTENT>
+</root>

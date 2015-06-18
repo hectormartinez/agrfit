@@ -1,0 +1,2110 @@
+<?xml version="1.0" ?>
+<root>
+	<CONTENT>
+		<WORD>panel</WORD>
+		<SENSES>
+			<SENSE id="sense_1">a flat piece of wood, glass, or other material that forms part of something such as a door or wall&lt;font color=blue&gt; ex: a door with stained glass panels &lt;/font&gt;</SENSE>
+			<SENSE id="sense_2">a group of well-known people who discuss subjects on television or radio programs&lt;font color=blue&gt; ex: an interview panel &lt;/font&gt;</SENSE>
+			<SENSE id="sense_3">the part of a vehicle or machine where the switches and other instruments are found&lt;font color=blue&gt; ex: a control/instrument panel &lt;/font&gt;</SENSE>
+		</SENSES>
+		<SENTENCES>
+			<SENTENCE id="&lt;text id=&quot;http://www.railcar.co.uk/bulletin/013.htm&quot;&gt;">
+				<TEXT>The lights have a blue plastic lens and chrome mounting ring ; these fit to the original &lt;b&gt; panel  &lt;/b&gt; lights replacing the pierced aluminium discs .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.acl.icnet.uk/lab/tallis/Testing_Printer.htm&quot;&gt;">
+				<TEXT>The Procedure of the selected action is displayed below , in the Procedure &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>A part of a computer program that usually allows the user to adjust settings. Ex - The control panel in Microsoft Windows allows you to customize your desktop picture and other settings.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.worldtelemedia.co.uk/event/attendee/confdetails.htm&quot;&gt;">
+				<TEXT>Our moderator-led &lt;b&gt; panel  &lt;/b&gt; will cover : Navigating people to PRS content in Europe What can be done with MMS ?</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.charnwood.gov.uk/environment/rearsby.html&quot;&gt;">
+				<TEXT>Timber framed on cobble plinth , with brick nogging in square &lt;b&gt; panels &lt;/b&gt;  with some arch bracing .</TEXT>
+				<ANNOTATOR id="A3HE7SE6BYC89I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AUMM4O24JTD5O">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.somis.dundee.ac.uk/pub/dundom/rae96lk/39.htm&quot;&gt;">
+				<TEXT>These gradings will be circulated amongst &lt;b&gt; panel  &lt;/b&gt; members for the first assessment meeting .</TEXT>
+				<ANNOTATOR id="A3HE7SE6BYC89I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AUMM4O24JTD5O">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ealing.gov.uk/services/council/scrutiny/&quot;&gt;">
+				<TEXT>The Overview and Scrutiny Committee and each of the standing &lt;b&gt; panels &lt;/b&gt;  consist of nine councillors from the Labour , Liberal Democrat and Conservative parties .</TEXT>
+				<ANNOTATOR id="A3HE7SE6BYC89I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AUMM4O24JTD5O">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ABYKQRCNOFYGK">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a committee</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30WJWW131W266">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.oaa.org.uk/Case_Studies/studies/sutton/sutton1.asp&quot;&gt;">
+				<TEXT>Six hundred consumers were shown a selection of drive-by films in which the only variable was the type of &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3HE7SE6BYC89I">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AUMM4O24JTD5O">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.hicksdesign.co.uk/journal/safari-sidebar---beta-screenshots-updated&quot;&gt;">
+				<TEXT>Hao has changed the google &lt;b&gt; panel  &lt;/b&gt; to the smaller sidebar page that was suggested in the comments above .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3,sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>panel - (computer science) a small temporary window in a graphical user interface that appears in order to request information from the user; after the information has been provided the user dismisses the box with `okay' or `cancel'</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ulead.co.uk/learning/pi/pi10_11_2.htm&quot;&gt;">
+				<TEXT>Specify 0 Hairline for Width in the Outline tab in the Tool Settings - Path &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3,sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>panel - (computer science) a small temporary window in a graphical user interface that appears in order to request information from the user; after the information has been provided the user dismisses the box with `okay' or `cancel'</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.lawontheweb.co.uk/mdlawarticles.htm&quot;&gt;">
+				<TEXT>Our &lt;b&gt; panel  &lt;/b&gt; of 22 specialist law firms covers the whole of England , Wales and Scotland for both specialist areas .</TEXT>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.yorkshiretoday.co.uk/ViewArticle2.aspx?SectionID=105&amp;ArticleID=1569666&quot;&gt;">
+				<TEXT>Barrons of York is offering a range of solar &lt;b&gt; panels &lt;/b&gt;  , bolted on to the side of caravans , to generate electricity .</TEXT>
+				<ANNOTATOR id="AW3VP3U8NZEAX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOPZSU77ONJXS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.northyorkshire.police.uk/recruitment/interview.asp&quot;&gt;">
+				<TEXT>Therefore the &lt;b&gt; panel  &lt;/b&gt; will spend a lot of the time with their heads down , writing , while you are speaking .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.buildingdesign.co.uk/facil-group3/siptec/structural-insulated-panels.htm&quot;&gt;">
+				<TEXT>The insulation within the &lt;b&gt; panels &lt;/b&gt;  is continuous and is not bridged by timber studs .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.stoke.gov.uk/ccm/content/youth_offending/voluntary-work/what-is-a-youth-offender-panel-volunteer.en&quot;&gt;">
+				<TEXT>I find it really heartening to think &lt;b&gt; panels &lt;/b&gt;  really have the ability to prevent further offending and even improve relationships between children and parents .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2ENT5A8JF9001">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AUVJOESE3XYF3">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+					<COMMENT>Helping parents with expert advice</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>The sentence refers to a discussion by a group of people.</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.sun.rhbnc.ac.uk/Music/Conferences/99-6-dlh.html&quot;&gt;">
+				<TEXT>In either case , the &lt;b&gt; panel  &lt;/b&gt; organizer should make sure that there is enough time left for discussion among the panelists and the audience .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AIEW6KUOB0Q7U">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cpat.demon.co.uk/projects/longer/churches/montgom/16746.htm&quot;&gt;">
+				<TEXT>At the west end of the south aisle is a modern internal porch of large glass &lt;b&gt; panels &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZM83R37R6I5K">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.buildingdesign.co.uk/facil-group3/sunfold-systems/index.htm&quot;&gt;">
+				<TEXT>Ancilleries Mid rails , transoms and solid ( non-glazed ) &lt;b&gt; panels &lt;/b&gt;  can be incorporated to your design .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZM83R37R6I5K">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.uktsupport.co.uk/epson/inkjet/ss2500.htm&quot;&gt;">
+				<TEXT>EPSON Personal Copy for Macintosh only - Lets you use the control &lt;b&gt; panel  &lt;/b&gt; on your computer screen to make customized settings for high-quality opies .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_3,sense_0</SENSE_LABEL>
+					<COMMENT>place in a computer program where all the commands are given.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZM83R37R6I5K">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://jasss.soc.surrey.ac.uk/3/4/2.html&quot;&gt;">
+				<TEXT>The lower left &lt;b&gt; panel  &lt;/b&gt; shows the means of the belief indicators in the community for each word .</TEXT>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Section of a chart summarizing data.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a section of a computer screen</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZM83R37R6I5K">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.slsa.ac.uk/students/pgconf2006.htm&quot;&gt;">
+				<TEXT>The exception was the &lt;b&gt; panel  &lt;/b&gt; on getting published which was entirely based on questions posed by the conference participants .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.tiscali.co.uk/help/ctips.html?received=1&quot;&gt;">
+				<TEXT>MacOS : Open the PPP or Remote Access control &lt;b&gt; panel  &lt;/b&gt; from the Apple menu and type the number ( e.g .</TEXT>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a place on a computer where you can control its operations or appearance</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.eurekamagazine.co.uk/article/index.aspx?articleid=7DHgx4ekFLs2k_G0RxXvwNIVxX68koZeR2R0043YfMIA&quot;&gt;">
+				<TEXT>Sharp says that its tandem structured thin film solar cell technology and ' LumiWall ' &lt;b&gt; panels &lt;/b&gt;  have been available for some time .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.bexley.gov.uk/business/networking/partners/newspage.html&quot;&gt;">
+				<TEXT>The Government is looking for 5,000 volunteers to join youth offender &lt;b&gt; panels &lt;/b&gt;  , which are now being set up across the country .</TEXT>
+				<ANNOTATOR id="A2OLH1Q3GUFIPE">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AL2ZEQVXLM2R5">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1IS0218RVG60K">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.practicalpc.co.uk/reviews/hard/peripherals/antecplus660amgcase.htm&quot;&gt;">
+				<TEXT>Apart from the two on the PSU , there are two other case fans including one fitted to the side &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.gatwick-aviation-museum.co.uk/lightning/restoration_files/Restoration%20Docs/Section%201%20-%20Airframe.htm&quot;&gt;">
+				<TEXT>All access &lt;b&gt; panels &lt;/b&gt;  , have already been painted in silver/grey , presumably during service .</TEXT>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.conveyancers.gov.uk/yogiP/editContent/professionals_6_1.html&quot;&gt;">
+				<TEXT>The lack of &lt;b&gt; panel  &lt;/b&gt; appointments could mean the loss of business and your projections could suffer as a result .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.netlawman.co.uk/acts/employment-relations-act-1999.php&quot;&gt;">
+				<TEXT>( 3 ) The chairman of the Committee shall decide which &lt;b&gt; panel  &lt;/b&gt; is to deal with a particular case .</TEXT>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a group of people responsible for executing a procedural activity.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.bbccharterreview.org.uk/independent_advisor/ia_home.html&quot;&gt;">
+				<TEXT>The themes the &lt;b&gt; panel  &lt;/b&gt; considered all arose from and were defined by the public consultation .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.kbnet.co.uk/bedford/news/2004/040410.htm&quot;&gt;">
+				<TEXT>&quot; The damaged &lt;b&gt; panel  &lt;/b&gt; in the school is to be removed by specialist contractors during the Easter holidays .</TEXT>
+				<ANNOTATOR id="A38TCB4NTM5093">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ABYKQRCNOFYGK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.wizdforums.co.uk/showpost.php?p=29202&amp;postcount=14&quot;&gt;">
+				<TEXT>What I 'm using to secure the Perspex is a combination of countersunk &lt;b&gt; panel  &lt;/b&gt; washers in anodised blue and M5 countersunk bolts .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.flg.co.uk/04_fire_detection_items/4_07_twinflex_control_pnls.htm&quot;&gt;">
+				<TEXT>Callpoint identification - &lt;b&gt; panel  &lt;/b&gt; can differentiate between callpoint or detector alarms .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.rachelandrew.co.uk/archives/2006/06/&quot;&gt;">
+				<TEXT>The speakers and &lt;b&gt; panels &lt;/b&gt;  over the two days have been great and really interesting .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38TCB4NTM5093">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A10BK2R1UVIWZH">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.staff.city.ac.uk/earthquakes/MasonryBrick/ConfinedBrickMasonry.htm&quot;&gt;">
+				<TEXT>In this mode of failure the masonry &lt;b&gt; panel  &lt;/b&gt; can rock like a rigid body ( in cases of low vertical loads ) .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.bammot.org.uk/omnibus/ob170-3.asp&quot;&gt;">
+				<TEXT>Removal of the &lt;b&gt; panels &lt;/b&gt;  showed the framing to be in a bad way and serious work was required .</TEXT>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.babyworld.co.uk/information/products/product_tests/activity_playmats_gyms/default.asp&quot;&gt;">
+				<TEXT>Meet our &lt;b&gt; panel  &lt;/b&gt; of parents This month 's &lt;b&gt; panel  &lt;/b&gt; are from Surrey and met when their children started school at Barnett Wood Infants .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.wigtown-booktown.co.uk/fullarticle.asp?articleID=32&quot;&gt;">
+				<TEXT>Wigtown is a perfect example of this type of place , as was recognized by the evaluation &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.suffolkchurches.co.uk/gglemham.html&quot;&gt;">
+				<TEXT>Click on the thumbnail to open a new window with a full view of the &lt;b&gt; panel  &lt;/b&gt; , and a brief description .</TEXT>
+				<ANNOTATOR id="A2RW279IKQQSNC">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.caveinfo.org.uk/nca/meetings/tcmn0501.htm&quot;&gt;">
+				<TEXT>10.13 It was proposed and accepted that the South East England and Mendip LCMLA &lt;b&gt; panel  &lt;/b&gt; be merged with the South West &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://resourcekt.co.uk/ics/manual/contents.htm&quot;&gt;">
+				<TEXT>Search I Can Spell contains a powerful search facility which is shown in the &lt;b&gt; panel  &lt;/b&gt; on the right when you select Search .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Appears to mean the same as field in relation to a database or cell on a spreadsheet</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.simplewebhosting.co.uk/hosting/resellers.php&quot;&gt;">
+				<TEXT>User Defined Mime Types You can alter the MIME types that you want your website to recognise through your contorl &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_3,sense_0</SENSE_LABEL>
+					<COMMENT>the main place where you can start processes on a website such as assigning attributes to a character or assigning hit points to a gaming character</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.matter.org.uk/steelmatter/applications/auto_strip/properties.html&quot;&gt;">
+				<TEXT>Cost will act as a driving force for processing and alloy selection for automotive body &lt;b&gt; panels &lt;/b&gt;  that require higher strength levels .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20JA64BT9D6FR">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ashtonmortonslack.co.uk/news/story.php?story_id=27&quot;&gt;">
+				<TEXT>Membership of the &lt;b&gt; panel  &lt;/b&gt; gives the public the peace of mind that the solicitor 's skills and experience have been rigorously and independently assessed .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.foresight.gov.uk/Previous_Rounds/Foresight_1994__1999/Defence%20&amp;%20Aerospace/Progress%20Through%20Partnership%2012/chap9.html&quot;&gt;">
+				<TEXT>This would be circulated to all those on the register and to those receiving the &lt;b&gt; panel  &lt;/b&gt; report .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.lancs.ac.uk/palatine/newsletters/briefing-sept03.html&quot;&gt;">
+				<TEXT>Recommendation 6 There should be between 20 and 25 units of assessment &lt;b&gt; panels &lt;/b&gt;  supported by around 60 sub-&lt;b&gt; panels &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.esru.strath.ac.uk/Courseware/Case-study/sofia_mrdc/valia.htm&quot;&gt;">
+				<TEXT>Double glazed windows with a gap of 24 mm are constructed of timber frames cast into the reinforced concrete wall &lt;b&gt; panels &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.conveyancer.org.uk/professionals.asp?TypeId=2&amp;CategoryId=6&amp;DocId=17&quot;&gt;">
+				<TEXT>The lack of &lt;b&gt; panel  &lt;/b&gt; appointments could mean the loss of business and your projections could suffer as a result .</TEXT>
+				<ANNOTATOR id="A1BE2EQFHHB22K">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.gla.ac.uk/~gwm1h/ot/ot1.1.2/OT_1.1.2_ReadMe-Part1.html&quot;&gt;">
+				<TEXT>When properly installed they appear in the &quot; Connect via &quot; pop-up menu in the TCP/IP control &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1BE2EQFHHB22K">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>on a computer, an area where personalization can be made or selected (Control Panel)</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cpat.demon.co.uk/projects/longer/churches/denbigh/16952.htm&quot;&gt;">
+				<TEXT>On the reveal of the west respond is a sunken stone &lt;b&gt; panel  &lt;/b&gt; with a much worn inscription to Symon Thelwell ( d.1586 ) .</TEXT>
+				<ANNOTATOR id="A1BE2EQFHHB22K">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a flat piece of stone with an inscription on it, such as a tombstone</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ibls.gla.ac.uk/departments/archaeology/courses/postgraduate/handbook/panels.html&quot;&gt;">
+				<TEXT>Nonetheless , the single page summary must still be submitted to the &lt;b&gt; panel  &lt;/b&gt; chair .</TEXT>
+				<ANNOTATOR id="A1BE2EQFHHB22K">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ombudsman.org.uk/improving_services/selected_cases/HSC/ic9803/pt2-e1545.html&quot;&gt;">
+				<TEXT>The complainant remained dissatisfied with the methods and findings of the IR &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZM83R37R6I5K">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.iansmith.co.uk/lotr/weblogs.htm&quot;&gt;">
+				<TEXT>November 14th-16th , 2003 - Ring*Con 2003 , Bonn , Germany A full report , pictures and the first &lt;b&gt; panel  &lt;/b&gt; transcripts are now up !</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A5V3ZMQI0PU3F">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A14WOOII6N5ADC">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+					<COMMENT>In this sentence I believe they are talking about a group of people.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZM83R37R6I5K">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.staff.brad.ac.uk/akundu/sasrf/sasrfnews21.htm&quot;&gt;">
+				<TEXT>The &lt;b&gt; panel  &lt;/b&gt; reserves the right not to present the award and will not enter into correspondence concerning its final judgment .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZM83R37R6I5K">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.sonifex.co.uk/stationmaster/index.shtml&quot;&gt;">
+				<TEXT>Both monitor and headphone levels are fully adjustable between -60dB and 9dB using the front &lt;b&gt; panel  &lt;/b&gt; volume control .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZM83R37R6I5K">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HHDPKL3O3O7Y">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-gap.mcs.st-and.ac.uk/Manuals/pkg/Browse/doc/chap2.html&quot;&gt;">
+				<TEXT>2.1-3 Manipulating &lt;b&gt; panels &lt;/b&gt;  Wrap windows in &lt;b&gt; panels &lt;/b&gt;  to get a proper handling of overlapping windows on the display .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3,sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.buildingproductexpert.co.uk/ExpandedEntries/expandedentry.asp?cid=107529&amp;cname=Kingspan+Ltd&amp;frmBPE=&amp;frmCD=N&amp;mopt=dpe&amp;dpid=1060&quot;&gt;">
+				<TEXT>Appearance The &lt;b&gt; panel  &lt;/b&gt; system is supplied in Metallic Silver or White colour with pvdf coating .</TEXT>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.amina.co.uk/flown_banner.htm&quot;&gt;">
+				<TEXT>Coverage One &lt;b&gt; panel  &lt;/b&gt; will be sufficient to create an even sound level in a room 8m x 5m .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.moda.org.uk/infoservices/ebulletin/2006-11-15/ebulletin.htm&quot;&gt;">
+				<TEXT>There will also be question and answer sessions , round-table discussions , a &lt;b&gt; panel  &lt;/b&gt; debate and an exhibition .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ral-display.co.uk/hire.htm&quot;&gt;">
+				<TEXT>Our popup display kits are complete with a set of Velcro-friendly light grey fabric &lt;b&gt; panels &lt;/b&gt;  and wheeled shuttle case .</TEXT>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJ5XS1V27H091">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+					<COMMENT>The sentence talks about fabric panels, this is the definition that worked best</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.crystal.dircon.co.uk/report21_ch2.htm&quot;&gt;">
+				<TEXT>In 2000 , the Campaign invited a number of experts in landscaping , architecture and design to join a consultation &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJ5XS1V27H091">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+					<COMMENT>A consultation [anel is a panel that discusses things.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.portabletechnology.co.uk/x450.html&quot;&gt;">
+				<TEXT>Two fans are located on the back &lt;b&gt; panel  &lt;/b&gt; which keep the compartment cool when closed .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJ5XS1V27H091">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+					<COMMENT>It talks about a panel where fans are located, this is the best definition</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.seawings.co.uk/sundmodarticle.htm&quot;&gt;">
+				<TEXT>The wings were then scribed with &lt;b&gt; panel  &lt;/b&gt; detail and an impression of the fuel tank locations was added using 5 thou. card .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>specialized part of a larger unit; specific kind of decoration</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJ5XS1V27H091">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.pbds.co.uk/page-ob.html&quot;&gt;">
+				<TEXT>A BAF audio/cable testing station will be included within the I/O &lt;b&gt; panel  &lt;/b&gt; to allow instant testing of cable viability and continuity .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.geoacoustics.co.uk/Specifications/5420s.htm&quot;&gt;">
+				<TEXT>System Operation The GeoPulse 5420S is controlled entirely from the front &lt;b&gt; panel  &lt;/b&gt; , which makes the unit very easy to operate .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.focusdiy.co.uk/stry/diy22&amp;bklist=pcat,3,advicecentrecategory,diycategory&quot;&gt;">
+				<TEXT>Using concrete When using concrete , you put all the posts up first and wait for the concrete to set before fitting the &lt;b&gt; panels &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A364KJDYEBAWC9">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ACSKEB7JBPLXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://dpa.ntu.ac.uk/archive/ekac/Holopoetry.Hypertext.html&quot;&gt;">
+				<TEXT>Havoc ( 5 ) , created in 1992 , is composed of 39 words distributed in three &lt;b&gt; panels &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A37BGMSHTKJX30">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2ZD4Z5V37EJOP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1LRRDBA84ITCJ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Difficult to be certain, but as used, the word seems to mean something like &quot;a division or partition of text, perhaps used to increase readability.&quot;</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.millineryworks.co.uk/pages/Furnitureexhibitions_DovetailedCat4.htm&quot;&gt;">
+				<TEXT>Picture above right Exhibit 37 An oak Cotswold School table cabinet with fielded &lt;b&gt; panel  &lt;/b&gt; door on brown oak sledge feet , circa 1930 .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.wainwright.trust.btinternet.co.uk/w_t_evening.htm&quot;&gt;">
+				<TEXT>Naturally , with David McFarlane on the &lt;b&gt; panel  &lt;/b&gt; , racism in the police figured in the exchanges of view .</TEXT>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.drives.co.uk/news/uknews/news_uknews255.htm&quot;&gt;">
+				<TEXT>&quot; This needs to be done even on machines where there is no obvious evidence of damage to the &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ioe.ac.uk/ccs/conference2000/papers/pc/papers/roberts.html&quot;&gt;">
+				<TEXT>The average number in each forum or &lt;b&gt; panel  &lt;/b&gt; was 12 and this number was fairly consistent in all the sites visited .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A364KJDYEBAWC9">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.wrfound.org.uk/23234+jay+cohen+internet+gambling.aspx&quot;&gt;">
+				<TEXT>The &lt;b&gt; panel  &lt;/b&gt; found that I internet_gambling/internet_betting_and_gambling.html internet gambling irs conviction jay cohen int losing and uphill battle .</TEXT>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.britac.ac.uk/reports/miscresp/raeresp.html&quot;&gt;">
+				<TEXT>The establishment of ' umbrella groups ' has helped the &lt;b&gt; panels &lt;/b&gt;  to standardise practice and ensure consistency .</TEXT>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.stuffandnonsense.co.uk/archives/how_to_be_a_web_design_superhero.html&quot;&gt;">
+				<TEXT>Replies #1 On March 11 , 2006 10:26 PM Ms. Jen said Great &lt;b&gt; panel  &lt;/b&gt; today , thank you gentlemen .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Q56WFFLGWF1Q">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.soton.ac.uk/ses/research/astro/structures3.html&quot;&gt;">
+				<TEXT>These &lt;b&gt; panels &lt;/b&gt;  will then be tested to investigate both their dynamic structural properties and the electrical performance when subjected to the space environment .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Q56WFFLGWF1Q">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.icva.org.uk/site/ICVAteam/index.htm&quot;&gt;">
+				<TEXT>Peter Beaman MERSEYSIDE POLICE AUTHORITY Peter Beaman is currently Chairman of the Merseyside &lt;b&gt; panel  &lt;/b&gt; of custody visitors .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Q56WFFLGWF1Q">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.buybypost.co.uk/garden/products/Trimetals.html&quot;&gt;">
+				<TEXT>All Trimetals Titan models benefit from a maintenance free construction and a 15 year &lt;b&gt; panel  &lt;/b&gt; guarantee .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Q56WFFLGWF1Q">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.dwp.gov.uk/advisers/ni260/appealprocess/hearing2.asp&quot;&gt;">
+				<TEXT>A legally qualified &lt;b&gt; panel  &lt;/b&gt; member will make the decision using the same criteria as those used for making decisions about late appeals .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.shoosmiths.co.uk/news/news.asp?obj=113&amp;par=131&quot;&gt;">
+				<TEXT>The UK &lt;b&gt; panel  &lt;/b&gt; will operate alongside Zurich 's existing global legal &lt;b&gt; panel  &lt;/b&gt; , which focuses mainly on major pan-European and global projects .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.foresight.gov.uk/Previous_Rounds/Foresight_1999__2002/General_Publications/The%20Foresight%20Effect/Index.htm&quot;&gt;">
+				<TEXT>The first round Foresight Energy &lt;b&gt; panel  &lt;/b&gt; established a Cleaner Coal Generation task force with funding from both DTI and industry .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.oldclassiccar.co.uk/classic_car_article12a.htm&quot;&gt;">
+				<TEXT>Other possible problems include the effect that using these &lt;b&gt; panels &lt;/b&gt;  will have on the car as a whole .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.roofinfo.co.uk/Enhanced/apl.asp&quot;&gt;">
+				<TEXT>AP50HR , AP45HR and AP18HR &lt;b&gt; panels &lt;/b&gt;  are manufactured from galvanised steel and aluminium .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30WJWW131W266">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.rae.ac.uk/news/2005/consult.asp&quot;&gt;">
+				<TEXT>We will continue to work closely with the &lt;b&gt; panels &lt;/b&gt;  to ensure that all the key reforms for the 2008 RAE are fully implemented .</TEXT>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.lcgb.co.uk/scooters/d.html&quot;&gt;">
+				<TEXT>The electric start was run from a 6 volt battery housed under the left hand side &lt;b&gt; panel  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nabim.org.uk/scheme.asp&quot;&gt;">
+				<TEXT>The &lt;b&gt; panel  &lt;/b&gt; will also consider management issues relating to the scheme : other representatives may be invited to this part of the meeting .</TEXT>
+				<ANNOTATOR id="A2ELXYKRPPGRPB">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A5V3ZMQI0PU3F">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9XVWBWSPVPAJ">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.applecrossheritage.org.uk/news_7.html&quot;&gt;">
+				<TEXT>At the end of June , the first instalment of the &lt;b&gt; panels &lt;/b&gt;  arrived and these are now in position .</TEXT>
+				<ANNOTATOR id="A3BXTZQSUGFRIO">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A136RDQO8D9QGG">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9XVWBWSPVPAJ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.hose-rhodes-dickson.co.uk/property-detail.asp?property=5078&amp;page=5&quot;&gt;">
+				<TEXT>BATHROOM ( 6'6 x 5'8 ) Suite comprising &lt;b&gt; panel  &lt;/b&gt; bath , pedestal hand wash basin and wc .</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9XVWBWSPVPAJ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://public-art.shu.ac.uk/pmsa/barnsley/00000013.htm&quot;&gt;">
+				<TEXT>Inside the Library , on display on the basement floor next to the Library cafe , are two further &lt;b&gt; panels &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9XVWBWSPVPAJ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Parts of a piece of art, as in altar-piece panels</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cass.city.ac.uk/phd/transfer/index.html&quot;&gt;">
+				<TEXT>If the research is empirical , the student should satisfy &lt;b&gt; panel  &lt;/b&gt; members that he/she is able to handle the data .</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9XVWBWSPVPAJ">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>group of professionals evaluating the capabilities of a candidate e.g. for a position of employment</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.consult-eco.ndirect.co.uk/lrc/cmg/cmp.htm&quot;&gt;">
+				<TEXT>The &lt;b&gt; panel  &lt;/b&gt; 's purpose will be to validate and accept/query records that are received by the County Moth Recorders .</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.twinkleontheweb.co.uk/acatalog/Twinkle_Velcro_Fastening_Wraps_36.html&quot;&gt;">
+				<TEXT>Very adjustable Velcro &lt;b&gt; panel  &lt;/b&gt; and good styling suits most shapes of babies as well as most nappies too .</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Piece on clothing</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.charnwood.gov.uk/environment/cossington.html&quot;&gt;">
+				<TEXT>Central doorcase with 6 &lt;b&gt; panelle &lt;/b&gt; d door ( the 4 upper panels glazed ) , fanlight and canopy on brackets .</TEXT>
+				<ANNOTATOR id="ABUNAEPK8GV63">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A63BQBJKOV762">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Subdivision of a whole, as in furniture.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AWNGOAO24ARJY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+					<COMMENT>Door panels are this definition.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AY5QPUSEADPBG">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.somewhere.org.uk/auction/salelist/linens.htm&quot;&gt;">
+				<TEXT>1083 Two pairs of blue velvet curtains , with centre &lt;b&gt; panels &lt;/b&gt;  of gold thread ground tapestry , corded , 14ft .</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.soc.surrey.ac.uk/sru/SRU23.html&quot;&gt;">
+				<TEXT>In &lt;b&gt; panels &lt;/b&gt;  ( b ) and ( c ) we have included just four out of many schools for illustration .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://psci-com.ac.uk/browse/detail/cc10caaad7609f6612f746a41dd340e9.html&quot;&gt;">
+				<TEXT>The Commission selected a citizen &lt;b&gt; panel  &lt;/b&gt; who contemplated and reported on eight topics associated with GM foods .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38TCB4NTM5093">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVXEDARJC5HLU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30WJWW131W266">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AP1C3ZE41AMH1">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.austin-taylor.co.uk/pages/c5ppacc.htm&quot;&gt;">
+				<TEXT>The all metal heavy duty varient provides 4 large jumper rings and prevents the distortion that commonly afflicts lighter duty management &lt;b&gt; panels &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.mrc-cbu.cam.ac.uk/Research/cognition-emotion/C&amp;Etestingguidelines.shtml&quot;&gt;">
+				<TEXT>If a volunteer does become ill during testing let the &lt;b&gt; panel  &lt;/b&gt; managers know about the incident .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38TCB4NTM5093">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.colerainebc.gov.uk/show.php?id=520&quot;&gt;">
+				<TEXT>To ensure complete impartiality individual candidates remained nameless and could not be identified by &lt;b&gt; panel  &lt;/b&gt; members .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.environ.org.uk/projects/solar_streets/index.php&quot;&gt;">
+				<TEXT>All of the photovoltaic &lt;b&gt; panels &lt;/b&gt;  are set to be installed by Autumn 2005 , when the project will be officially launched .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2K3X4CA37XPFP">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ombudsman.org.uk/improving_services/special_reports/hsc/diabetes/diabetes_inv3.html&quot;&gt;">
+				<TEXT>Mr J has complained that the independent review &lt;b&gt; panel  &lt;/b&gt; 's finding on the question of denial was both incorrect and unjust .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://mailman.greennet.org.uk/public/plenary/2004-September/009543.html&quot;&gt;">
+				<TEXT>Following that &lt;b&gt; panel  &lt;/b&gt; , the plenary debate will be a chance for the all assembled to weigh in on which are the priorities .</TEXT>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.geog.le.ac.uk/vfc/software/hub/api/index-all.html&quot;&gt;">
+				<TEXT>JW&lt;b&gt; Panel  &lt;/b&gt; Initialises the panel with given background colour JWPanel(Color , boolean , Insets ) - Constructor for class jwo.vfc.hub .</TEXT>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>(appears to be) part of a name for a part of a computer program</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+		</SENTENCES>
+	</CONTENT>
+</root>

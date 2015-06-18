@@ -1,0 +1,2105 @@
+<?xml version="1.0" ?>
+<root>
+	<CONTENT>
+		<WORD>function</WORD>
+		<SENSES>
+			<SENSE id="sense_1">the purpose of a computer program or piece of computer equipment&lt;font color=blue&gt; ex: accounting/spreadsheet functions &lt;/font&gt;</SENSE>
+			<SENSE id="sense_2">the job that something is designed to do&lt;font color=blue&gt; ex: The function of advertising is to create a unique image for your company. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_3">a social event such as a party, especially one for a large number of people&lt;font color=blue&gt; ex: I sometimes attend official functions with my wife. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_4">something that happens in your body, or something that a part of your body does&lt;font color=blue&gt; ex: Free radicals have the ability to disrupt bodily functions. &lt;/font&gt;</SENSE>
+		</SENSES>
+		<SENTENCES>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/ld200203/ldhansrd/vo030121/text/30121-06.htm&quot;&gt;">
+				<TEXT>Legislative revision can be identified as an essential and distinctive &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://bushmouth.doc.stu.mmu.ac.uk/help/nec_sx6/g1af28e/chap2.html&quot;&gt;">
+				<TEXT>By specifying the compile mode , the vectorization and scalar optimization &lt;b&gt; functions &lt;/b&gt;  of the C++/SX compiler can be specified collectively depending on the application .</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1NGXQMOBCXDC3">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.roguewave.co.uk/support/docs/sourcepro/edition9-update1/html/stdlibug/3-2.html&quot;&gt;">
+				<TEXT>Typically , it is a class that defines the &lt;b&gt; function  &lt;/b&gt; call operator ( operator()( ) ) as a member function .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u19/u1907_01.htm&quot;&gt;">
+				<TEXT>Many different calcium binding proteins have been described , but the two with well established &lt;b&gt; functions &lt;/b&gt;  are troponin and calmodulin .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-ermm.cbcu.cam.ac.uk/99000769h.htm&quot;&gt;">
+				<TEXT>( 1997 ) Evidence that the multidrug resistance protein ( MRP ) &lt;b&gt; functions &lt;/b&gt;  as a co- transporter of glutathione and natural product toxins .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u19/u1907_01.htm&quot;&gt;">
+				<TEXT>Abnormalities in the structure and &lt;b&gt; function  &lt;/b&gt; of this receptor are thought to be involved in the pathogenesis of malignant hyperthermia .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A378ZS9Q7XXQKQ">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-ermm.cbcu.cam.ac.uk/99000769h.htm&quot;&gt;">
+				<TEXT>Both cell-cycling activity and the expression of resistance &lt;b&gt; functions &lt;/b&gt;  can be dependent on the stage of haematopoietic differentiation ( Fig .</TEXT>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A378ZS9Q7XXQKQ">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u18/u1804_01.htm&quot;&gt;">
+				<TEXT>N eurological abnormalities Many patients with CRF have abnormalities in central ( CNS ) and peripheral nervous system &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A378ZS9Q7XXQKQ">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.manchester.gov.uk/bestvalue/equality/race/scheme/guidance.htm&quot;&gt;">
+				<TEXT>The key to this prioritisation is the degree of relevance of a &lt;b&gt; function  &lt;/b&gt; , policy or procedure to the General Duty .</TEXT>
+				<ANNOTATOR id="A38TCB4NTM5093">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1,sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30WJWW131W266">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/cm199899/cmselect/cmpubadm/570/57022.htm&quot;&gt;">
+				<TEXT>It is right that this should be an explicit obligation since the Commissioner has the statutory &lt;b&gt; function  &lt;/b&gt; of monitoring compliance with the Code .</TEXT>
+				<ANNOTATOR id="A2OS0VCSQLU3HE">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2C27YTQSQ1GXS">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AL2ZEQVXLM2R5">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AP1C3ZE41AMH1">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2T5CROJ0FWIJY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u18/u1804_01.htm&quot;&gt;">
+				<TEXT>The elimination of volatile anaesthetic agents is not dependent on renal &lt;b&gt; function  &lt;/b&gt; and their activity is unaffected by CRF .</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OS0VCSQLU3HE">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2T5CROJ0FWIJY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/cm199899/cmselect/cmpubadm/570/57022.htm&quot;&gt;">
+				<TEXT>In most instances we envisage the &lt;b&gt; function  &lt;/b&gt; to be specified by reference to the source of the function , eg a statutory provision .</TEXT>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OS0VCSQLU3HE">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2T5CROJ0FWIJY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.roguewave.co.uk/support/docs/sourcepro/edition9-update1/html/stdlibug/3-2.html&quot;&gt;">
+				<TEXT>&quot; 3.2.2.2 To Improve Execution A second reason to consider using &lt;b&gt; function  &lt;/b&gt; objects instead of functions is faster code .</TEXT>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A5V3ZMQI0PU3F">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.roguewave.co.uk/support/docs/sourcepro/edition9-update1/html/stdlibug/3-2.html&quot;&gt;">
+				<TEXT>3.2.2.1 To Employ Existing Standard C++ Library &lt;b&gt; Function  &lt;/b&gt; Objects Table 4 illustrates the function objects provided by the Standard C++ Library .</TEXT>
+				<ANNOTATOR id="A2OS0VCSQLU3HE">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20JA64BT9D6FR">
+					<SENSE_LABEL>sense_6</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A18WKVB9OP0FAR">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2T5CROJ0FWIJY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://star.pst.qub.ac.uk/idl/AMOEBA.html&quot;&gt;">
+				<TEXT>NMAX Set this keyword equal to a scalar value specifying the maximum number of &lt;b&gt; function  &lt;/b&gt; evaluations allowed before terminating .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2SV243JDONKOA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJZ9HV5VBD7CA">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://bushmouth.doc.stu.mmu.ac.uk/help/nec_sx6/g1af28e/chap2.html&quot;&gt;">
+				<TEXT>In fast scalar version , the value ranges of arguments in the &lt;b&gt; functions &lt;/b&gt;  are not checked .</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1,sense_0</SENSE_LABEL>
+					<COMMENT>mathmatical equation</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2SV243JDONKOA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJZ9HV5VBD7CA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.geog.leeds.ac.uk/papers/95-3/&quot;&gt;">
+				<TEXT>Moreover , the more complex the objective &lt;b&gt; function  &lt;/b&gt; becomes so the parallel computer times will approach 100 per cent .</TEXT>
+				<ANNOTATOR id="A1675D95NJ1YDD">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ABYKQRCNOFYGK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cmmp.ucl.ac.uk/~drb/Thesis/Masterch2.html&quot;&gt;">
+				<TEXT>Conceptually , then , the method works by fitting a polynomial to the fermi &lt;b&gt; function  &lt;/b&gt; over the range of the eigenvalues .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2SV243JDONKOA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJZ9HV5VBD7CA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/ld200203/ldhansrd/vo030121/text/30121-06.htm&quot;&gt;">
+				<TEXT>The House is able to fulfil those &lt;b&gt; functions &lt;/b&gt;  because it has a membership that is different from that of another place .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2SV243JDONKOA">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJZ9HV5VBD7CA">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://star.pst.qub.ac.uk/idl/AMOEBA.html&quot;&gt;">
+				<TEXT>The &lt;b&gt; function  &lt;/b&gt; to be minimized must be written as an IDL function and compiled prior to calling AMOEBA .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3TL9KTAM6G3Q9">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/cm199899/cmselect/cmpubadm/570/57022.htm&quot;&gt;">
+				<TEXT>Their &lt;b&gt; function  &lt;/b&gt; is therefore envisaged as confirming , in any disputed case , whether individual pieces of information belonged to the protected class .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3TL9KTAM6G3Q9">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1TOIVL89WJPYP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.manchester.gov.uk/bestvalue/equality/race/scheme/guidance.htm&quot;&gt;">
+				<TEXT>You should indicate what evidence you have , if any , of racial inequality in the operation of a &lt;b&gt; function  &lt;/b&gt; , policy or procedure .</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2QW3HSS2UUA3K">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3T566J721PU9J">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.roguewave.co.uk/support/docs/sourcepro/edition9-update1/html/stdlibug/3-2.html&quot;&gt;">
+				<TEXT>When a &lt;b&gt; function  &lt;/b&gt; object is used as a function , the function call operator is invoked whenever the function is called .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3TL9KTAM6G3Q9">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.network-theory.co.uk/docs/octave/octave_83.html&quot;&gt;">
+				<TEXT>When the &lt;b&gt; function  &lt;/b&gt; is called , the argument names are used to hold the argument values given in the call .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12Y0F2EQR0IL2">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a mathematical term</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2KPTJMOIYHG69">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>programming code that performs a specific task and returns a value</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.roguewave.co.uk/support/docs/sourcepro/edition9-update1/html/stdlibug/3-2.html&quot;&gt;">
+				<TEXT>We can do so , for example , as an argument to one of the generic &lt;b&gt; functions &lt;/b&gt;  that require a predicate .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12Y0F2EQR0IL2">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>pertaining to uses of grammar</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2KPTJMOIYHG69">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.geog.leeds.ac.uk/papers/95-3/&quot;&gt;">
+				<TEXT>The space partitioning &lt;b&gt; function  &lt;/b&gt; is equivalent to a form of location-allocation model .</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ACSKEB7JBPLXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20VG7NZ13S29U">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cmmp.ucl.ac.uk/~drb/Thesis/Masterch2.html&quot;&gt;">
+				<TEXT>The dependence of i ,j on the number of electrons in the bond is expressed in the &lt;b&gt; functions &lt;/b&gt;  0 m,n 0 .</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UF2ENB3PIGHX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12Y0F2EQR0IL2">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>mathematic or scientific relation</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2KPTJMOIYHG69">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>programming code that performs a specific task and returns a value</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.howell1964.freeserve.co.uk/Acorn/Atom/atap/atap_20.htm&quot;&gt;">
+				<TEXT>The form of the instruction is : GET FACTOR where FACTOR is the file 's handle found with the FIN &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12Y0F2EQR0IL2">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2KPTJMOIYHG69">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>programming code that performs a specific task and returns a value</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.network-theory.co.uk/docs/octave/octave_83.html&quot;&gt;">
+				<TEXT>Built-in Variable : silent_&lt;b&gt; functions &lt;/b&gt;  If the value of silent_functions is nonzero , internal output from a function is suppressed .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/ld200203/ldhansrd/vo030121/text/30121-06.htm&quot;&gt;">
+				<TEXT>A second Chamber is worth while so long as it complements the first , fulfilling distinctive and worthwhile &lt;b&gt; functions &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.manchester.gov.uk/bestvalue/equality/race/scheme/guidance.htm&quot;&gt;">
+				<TEXT>In practice , any &lt;b&gt; function  &lt;/b&gt; or policy which has a direct or indirect impact on the public may be potentially relevant .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.geog.leeds.ac.uk/papers/95-3/&quot;&gt;">
+				<TEXT>The imposition of other constraints via penalty &lt;b&gt; function  &lt;/b&gt; methods may also make failure more frequent .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u18/u1804_01.htm&quot;&gt;">
+				<TEXT>E ndocrine disturbances Changes in parathyroid &lt;b&gt; function  &lt;/b&gt; and lipid clearance have been noted above .</TEXT>
+				<ANNOTATOR id="AEH8FSAH62DEZ">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.manchester.gov.uk/bestvalue/equality/race/scheme/guidance.htm&quot;&gt;">
+				<TEXT>This may include &lt;b&gt; functions &lt;/b&gt;  , policies or procedures relating to service delivery , policy formulation and employment .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3TL9KTAM6G3Q9">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cmmp.ucl.ac.uk/~drb/Thesis/Masterch2.html&quot;&gt;">
+				<TEXT>While the moments of a &lt;b&gt; function  &lt;/b&gt; seem to offer a promising way of reconstructing a function , most methods are unstable .</TEXT>
+				<ANNOTATOR id="AEH8FSAH62DEZ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u18/u1804_01.htm&quot;&gt;">
+				<TEXT>The &lt;b&gt; function  &lt;/b&gt; of many organ systems of great interest to anaesthetists are adversely affected by a range of accumulated toxins .</TEXT>
+				<ANNOTATOR id="AEH8FSAH62DEZ">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/ld200203/ldhansrd/vo030121/text/30121-06.htm&quot;&gt;">
+				<TEXT>I very much agree with the Joint Committee that the system whereby the Members of this House are chosen depends wholly on its &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="AEH8FSAH62DEZ">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u19/u1907_01.htm&quot;&gt;">
+				<TEXT>Abnormalities in serum calcium values may have profound effects on neurological , gastrointestinal and renal &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://mch3w.ch.man.ac.uk/theory/publications/MCDOUALLref.htm&quot;&gt;">
+				<TEXT>1996 , 100 , 10131 ) for combining multiconfigurational wave &lt;b&gt; functions &lt;/b&gt;  with d. functional ests. of the dynamic electron correlation .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cfs.dl.ac.uk/docs/gamess_manual/turtle/node3.html&quot;&gt;">
+				<TEXT>The construction of branching diagram &lt;b&gt; functions &lt;/b&gt;  is accomplished through Schmidt-orthogonalization of Rumer functions .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-gap.mcs.st-and.ac.uk/Manuals/pkg/guava2.7/htm/chap4.html&quot;&gt;">
+				<TEXT>If a code has already been marked as linear or cyclic , the &lt;b&gt; function  &lt;/b&gt; automatically returns ` true ' .</TEXT>
+				<ANNOTATOR id="AYN2JAGMDI8H0">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9XVWBWSPVPAJ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2PGGBN0DSA2RL">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38TCB4NTM5093">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.acsedu.co.uk/Outlines/animalhusb3.asp&quot;&gt;">
+				<TEXT>Explain the role of energy foods , including the sources and &lt;b&gt; functions &lt;/b&gt;  of those foods , in animal diets .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://burks.bton.ac.uk/burks/pcinfo/progdocs/plbook/semantic.htm&quot;&gt;">
+				<TEXT>&lt;b&gt; Functions &lt;/b&gt;  with zero , one , and two operands are referred to as nullary , unary , and binary operations .</TEXT>
+				<ANNOTATOR id="A002160837SWJFPIAI7L7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12Y0F2EQR0IL2">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3TL9KTAM6G3Q9">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.network-theory.co.uk/docs/octave/octave_83.html&quot;&gt;">
+				<TEXT>To allow you to catch errors like this , Octave provides each &lt;b&gt; function  &lt;/b&gt; with an automatic variable called nargin .</TEXT>
+				<ANNOTATOR id="A002160837SWJFPIAI7L7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12Y0F2EQR0IL2">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3TL9KTAM6G3Q9">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://supportweb.cs.bham.ac.uk/docs/postgres/manual/triggers.html&quot;&gt;">
+				<TEXT>The purpose of including arguments in the trigger definition is to allow different triggers with similar requirements to call the same &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A002160837SWJFPIAI7L7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12Y0F2EQR0IL2">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3TL9KTAM6G3Q9">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://star.pst.qub.ac.uk/idl/AMOEBA.html&quot;&gt;">
+				<TEXT>Keywords &lt;b&gt; FUNCTION_ &lt;/b&gt; NAME Set this keyword equal to a string containing the name of the function to be minimized .</TEXT>
+				<ANNOTATOR id="A002160837SWJFPIAI7L7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12Y0F2EQR0IL2">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3TL9KTAM6G3Q9">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.howell1964.freeserve.co.uk/Acorn/Atom/atap/atap_20.htm&quot;&gt;">
+				<TEXT>The form of the instruction is : BGET FACTOR where FACTOR is the file 's handle returned by the FIN &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A2TI6FZW8DL9E8">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.acsedu.co.uk/Outlines/animalhusb3.asp&quot;&gt;">
+				<TEXT>Explain the &lt;b&gt; function  &lt;/b&gt; and source of the various nutritional components found in three different commercial livestock nutrient supplements .</TEXT>
+				<ANNOTATOR id="A2TI6FZW8DL9E8">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://mch3w.ch.man.ac.uk/theory/publications/MCDOUALLref.htm&quot;&gt;">
+				<TEXT>The resultant wave &lt;b&gt; functions &lt;/b&gt;  are clearly dominated by the covalent ( spin-coupled ) structures , with a negligible contribution from ionic structures .</TEXT>
+				<ANNOTATOR id="A2TI6FZW8DL9E8">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.acsedu.co.uk/Outlines/animalhusb3.asp&quot;&gt;">
+				<TEXT>List five minerals of importance in livestock nutrition , including their : *source foods *requirement levels *physiological &lt;b&gt; functions &lt;/b&gt;  *deficiency symptoms .</TEXT>
+				<ANNOTATOR id="A2TI6FZW8DL9E8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://supportweb.cs.bham.ac.uk/docs/postgres/manual/triggers.html&quot;&gt;">
+				<TEXT>INSERT DELETE UPDATE The next element of the command determines what event(s ) will trigger the &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://burks.bton.ac.uk/burks/pcinfo/progdocs/plbook/semantic.htm&quot;&gt;">
+				<TEXT>Denotational semantics tell what is computed by giving a mathematical object ( typically a &lt;b&gt; function  &lt;/b&gt; ) which is the meaning of the program .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Math term</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cs.bham.ac.uk/resources/ums/PythonDoc/lib/node56.html&quot;&gt;">
+				<TEXT>A high-level &lt;b&gt; function  &lt;/b&gt; can be used to extract the complete set of information from a source file .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJ5XS1V27H091">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A6X2LOXN4ZA9G">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.geog.leeds.ac.uk/papers/95-3/&quot;&gt;">
+				<TEXT>The AZP is not a parallel algorithm because of its local sequential search for improvements in the objective &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2QW3HSS2UUA3K">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3T566J721PU9J">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://mch3w.ch.man.ac.uk/theory/publications/MCDOUALLref.htm&quot;&gt;">
+				<TEXT>Bibliographic Information A simple scaling for combining multiconfigurational wave &lt;b&gt; functions &lt;/b&gt;  with density functionals .</TEXT>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2QW3HSS2UUA3K">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3T566J721PU9J">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://burks.bton.ac.uk/burks/pcinfo/progdocs/plbook/semantic.htm&quot;&gt;">
+				<TEXT>The signature of the algebra is a set of sorts and a set of &lt;b&gt; functions &lt;/b&gt;  taking arguments and returning values of different sorts .</TEXT>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2QW3HSS2UUA3K">
+					<SENSE_LABEL>sense_1,sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3T566J721PU9J">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.manchester.gov.uk/bestvalue/equality/race/scheme/guidance.htm&quot;&gt;">
+				<TEXT>This includes internal &lt;b&gt; functions &lt;/b&gt;  ( such as policy development ) as well as service delivery .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2LWDDDFPIB2IW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1,sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJ5XS1V27H091">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-gap.mcs.st-and.ac.uk/Manuals/pkg/guava2.7/htm/chap4.html&quot;&gt;">
+				<TEXT>Section 4.5 describes &lt;b&gt; functions &lt;/b&gt;  that work on domains ( see Chapter &quot; Domains and their Elements &quot; in the GAP Reference Manual ) .</TEXT>
+				<ANNOTATOR id="AVOF14300525D">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+					<COMMENT>The sentence means the purpose of a computer program or piece of computer equipment.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2LWDDDFPIB2IW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1TOIVL89WJPYP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cmmp.ucl.ac.uk/~drb/Thesis/Masterch2.html&quot;&gt;">
+				<TEXT>2.49 that the band energy can be written in terms of a one particle Green 's &lt;b&gt; function  &lt;/b&gt; , G i ,i .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2LWDDDFPIB2IW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2VE5IV9OD2SK1">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://burks.bton.ac.uk/burks/pcinfo/progdocs/plbook/semantic.htm&quot;&gt;">
+				<TEXT>The domain is often called a sort and the domain and the &lt;b&gt; function  &lt;/b&gt; sections constitute the signature of the algebra .</TEXT>
+				<ANNOTATOR id="A136RDQO8D9QGG">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1DY4DM16TBFPL">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A364KJDYEBAWC9">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u19/u1907_01.htm&quot;&gt;">
+				<TEXT>P hysiological &lt;b&gt; functions &lt;/b&gt;  of calcium Calcium plays a central role in a number of physiological processes that are essential for life .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJY6J33X1KJNP">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2LWDDDFPIB2IW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.howell1964.freeserve.co.uk/Acorn/Atom/atap/atap_20.htm&quot;&gt;">
+				<TEXT>The form of the statement is : SGET FACTOR , EXPRESSION where FACTOR is the file 's handle returned by the FIN &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A1RF7T0DE51BKN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1DTQSIIYIZL62">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-ermm.cbcu.cam.ac.uk/99000769h.htm&quot;&gt;">
+				<TEXT>Fourth , the prevention of damage to granulocytes , macrophages and lymphatic cells should preserve immune &lt;b&gt; functions &lt;/b&gt;  during chemotherapy .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1RF7T0DE51BKN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1X8JM3MNRPA87">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1DTQSIIYIZL62">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cs.bham.ac.uk/resources/ums/PythonDoc/lib/node56.html&quot;&gt;">
+				<TEXT>A more elaborate matching &lt;b&gt; function  &lt;/b&gt; could be used to overcome this limitation , but this is sufficient for the example .</TEXT>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1,sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1,sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1,sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://mch3w.ch.man.ac.uk/theory/publications/MCDOUALLref.htm&quot;&gt;">
+				<TEXT>By use of a localized orbital description any CASSCF wave &lt;b&gt; function  &lt;/b&gt; can be transformed into a classical valence bond expansion .</TEXT>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1AMZXQD22LXC4">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ACSKEB7JBPLXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1DTQSIIYIZL62">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1RF7T0DE51BKN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.network-theory.co.uk/docs/octave/octave_83.html&quot;&gt;">
+				<TEXT>This variable must be defined before the end of the &lt;b&gt; function  &lt;/b&gt; body in order for the function to return a value .</TEXT>
+				<ANNOTATOR id="A1RF7T0DE51BKN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1DTQSIIYIZL62">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cmmp.ucl.ac.uk/~drb/Thesis/Masterch2.html&quot;&gt;">
+				<TEXT>The recursion method is therefore an efficient Green 's &lt;b&gt; function  &lt;/b&gt; method for the density of states .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>In mathematics, a function is a relation between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output.</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-ermm.cbcu.cam.ac.uk/99000769h.htm&quot;&gt;">
+				<TEXT>Resistance &lt;b&gt; functions &lt;/b&gt;  Resistance to chemotherapeutic agents can be broadly divided into two classes .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://supportweb.cs.bham.ac.uk/docs/postgres/manual/triggers.html&quot;&gt;">
+				<TEXT>Properly written , this trigger &lt;b&gt; function  &lt;/b&gt; would be independent of the specific table it is triggering on .</TEXT>
+				<ANNOTATOR id="A3BXTZQSUGFRIO">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A364KJDYEBAWC9">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cs.bham.ac.uk/resources/ums/PythonDoc/lib/node56.html&quot;&gt;">
+				<TEXT>Most of the accessor &lt;b&gt; functions &lt;/b&gt;  are declared in SuiteInfoBase and do not need to be overriden by subclasses .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2UME0TSE7N41G">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AWYT0RI8P4YK0">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a part of a compute program, usually a task performed by the computer</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://bushmouth.doc.stu.mmu.ac.uk/help/nec_sx6/g1af28e/chap2.html&quot;&gt;">
+				<TEXT>- vector Uses the mathematical &lt;b&gt; functions &lt;/b&gt;  in vectorized version and fast scalar version .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1FQYUBCBNTQX7">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2CGULR0BMGYOR">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2UME0TSE7N41G">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>operations</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AWYT0RI8P4YK0">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a part of a compute program, usually a task performed by the computer</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/cm199899/cmselect/cmpubadm/570/57022.htm&quot;&gt;">
+				<TEXT>Given this provision it may be that the authorised person is not performing a &lt;b&gt; function  &lt;/b&gt; of a public nature in the required sense .</TEXT>
+				<ANNOTATOR id="A3BXTZQSUGFRIO">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.howell1964.freeserve.co.uk/Acorn/Atom/atap/atap_20.htm&quot;&gt;">
+				<TEXT>TOP First free byte T. This &lt;b&gt; function  &lt;/b&gt; returns the address of the first free byte after the end of a stored BASIC program .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2UME0TSE7N41G">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AWYT0RI8P4YK0">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a part of a compute program, usually a task performed by the computer</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cfs.dl.ac.uk/docs/gamess_manual/turtle/node3.html&quot;&gt;">
+				<TEXT>It is used to exclude configurations of incorrect symmetry from the ( symbolic ) wave &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2UME0TSE7N41G">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AWYT0RI8P4YK0">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a mathematical equation</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.network-theory.co.uk/docs/octave/octave_83.html&quot;&gt;">
+				<TEXT>See section 7.1 Global Variables , for information about how to access global variables inside a &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cs.bham.ac.uk/resources/ums/PythonDoc/lib/node56.html&quot;&gt;">
+				<TEXT>Two &lt;b&gt; functions &lt;/b&gt;  and a set of classes are developed which provide programmatic access to high level function and class definitions provided by a module .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://mch3w.ch.man.ac.uk/theory/publications/MCDOUALLref.htm&quot;&gt;">
+				<TEXT>We have also investigated the role of improving the valence correlation through extension of the active space used in the CASSCF ref. wave &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A338WDQE1DC2LF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ALGL826MO4BKZ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30WJWW131W266">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://star.pst.qub.ac.uk/idl/AMOEBA.html&quot;&gt;">
+				<TEXT>NCALLS Set this keyword equal to a named variable that will contain a count of the number of times the &lt;b&gt; function  &lt;/b&gt; was evaluated .</TEXT>
+				<ANNOTATOR id="A338WDQE1DC2LF">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1FQYUBCBNTQX7">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ALGL826MO4BKZ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cs.bham.ac.uk/resources/ums/PythonDoc/lib/node56.html&quot;&gt;">
+				<TEXT>A module consists of a single file_input node , and class and &lt;b&gt; function  &lt;/b&gt; definitions each contain exactly one suite node .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ALGL826MO4BKZ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A338WDQE1DC2LF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://supportweb.cs.bham.ac.uk/docs/postgres/manual/triggers.html&quot;&gt;">
+				<TEXT>The trigger &lt;b&gt; function  &lt;/b&gt; must be declared as a function taking no arguments and returning type trigger .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ALGL826MO4BKZ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A338WDQE1DC2LF">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cfs.dl.ac.uk/docs/gamess_manual/turtle/node3.html&quot;&gt;">
+				<TEXT>Any of the strings BD , YK , or GEN , cause branching diagram &lt;b&gt; functions &lt;/b&gt;  to be defined .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A27R1OWGQUX5ZM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.acsedu.co.uk/Outlines/animalhusb3.asp&quot;&gt;">
+				<TEXT>Explain the &lt;b&gt; function  &lt;/b&gt; of the major nutritional groups , including proteins , vitamins , minerals and trace elements in animal diets .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A27R1OWGQUX5ZM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.howell1964.freeserve.co.uk/Acorn/Atom/atap/atap_20.htm&quot;&gt;">
+				<TEXT>The form of the instruction is : PUT FACTOR , EXPRESSION where FACTOR is the file 's handle returned by the FOUT &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A27R1OWGQUX5ZM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A21TECY6SM7BNV">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u18/u1804_01.htm&quot;&gt;">
+				<TEXT>Fluid overload , malnutrition , anaemia , impaired humoral and cellular immune &lt;b&gt; function  &lt;/b&gt; and decreased surfactant production predispose patients to atelectasis and infection .</TEXT>
+				<ANNOTATOR id="A27R1OWGQUX5ZM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2B3EQ7U5OBODP">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/ld200203/ldhansrd/vo030121/text/30121-06.htm&quot;&gt;">
+				<TEXT>Secondly , an appointed Chamber can fulfil &lt;b&gt; functions &lt;/b&gt;  that the elected Chamber has neither the political will nor the time to carry out .</TEXT>
+				<ANNOTATOR id="A30Z11C993ISKW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publications.parliament.uk/pa/cm199899/cmselect/cmpubadm/570/57022.htm&quot;&gt;">
+				<TEXT>Has the case for allowing their administrative &lt;b&gt; functions &lt;/b&gt;  to be open been considered ?</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30Z11C993ISKW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-gap.mcs.st-and.ac.uk/Manuals/pkg/guava2.7/htm/chap4.html&quot;&gt;">
+				<TEXT>The &lt;b&gt; function  &lt;/b&gt; Display gives a more detailed description , showing the construction history of the code .</TEXT>
+				<ANNOTATOR id="A364KJDYEBAWC9">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2Z53LAM62CQVU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A4CIBZHR8AG24">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-ermm.cbcu.cam.ac.uk/99000769h.htm&quot;&gt;">
+				<TEXT>The mechanisms in this class provide protection against particular classes of agents by expressing specific drug-resistance &lt;b&gt; functions &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30Z11C993ISKW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FNOKJNY7E5WP">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cfs.dl.ac.uk/docs/gamess_manual/turtle/node3.html&quot;&gt;">
+				<TEXT>( See also the CONF-directive , 2.2.6. ) Example SPIN RUMER Rumer &lt;b&gt; functions &lt;/b&gt;  will be used .</TEXT>
+				<ANNOTATOR id="A183HI4ZV77GJU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.acsedu.co.uk/Outlines/animalhusb3.asp&quot;&gt;">
+				<TEXT>List five trace elements of importance in livestock nutrition , and including their : *source foods *requirement levels *physiological &lt;b&gt; functions &lt;/b&gt;  *deficiency symptoms .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AMAAE4PQGWD99">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A183HI4ZV77GJU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9IGTAK087DB9">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://burks.bton.ac.uk/burks/pcinfo/progdocs/plbook/semantic.htm&quot;&gt;">
+				<TEXT>The valuation &lt;b&gt; functions &lt;/b&gt;  map the syntactic constructs of the language to the semantic algebra .</TEXT>
+				<ANNOTATOR id="A183HI4ZV77GJU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-gap.mcs.st-and.ac.uk/Manuals/pkg/guava2.7/htm/chap4.html&quot;&gt;">
+				<TEXT>Otherwise , the &lt;b&gt; function  &lt;/b&gt; C.operations.CoveringRadius is executed , unless the redundancy of C is too large .</TEXT>
+				<ANNOTATOR id="A1VW9W0DWXCPYE">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1UU9S5FCGQCIY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2YGVQGMU5AQYY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A183HI4ZV77GJU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A136RDQO8D9QGG">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1X8JM3MNRPA87">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.geog.leeds.ac.uk/papers/95-3/&quot;&gt;">
+				<TEXT>This combinatorial complexity and hardness of the optimisation task also interacts with the nature of the &lt;b&gt; function  &lt;/b&gt; being optimised .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AS54SRIOATONH">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3T566J721PU9J">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://bushmouth.doc.stu.mmu.ac.uk/help/nec_sx6/g1af28e/chap2.html&quot;&gt;">
+				<TEXT>- setmain Sets the program exception mask in the prologue and epilogue of the main &lt;b&gt; function  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3T566J721PU9J">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AS54SRIOATONH">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cfs.dl.ac.uk/docs/gamess_manual/turtle/node3.html&quot;&gt;">
+				<TEXT>For the third configuration only the second branching diagram &lt;b&gt; function  &lt;/b&gt; is defined .</TEXT>
+				<ANNOTATOR id="A3T566J721PU9J">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AS54SRIOATONH">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://star.pst.qub.ac.uk/idl/AMOEBA.html&quot;&gt;">
+				<TEXT>Results are returned with the same precision ( single- or double-precision floating-point ) as is returned by the user-supplied &lt;b&gt; function  &lt;/b&gt; to be minimized .</TEXT>
+				<ANNOTATOR id="A3T566J721PU9J">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ADT7EIMKXMF6B">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AS54SRIOATONH">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a mathematical equation</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://supportweb.cs.bham.ac.uk/docs/postgres/manual/triggers.html&quot;&gt;">
+				<TEXT>Server-side &lt;b&gt; functions &lt;/b&gt;  can be written in SQL , C , or any defined procedural language .</TEXT>
+				<ANNOTATOR id="A2S5B9FEIJIGGB">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VS2PFZRWWPO3">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1GYXHW4YCOJ0H">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>A mathematical expression</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2FCF13HE8EDCJ">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://bushmouth.doc.stu.mmu.ac.uk/help/nec_sx6/g1af28e/chap2.html&quot;&gt;">
+				<TEXT>Performance Measurement Options Options to control performance measurement &lt;b&gt; functions &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A2S5B9FEIJIGGB">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1GYXHW4YCOJ0H">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VS2PFZRWWPO3">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www-gap.mcs.st-and.ac.uk/Manuals/pkg/guava2.7/htm/chap4.html&quot;&gt;">
+				<TEXT>4.6-2 String String ( C ) ( &lt;b&gt; function  &lt;/b&gt; ) String returns information about C in a string .</TEXT>
+				<ANNOTATOR id="A2S5B9FEIJIGGB">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1GYXHW4YCOJ0H">
+					<SENSE_LABEL>sense_2,sense_0</SENSE_LABEL>
+					<COMMENT>Mathematical expression</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VS2PFZRWWPO3">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nda.ox.ac.uk/wfsa/html/u19/u1907_01.htm&quot;&gt;">
+				<TEXT>The maintenance of a constant free ionised calcium concentration is biologically important for the &lt;b&gt; function  &lt;/b&gt; of excitable tissues .</TEXT>
+				<ANNOTATOR id="A2S5B9FEIJIGGB">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1GYXHW4YCOJ0H">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VS2PFZRWWPO3">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+		</SENTENCES>
+	</CONTENT>
+</root>

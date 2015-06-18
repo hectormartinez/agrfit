@@ -1,0 +1,4533 @@
+1	2	NUM		{}
+2	days	NOUN	Measure_duration	{"Count": "1"}
+3	til	ADP		{}
+4	#houseofmirrors	X		{}
+5	#houseofmirrors	X		{}
+6	#houseofmirrors	X		{}
+7	#houseofmirrors	X		{}
+8	#houseofmirrors	X		{}
+9	#houseofmirrors	X		{}
+10	#houseofmirrors	X		{}
+11	#houseofmirrors	X		{}
+12	!	.		{}
+1	But	CONJ		{}
+2	in	ADP		{}
+3	any	DET		{}
+4	case	NOUN	Instance	{"Instance": "4", "Instance_Prop": "3"}
+5	I	PRON		{}
+6	suppose	VERB	Opinion	{"Cognizer": "5"}
+7	you	PRON		{}
+8	will	VERB		{}
+9	not	ADV		{}
+10	let	VERB	Grant_permission	{"Means": "10", "Grantee": "11", "Grantor": "7", "Time": "15"}
+11	it	PRON		{}
+12	away	ADV		{}
+13	for	ADP		{}
+14	some	DET		{}
+15	days	NOUN	Measure_duration	{"Count": "14", "Agent": "7", "Unit": "15"}
+16	?	.		{}
+1	JV	NOUN		{}
+2	soccer	NOUN		{}
+3	leads	VERB	Cotheme	{}
+4	NUMBER	ADJ		{}
+5	after	ADP		{}
+6	Benitez	NOUN		{}
+7	scores	VERB	Getting	{"Beneficiary": "1", "Means": "7", "Recipient": "1", "Time": "12"}
+8	again	ADV		{}
+9	,	.		{}
+10	less	ADJ		{}
+11	than	ADP		{}
+12	NUMBER	NUM		{}
+13	mins	NOUN		{}
+14	to	PRT		{}
+15	play	VERB	Competition	{"Participant_1": "1", "Score": "4", "Competition": "2"}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Yay	X		{}
+5	for	ADP		{}
+6	video	NOUN		{}
+7	schedules	NOUN		{}
+8	!	.		{}
+9	New	ADJ	Age	{}
+10	music	NOUN	Performing_arts	{"Medium": "11"}
+11	video	NOUN		{}
+12	again	ADV		{}
+13	today	NOUN	Temporal_collocation	{"Trajector_entity": "11"}
+14	.	.		{}
+15	URL	X		{}
+16	#MundayMonday	X		{}
+1	Soulja	NOUN		{}
+2	Boy	NOUN		{}
+3	|	.		{}
+4	TheDeAndreWay	NOUN		{}
+5	.	.		{}
+6	com	X		{}
+7	-	.		{}
+8	The	DET		{}
+9	DeAndre	NOUN		{}
+10	Way	NOUN		{}
+11	in	ADP		{}
+12	stores	NOUN	Store	{}
+13	Nov	NOUN		{}
+14	2	NUM		{}
+15	,	.		{}
+16	NUMBER	NUM		{}
+17	souljaboytellem-iga.ning.com	X		{}
+18	via	ADP		{}
+19	@USER	X		{}
+20	!	.		{}
+21	#Blessed	X		{}
+1	@USER	X		{}
+2	what	PRON		{}
+3	time	NOUN	Location_in_time	{}
+4	is	VERB	Performers_and_roles	{}
+5	it	PRON		{}
+6	over	ADP		{}
+7	there	ADV		{}
+8	?	.		{}
+1	@USER	X		{}
+2	awwwwwwww	X		{}
+3	go	VERB	Motion	{"Theme": "4"}
+4	son	NOUN	Kinship	{}
+5	momma	NOUN		{}
+6	loves	VERB	Experiencer_focus	{"Experiencer": "5", "Time": "10"}
+7	you	PRON		{}
+8	since	ADP		{}
+9	the	DET		{}
+10	day	NOUN	Calendric_unit	{"Salient_event": "13"}
+11	you	PRON		{}
+12	were	VERB		{}
+13	born	VERB		{}
+14	:)	X		{}
+15	#MOMMATWEET	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	#TEAMPOSITIVITY	X		{}
+5	ALL	DET		{}
+6	DAY	NOUN	Timespan	{"Duration": "5"}
+7	!!!!	.		{}
+8	RETWEET	VERB		{}
+9	!!!	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Funniest	ADJ	Stimulus_focus	{"Stimulus": "5", "Experiencer": "6"}
+5	thing	NOUN		{}
+6	I	PRON		{}
+7	heard	VERB	Hear	{"Message": "5", "Hearer": "6", "Speaker": "11"}
+8	this	DET		{}
+9	week	NOUN	Calendric_unit	{}
+10	.	.		{}
+11	Wingo	NOUN		{}
+12	tellin	VERB		{}
+13	me	PRON		{}
+14	and	CONJ		{}
+15	wood	NOUN		{}
+16	.	.		{}
+17	"	.		{}
+18	I	PRON		{}
+19	'm	VERB		{}
+20	scared	VERB		{}
+21	"	.		{}
+22	#pow#pow#pow@Cowboy_Wingo	X		{}
+1	@USER	X		{}
+2	it	PRON		{}
+3	came	VERB	Arriving	{"Theme": "2", "Goal": "6", "Time": "7"}
+4	on	ADP		{}
+5	my	PRON		{}
+6	pandora	NOUN		{}
+7	today	NOUN	Temporal_collocation	{}
+8	tho	ADV		{}
+9	loser	NOUN		{}
+10	so	ADP		{}
+11	I	PRON		{}
+12	tweeted	VERB	Make_noise	{"Sound_source": "11"}
+13	it	PRON		{}
+14	,	.		{}
+15	nobody	NOUN		{}
+16	stuntin	VERB		{}
+17	yo	PRON		{}
+18	tweet	NOUN	Sounds	{}
+1	RT	X	{}
+2	@USER	X	{}
+3	:	.	{}
+4	@USER	X	{}
+5	*kisses	VERB	{}
+6	your	PRON	{}
+7	ass**sneezes	NOUN	{}
+8	after*	ADV	{}
+9	Lol	X	{}
+1	today	NOUN	Calendric_unit	{}
+2	seems	VERB	Appearance	{"Appraisal": "6", "Phenomenon": "1"}
+3	like	ADP		{}
+4	a	DET		{}
+5	good	ADJ		{}
+6	day	NOUN		{}
+7	to	PRT		{}
+8	chill	VERB		{}
+9	:)	X		{}
+1	I	PRON		{}
+2	called	VERB	Contacting	{"Communicator": "1", "Addressee": "4"}
+3	my	PRON		{}
+4	sister	NOUN	Kinship	{"Ego": "1"}
+5	and	CONJ		{}
+6	she	PRON		{}
+7	asked	VERB	Questioning	{"Message": "10", "Speaker": "6"}
+8	why	ADV		{}
+9	i	PRON		{}
+10	want	VERB	Desiring	{"Experiencer": "9", "Event": "12", "Time": "15"}
+11	a	DET		{}
+12	mcdonalds	NOUN		{}
+13	at	ADP		{}
+14	this	DET		{}
+15	time	NOUN	Event_instance	{}
+16	of	ADP		{}
+17	nigh	NOUN		{}
+18	t.i	NOUN		{}
+19	said	VERB	Communication	{"Topic": "22", "Communicator": "18"}
+20	'	.		{}
+21	blame	VERB	Judgment	{"Evaluee": "22"}
+22	rose	NOUN		{}
+23	'	.		{}
+24	she	PRON		{}
+25	said	VERB	Communication	{"Communicator": "24", "Message": "29"}
+26	'	.		{}
+27	who	PRON		{}
+28	's	VERB		{}
+29	rose	NOUN		{}
+30	?'	.		{}
+31	lmao	X		{}
+1	@USER	X		{}
+2	Gosh	X		{}
+3	!	.		{}
+4	How	ADV		{}
+5	long	ADJ	Duration_attribute	{"Degree": "4"}
+6	you	PRON		{}
+7	handle	VERB	Resolve_problem	{"Duration": "5", "Problem": "9", "Agent": "6"}
+8	this	DET		{}
+9	life	NOUN		{}
+10	??	.		{}
+1	@USER	X		{}
+2	thankk	VERB		{}
+3	yhuu	PRON		{}
+4	#monsterlove	X		{}
+5	u	PRON		{}
+6	just	ADV		{}
+7	made	VERB	Causation	{"Actor": "5", "Time": "6"}
+8	my	PRON		{}
+9	day	NOUN		{}
+10	:D	X		{}
+1	NUMBER	NUM		{}
+2	first	ADJ	Ordinal_numbers	{"Item": "5"}
+3	time	NOUN	Event_instance	{"Instance": "3", "Instance_Prop": "2", "Event": "5"}
+4	home	NOUN	Buildings	{"Building": "4"}
+5	buyer	NOUN	Commerce_scenario	{"Buyer": "5", "Goods": "4"}
+6	incentives	NOUN		{}
+7	in	ADP		{}
+8	Temecula	NOUN		{}
+9	CA	NOUN		{}
+10	:	.		{}
+11	NUMBER	NUM		{}
+12	First	ADJ	Ordinal_numbers	{"Item": "15"}
+13	Time	NOUN	Event_instance	{"Instance": "13", "Instance_Prop": "12", "Event": "15"}
+14	Home	NOUN		{}
+15	Buyer	NOUN		{}
+16	Incentives	NOUN		{}
+17	in	ADP		{}
+18	Temecula	NOUN		{}
+19	CA	NOUN		{}
+20	Incen	NOUN		{}
+21	...	.		{}
+22	URL	X		{}
+1	Oh	X		{}
+2	jeez	X		{}
+3	,	.		{}
+4	you	PRON		{}
+5	hear	VERB	Hear	{"Topic": "12", "Hearer": "4"}
+6	about	ADP		{}
+7	Colt	NOUN		{}
+8	Brennan	NOUN		{}
+9	's	PRT		{}
+10	serious	ADJ	Importance	{}
+11	car	NOUN	Vehicle	{"Possessor": "8", "Vehicle": "11"}
+12	accident	NOUN	Coincidence	{"State_of_affairs": "12"}
+13	?	.		{}
+14	I	PRON		{}
+15	remember	VERB	Remembering_experience	{"Cognizer": "14", "Experience": "16", "Time": "21"}
+16	being	VERB		{}
+17	in	ADP		{}
+18	Hawaii	NOUN		{}
+19	a	DET		{}
+20	few	ADJ	Quantity	{"Quantity": "21"}
+21	years	NOUN	Calendric_unit	{"Count": "20", "Salient_event": "26", "Unit": "21"}
+22	back	ADV		{}
+23	when	ADV		{}
+24	Hawaii	NOUN		{}
+25	's	PRT		{}
+26	coach	NOUN		{}
+27	nearly	ADV		{}
+28	died	VERB	Death	{"Protagonist": "26", "Place": "18", "Degree": "27", "Time": "21"}
+29	too	ADV		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	#ZodiacFacts	X		{}
+5	As	ADP		{}
+6	an	DET		{}
+7	#Aries	X		{}
+8	romance	NOUN	Personal_relationship	{}
+9	is	VERB		{}
+10	n't	ADV		{}
+11	about	ADP		{}
+12	what	PRON		{}
+13	you	PRON		{}
+14	're	VERB		{}
+15	after	ADP		{}
+16	--	.		{}
+17	it	PRON		{}
+18	's	VERB		{}
+19	about	ADP		{}
+20	taking	VERB	Taking	{"Theme": "21"}
+21	chances	NOUN	Opportunity	{"Opportunity": "21"}
+22	,	.		{}
+23	exploring	VERB	Scrutiny	{}
+24	and	CONJ		{}
+25	keeping	VERB	Activity_ongoing	{}
+26	an	DET		{}
+27	...	.		{}
+1	Kk	X		{}
+2	its	PRON		{}
+3	NUMBER	NUM		{}
+4	friday	NOUN		{}
+5	nyt	NOUN		{}
+6	:D	X		{}
+7	really	ADV		{}
+8	tired	ADJ	Biological_urge	{"State": "8", "Degree": "7"}
+9	so	ADP		{}
+10	imma	PRON		{}
+11	go	VERB		{}
+12	to	PRT		{}
+13	sleep	VERB	Sleep	{"Sleeper": "10"}
+14	:)	X		{}
+15	good	ADJ	Desirability	{"Evaluee": "16"}
+16	nyt	NOUN		{}
+17	x	X		{}
+18	god	NOUN		{}
+19	bles	VERB		{}
+20	xxxxx	X		{}
+1	i	PRON		{}
+2	swear	VERB	Commitment	{"Topic": "9", "Speaker": "1"}
+3	when	ADV		{}
+4	you	PRON		{}
+5	miss	VERB	Hit_or_miss	{"Agent": "4", "Iterations": "6"}
+6	NUMBER	NUM		{}
+7	day	NOUN	Calendric_unit	{"Count": "6", "Unit": "7"}
+8	of	ADP		{}
+9	school	NOUN	Locale_by_use	{"Locale": "9"}
+10	,	.		{}
+11	feels	VERB	Opinion	{"Opinion": "14", "Cognizer": "13"}
+12	like	ADP		{}
+13	you	PRON		{}
+14	missed	VERB	Hit_or_miss	{"Target_location": "9", "Agent": "13"}
+15	a	DET		{}
+16	whole	ADJ	Ranked_expectation	{"Entity": "17"}
+17	year	NOUN	Calendric_unit	{"Count": "15", "Unit": "17"}
+18	!	.		{}
+19	dont	VERB		{}
+20	even	ADV		{}
+21	have	VERB	Possession	{"Possession": "22"}
+22	homwork	NOUN		{}
+23	today	NOUN	Temporal_collocation	{"Trajector_event": "21", "Trajector_entity": "22", "Landmark_period": "24"}
+24	,	.		{}
+25	suprising	ADJ		{}
+26	?	.		{}
+1	...	.		{}
+2	asked	VERB	Questioning	{"Topic": "5", "Addressee": "3"}
+3	me	PRON		{}
+4	a	DET		{}
+5	question	NOUN	Questioning	{"Topic": "5", "Addressee": "3"}
+6	for	ADP		{}
+7	once	ADV		{}
+8	,	.		{}
+9	but	CONJ		{}
+10	no	X		{}
+11	!	.		{}
+12	You	PRON		{}
+13	ask	VERB	Questioning	{"Topic": "17", "Addressee": "14", "Speaker": "12"}
+14	me	PRON		{}
+15	about	ADP		{}
+16	fucking	ADV		{}
+17	donuts	NOUN		{}
+18	you	PRON		{}
+19	donut	NOUN		{}
+20	...	.		{}
+21	have	VERB	Have_associated	{"Entity": "24"}
+22	a	DET		{}
+23	nice	ADJ		{}
+24	day	NOUN		{}
+25	:P	X		{}
+1	Bday	NOUN		{}
+2	party	NOUN	Social_event	{"Style": "1", "Honoree": "4"}
+3	for	ADP		{}
+4	@USER	X		{}
+5	then	ADP		{}
+6	hp6	NOUN		{}
+7	with	ADP		{}
+8	my	PRON		{}
+9	girls	NOUN	People	{"Person": "9"}
+10	to	PRT		{}
+11	get	VERB	Becoming	{"Reason": "14"}
+12	ready	ADJ	Activity_ready_state	{"Salient_entity": "14"}
+13	for	ADP		{}
+14	Sunday	NOUN		{}
+15	!!	.		{}
+1	@USER	X	{}
+2	dank	X	{}
+3	je	ADP	{}
+4	Gert	NOUN	{}
+5	Jan	NOUN	{}
+1	Jopulse	NOUN		{}
+2	:	.		{}
+3	Get	VERB	Getting	{"Theme": "6"}
+4	This	DET		{}
+5	Little	ADJ	Size	{"Entity": "6"}
+6	Secret	NOUN		{}
+7	When	ADV		{}
+8	to	PRT		{}
+9	Avail	VERB		{}
+10	For	ADP		{}
+11	Mortgage	NOUN		{}
+12	URL	X		{}
+1	Happy	ADJ	Emotion_directed	{"Stimulus": "2"}
+2	Monday	NOUN		{}
+3	!	.		{}
+1	I	PRON		{}
+2	've	VERB		{}
+3	never	ADV		{}
+4	found	VERB	Becoming_aware	{"Cognizer": "1", "Phenomenon": "7", "Purpose": "9"}
+5	a	DET		{}
+6	happy	ADJ	Emotion_directed	{"Stimulus": "7"}
+7	way	NOUN	Means	{"Descriptor": "6", "Purpose": "9", "Agent": "1"}
+8	to	PRT		{}
+9	preserve	VERB	Preserving	{"Undergoer": "10", "Agent": "1", "Means": "7"}
+10	it	PRON		{}
+11	but	CONJ		{}
+12	it	PRON		{}
+13	's	VERB		{}
+14	usually	ADV		{}
+15	affordable	ADJ	Expensiveness	{"Goods": "12", "Time": "19"}
+16	most	ADJ		{}
+17	of	ADP		{}
+18	the	DET		{}
+19	year	NOUN	Calendric_unit	{"Unit": "19"}
+20	.	.		{}
+21	We	PRON		{}
+22	eat	VERB	Ingestion	{"Manner": "27", "Degree": "24", "Ingestor": "21"}
+23	a	DET		{}
+24	lot	NOUN		{}
+25	2	ADV		{}
+26	,	.		{}
+27	grilled	ADJ		{}
+28	saute	ADJ		{}
+29	bake	ADJ		{}
+30	or	CONJ		{}
+31	fried	ADJ		{}
+1	Do	VERB		{}
+2	n't	ADV		{}
+3	Have	VERB	Have_associated	{"Entity": "4"}
+4	Time	NOUN	Measure_duration	{}
+5	To	PRT		{}
+6	Stop	VERB	Halt	{"Place": "7"}
+7	In	PRT		{}
+8	???	.		{}
+9	Then	ADV		{}
+10	,	.		{}
+11	Check	VERB	Inspecting	{"Ground": "19"}
+12	Out	PRT		{}
+13	Our	PRON		{}
+14	Quick	ADJ	Speed	{"Entity": "19"}
+15	Full	ADJ	Completeness	{"Whole": "19"}
+16	Service	ADJ		{}
+17	Drive	NOUN		{}
+18	Thru	NOUN		{}
+19	Window	NOUN	Connecting_architecture	{"Descriptor": "17", "Part": "19"}
+20	:)	X		{}
+1	@USER	X		{}
+2	what	PRON		{}
+3	's	VERB		{}
+4	the	DET		{}
+5	look	NOUN	Facial_expression	{}
+6	for	ADP		{}
+7	tonight	NOUN	Calendric_unit	{"Relative_time": "7"}
+8	?	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	pet	NOUN		{}
+5	peeve	NOUN		{}
+6	when	ADV		{}
+7	niggas	NOUN		{}
+8	do	VERB	Intentionally_act	{"Manner": "12", "Agent": "7", "Time": "6"}
+9	n't	ADV		{}
+10	tag	VERB		{}
+11	albums	NOUN		{}
+12	right	ADV		{}
+13	...	.		{}
+14	lowercase	ADJ		{}
+15	track	NOUN	Roadways	{}
+16	names	NOUN	Being_named	{"Speaker": "7", "Entity": "15"}
+17	and	CONJ		{}
+18	shit	NOUN		{}
+1	@USER	X		{}
+2	making	VERB	Cooking_creation	{"Produced_food": "3"}
+3	something	NOUN		{}
+4	to	PRT		{}
+5	eat	VERB	Ingestion	{"Ingestibles": "3", "Purpose": "5"}
+6	,	.		{}
+7	aint	VERB		{}
+8	ate	VERB	Ingestion	{"Time": "10"}
+9	all	DET		{}
+10	day	NOUN	Calendric_unit	{"Relative_time": "10", "Salient_event": "8"}
+1	So	X		{}
+2	im	PRON		{}
+3	in	ADP		{}
+4	tha	DET		{}
+5	chi	NOUN		{}
+6	whts	PRON		{}
+7	popping	VERB	Ingest_substance	{"Time": "8"}
+8	tonight	NOUN	Calendric_unit	{"Relative_time": "8", "Salient_event": "7"}
+9	?	.		{}
+1	RT	X	{}
+2	@USER	X	{}
+3	:	.	{}
+4	Fuck	X	{}
+5	yeah	X	{}
+6	its	PRON	{}
+7	FRIDAY	NOUN	{}
+8	!!	.	{}
+1	A	DET		{}
+2	wet	ADJ	Being_wet	{"Item": "5"}
+3	and	CONJ		{}
+4	cold	ADJ	Ambient_temperature	{"Attribute": "4", "Time": "5"}
+5	Monday	NOUN		{}
+6	....:	.		{}
+7	High	ADJ	Position_on_a_scale	{"Variable": "8"}
+8	temperatures	NOUN	Ambient_temperature	{"Time": "13"}
+9	will	VERB		{}
+10	be	VERB		{}
+11	reached	VERB	Change_position_on_a_scale	{"Item": "8", "Final_state": "7", "Time": "13"}
+12	this	DET		{}
+13	morning	NOUN	Calendric_unit	{"Relative_time": "13", "Salient_event": "8"}
+14	,	.		{}
+15	in	ADP		{}
+16	the	DET		{}
+17	low	ADJ	Position_on_a_scale	{"Item": "8"}
+18	to	PRT		{}
+19	mid	ADJ	Temporal_subregion	{}
+20	NUMBER	NUM		{}
+21	,	.		{}
+22	before	ADP		{}
+23	cooling	VERB	Inchoative_change_of_temperature	{"Initial_temperature": "7", "Item": "5"}
+24	...	.		{}
+25	URL	X		{}
+1	Goin	VERB		{}
+2	to	PRT		{}
+3	my	PRON		{}
+4	BEST	ADJ		{}
+5	friends	NOUN	Personal_relationship	{"Partner_2": "5"}
+6	birthday	NOUN	Commemorative	{"Dedicated_type": "6", "Dedicated_entity": "7", "Honored_entity": "5"}
+7	party	NOUN	Social_event	{"Occasion": "6", "Honoree": "5"}
+8	NUMBER	NOUN	Quantity	{}
+9	.	.		{}
+10	As	ADP		{}
+11	u	PRON		{}
+12	can	VERB	Capability	{"Entity": "11"}
+13	see	VERB	Perception_experience	{"Perceiver_passive": "12"}
+14	her	PRON		{}
+15	name	NOUN	Being_named	{"Name": "17", "Entity": "14"}
+16	is	VERB	Performers_and_roles	{}
+17	taylor	NOUN		{}
+18	and	CONJ		{}
+19	i	PRON		{}
+20	love	VERB	Experiencer_focus	{"Content": "21", "Manner": "22", "Experiencer": "19"}
+21	her	PRON		{}
+22	like	ADP		{}
+23	a	DET		{}
+24	sister	NOUN	Kinship	{"Ego": "19", "Alter": "21"}
+25	!	.		{}
+26	~HAPPY	ADJ		{}
+27	B-DAY	NOUN		{}
+28	TAYLOR	NOUN		{}
+29	!!!	.		{}
+30	LUVZ	VERB		{}
+31	YA~	PRON		{}
+1	Hey	X		{}
+2	Pouliot	NOUN		{}
+3	,	.		{}
+4	remember	VERB	Remembering_experience	{"Experience": "6"}
+5	that	DET		{}
+6	time	NOUN	Event_instance	{"Instance_Prop": "5", "Event": "13"}
+7	when	ADV		{}
+8	Sid	NOUN		{}
+9	and	CONJ		{}
+10	Jack	NOUN		{}
+11	were	VERB		{}
+12	both	DET		{}
+13	drafted	VERB	Text_creation	{"Text": "13", "Time": "15"}
+14	before	ADP		{}
+15	you	PRON		{}
+16	and	CONJ		{}
+17	you	PRON		{}
+18	stared	VERB	Performers_and_roles	{"Performer": "17"}
+19	at	ADP		{}
+20	your	PRON		{}
+21	acne	NOUN	Body_mark	{"Body_mark": "21", "Possessor": "17"}
+22	?	.		{}
+23	good	ADJ	Desirability	{"Evaluee": "24"}
+24	times	NOUN	Timespan	{"Duration": "25"}
+25	.	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	We	PRON		{}
+5	live	VERB	Residence	{"Resident": "4", "Manner": "7"}
+6	life	NOUN		{}
+7	like	ADP		{}
+8	caterpillars	NOUN		{}
+9	awaiting	VERB	Expectation	{"Cognizer": "4", "Phenomenon": "16"}
+10	for	ADP		{}
+11	that	DET		{}
+12	one	NUM		{}
+13	day	NOUN	Calendric_unit	{"Count": "12", "Salient_event": "16", "Unit": "13"}
+14	where	ADV		{}
+15	we	PRON		{}
+16	become	VERB		{}
+17	butterflies	NOUN		{}
+18	with	ADP		{}
+19	endless	ADJ		{}
+20	opportunities	NOUN		{}
+1	Amber	NOUN		{}
+2	Le	NOUN		{}
+3	Bon	NOUN		{}
+4	is	VERB	Performers_and_roles	{"Type": "6", "Performer": "1", "Place": "13", "Time": "11"}
+5	to	PRT		{}
+6	walk	VERB	Self_motion	{"Place": "13", "Self_mover": "1", "Time": "11"}
+7	in	ADP		{}
+8	Giles	NOUN		{}
+9	Deacon	NOUN		{}
+10	's	PRT		{}
+11	Monday	NOUN		{}
+12	LFW	NOUN		{}
+13	show	NOUN		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	That	DET		{}
+5	time	NOUN	Timespan	{"Descriptor": "4"}
+6	again	ADV		{}
+7	!	.		{}
+8	#FreebieFriday	X		{}
+9	Be	VERB		{}
+10	the	DET		{}
+11	NUMBER	ADJ		{}
+12	RT	X		{}
+13	&	CONJ		{}
+14	get	VERB		{}
+15	your	PRON		{}
+16	hands	NOUN	Observable_body_parts	{"Body_part": "16"}
+17	on	ADP		{}
+18	a	DET		{}
+19	free	ADJ	Expensiveness	{"Goods": "25"}
+20	travel	NOUN	Travel	{}
+21	size	NOUN		{}
+22	pronto	NOUN		{}
+23	invisible	ADJ		{}
+24	dry	ADJ	Being_dry	{"Item": "25"}
+25	shampoo	NOUN		{}
+26	!	.		{}
+1	I	PRON		{}
+2	kept	VERB	Activity_ongoing	{"Agent": "1", "Activity": "3"}
+3	telling	VERB	Telling	{"Message": "6", "Addressee": "4", "Speaker": "1", "Means": "3"}
+4	niggers	NOUN		{}
+5	it'd	PRON		{}
+6	happen	VERB	Eventive_affecting	{"Entity": "5"}
+7	.	.		{}
+8	Come	VERB	Arriving	{}
+9	Thursday	NOUN		{}
+10	im	PRON		{}
+11	inna	ADP		{}
+12	boardroom	NOUN		{}
+13	full	ADJ	Fullness	{"Container": "12", "Contents": "15", "Time": "9"}
+14	of	ADP		{}
+15	niggers	NOUN		{}
+16	NUMBER	NOUN	Quantity	{"Mass": "18", "Quantity": "16"}
+17	my	PRON		{}
+18	age	NOUN	Age	{"Attribute": "18", "Entity": "15", "Degree": "16", "Time": "9"}
+19	.	.		{}
+20	.	.		{}
+21	.	.		{}
+22	at	ADP		{}
+23	the	DET		{}
+24	tender	ADJ		{}
+25	age	NOUN	Age	{"Attribute": "25", "Age": "27", "Entity": "10", "Degree": "24", "Time": "9"}
+26	of	ADP		{}
+27	NUMBER	NUM		{}
+28	!!	.		{}
+29	Im	PRON		{}
+30	pleased	ADJ	Emotion_directed	{"Experiencer": "29"}
+31	.	.		{}
+1	@USER	X		{}
+2	So	X		{}
+3	,	.		{}
+4	when	ADV		{}
+5	do	VERB		{}
+6	you	PRON		{}
+7	start	VERB	Activity_start	{"Activity": "10", "Agent": "6", "Time": "4"}
+8	the	DET		{}
+9	next	ADJ	Relative_time	{"Focal_occasion": "10", "Focal_participant": "6"}
+10	book	NOUN	Text	{"Text": "10", "Time_of_creation": "4"}
+11	?	.		{}
+12	Surely	ADV		{}
+13	you	PRON		{}
+14	want	VERB	Desiring	{"Time_of_Event": "18", "Event": "16", "Experiencer": "13"}
+15	another	DET		{}
+16	bestseller	NOUN		{}
+17	next	ADJ	Relative_time	{"Focal_participant": "13"}
+18	year	NOUN	Calendric_unit	{"Unit": "18"}
+19	!	.		{}
+1	Stop	VERB	Halt	{"Place": "6", "Time": "7"}
+2	by	ADP		{}
+3	the	DET		{}
+4	COLLEGE	NOUN	Locale_by_use	{"Locale": "4"}
+5	REPUBLICAN	NOUN		{}
+6	TAILGATE	NOUN		{}
+7	tomorrow	NOUN	Calendric_unit	{"Relative_time": "7"}
+8	@USER	ADP		{}
+9	NUMBER	NUM		{}
+10	in	ADP		{}
+11	Yellow	NOUN		{}
+12	Lot	NOUN	Destiny	{}
+13	NUMBER	NUM		{}
+14	for	ADP		{}
+15	FOOD	NOUN	Food	{"Food": "15"}
+16	before	ADP		{}
+17	the	DET		{}
+18	game	NOUN		{}
+1	I	PRON		{}
+2	have	VERB	Possession	{"Owner": "1", "Possession": "3"}
+3	NUMBER	NOUN	Quantity	{}
+4	and	CONJ		{}
+5	my	PRON		{}
+6	car	NOUN	Vehicle	{"Descriptor": "8", "Possessor": "1", "Vehicle": "6"}
+7	is	VERB		{}
+8	dead	ADJ	Dead_or_alive	{"Protagonist": "6"}
+9	.	.		{}
+10	Maybe	ADV		{}
+11	next	ADJ	Relative_time	{}
+12	month	NOUN	Calendric_unit	{"Unit": "12"}
+13	?	.		{}
+14	Weeeeee	X		{}
+15	!	.		{}
+1	bruise	NOUN		{}
+2	on	ADP		{}
+3	my	PRON		{}
+4	facee	NOUN		{}
+5	...	.		{}
+6	wild	ADJ		{}
+7	night	NOUN	Calendric_unit	{"Unit": "7"}
+8	!	.		{}
+1	Today	NOUN	Calendric_unit	{"Unit": "1"}
+2	Internet	NOUN		{}
+3	sucks	VERB	Desirability	{"Evaluee": "2"}
+4	in	ADP		{}
+5	Campus	NOUN	Locale_by_use	{"Locale": "6"}
+6	Village	NOUN	Locale_by_use	{"Locale": "6"}
+7	...	.		{}
+8	(@	ADP		{}
+9	Campus	NOUN	Locale_by_use	{"Locale": "10"}
+10	Village	NOUN	Locale_by_use	{"Locale": "10"}
+11	)	.		{}
+12	URL	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Minimalist	ADJ		{}
+5	Web	NOUN	Network	{"Network": "5"}
+6	Design	NOUN	Coming_up_with	{}
+7	:	.		{}
+8	When	ADV		{}
+9	Less	ADJ		{}
+10	is	VERB		{}
+11	More	ADJ	Increment	{"Initial_set": "9"}
+12	-	.		{}
+13	URL	X		{}
+1	AND	CONJ		{}
+2	EVERYTHING	NOUN		{}
+3	YOU	PRON		{}
+4	STAND	VERB	Placing	{}
+5	FOR	ADP		{}
+6	,	.		{}
+7	TURNS	VERB	Moving_in_place	{"Theme": "2"}
+8	ON	PRT		{}
+9	YOU	PRON		{}
+10	TO	PRT		{}
+11	SPITE	VERB		{}
+12	YOU	PRON		{}
+13	?	.		{}
+14	WHAT	PRON		{}
+15	HAPPENS	VERB	Event	{"Time": "16"}
+16	WHEN	ADV		{}
+17	YOU	PRON		{}
+18	BECOME	VERB	Becoming	{"Time": "16", "Entity": "17"}
+19	THE	DET		{}
+20	MAIN	ADJ	First_rank	{"Item": "17"}
+21	SOURCE	NOUN	Source_of_getting	{"Source": "17", "Theme": "24"}
+22	OF	ADP		{}
+23	HER	PRON		{}
+24	PAIN	NOUN	Perception_body	{"Experiencer": "23"}
+25	?	.		{}
+1	@USER	X		{}
+2	black	NOUN		{}
+3	friday	NOUN		{}
+4	i	PRON		{}
+5	work	VERB	Being_employed	{"Duration": "6", "Employee": "4"}
+6	NUMBER	ADJ		{}
+7	not	ADV		{}
+8	too	ADV		{}
+9	bad	ADJ	Desirability	{"Evaluee": "6", "Degree": "8", "Affected_party": "4"}
+10	lol	X		{}
+1	@USER	X		{}
+2	I	PRON		{}
+3	have	VERB		{}
+4	n't	ADV		{}
+5	had	VERB	Have_associated	{"Topical_entity": "2", "Entity": "7"}
+6	a	DET		{}
+7	chance	NOUN	Opportunity	{"Desirable_situation": "15", "Opportunity": "7", "Agent": "2"}
+8	to	PRT		{}
+9	go	VERB	Motion	{"Theme": "2", "Purpose": "15"}
+10	for	ADP		{}
+11	a	DET		{}
+12	good	ADJ	Desirability	{"Evaluee": "15"}
+13	long	ADJ	Duration_attribute	{"Eventuality": "15", "Degree": "12"}
+14	shopping	NOUN	Shopping	{"Shopper": "2"}
+15	spree	NOUN		{}
+16	but	CONJ		{}
+17	i	PRON		{}
+18	will	VERB		{}
+19	soon	ADV		{}
+20	.	.		{}
+21	Everyone	NOUN		{}
+22	stares	VERB	Performers_and_roles	{"Performer": "21"}
+23	,	.		{}
+24	it	PRON		{}
+25	's	VERB		{}
+26	so	ADV		{}
+27	creepy	ADJ		{}
+28	!	.		{}
+1	#yesterday	X	{}
+1	People	NOUN	People	{"Person": "1"}
+2	who	PRON		{}
+3	tweet	VERB	Make_noise	{"Sound": "3"}
+4	to	PRT		{}
+5	follow	VERB	Cotheme	{"Theme": "6", "Result": "8", "Cotheme": "1"}
+6	@USER	X		{}
+7	will	VERB		{}
+8	get	VERB	Getting	{"Source": "13", "Theme": "11", "Recipient": "1"}
+9	huge	ADJ	Size	{"Entity": "11"}
+10	shout	NOUN		{}
+11	outs	NOUN		{}
+12	from	ADP		{}
+13	me	PRON		{}
+14	:)	X		{}
+15	Just	ADV		{}
+16	tell	VERB	Telling	{"Message": "20", "Addressee": "17", "Time": "18"}
+17	me	PRON		{}
+18	when	ADV		{}
+19	you	PRON		{}
+20	do	VERB	Intentionally_act	{"Agent": "19", "Time": "18"}
+21	!	.		{}
+1	yayi	PRON		{}
+2	dont	VERB		{}
+3	think	VERB	Opinion	{"Opinion": "4"}
+4	today	NOUN	Calendric_unit	{"Unit": "4"}
+5	can	VERB	Capability	{"Entity": "4"}
+6	get	VERB	Becoming	{"Entity": "4"}
+7	any	DET		{}
+8	better	ADJ	Desirability	{"Evaluee": "4"}
+9	@USER	X		{}
+10	and	CONJ		{}
+11	@USER	X		{}
+12	on	ADP		{}
+13	my	PRON		{}
+14	tv	NOUN		{}
+15	:)	X		{}
+16	aka	VERB		{}
+17	derek	NOUN		{}
+18	[	.		{}
+19	Like	VERB	Experiencer_focus	{"Content": "20"}
+20	it	PRON		{}
+21	?	.		{}
+22	URL	X		{}
+23	]	.		{}
+1	Trying	VERB	Trying_out	{"Place": "4", "Entity": "2"}
+2	Something	NOUN		{}
+3	New	ADJ	Familiarity	{"Entity": "2"}
+4	In	ADP		{}
+5	Bed	NOUN		{}
+6	(	.		{}
+7	You	PRON		{}
+8	Game	ADJ		{}
+9	?	.		{}
+10	)	.		{}
+11	:	.		{}
+12	Someone	NOUN		{}
+13	wrote	VERB	Contacting	{"Topic": "18", "Communicator": "12", "Addressee": "14", "Time": "16"}
+14	me	PRON		{}
+15	last	ADJ	Relative_time	{"Focal_occasion": "13", "Focal_participant": "12"}
+16	week	NOUN	Calendric_unit	{"Relative_time": "15", "Unit": "16"}
+17	about	ADP		{}
+18	wanting	VERB	Desiring	{"Time": "16", "Event": "13", "Experiencer": "12"}
+19	to	PRT		{}
+20	role	VERB		{}
+21	play	VERB	Performers_and_roles	{"Performer": "12"}
+22	.	.		{}
+23	Her	PRON		{}
+24	husband	NOUN	Personal_relationship	{"Partner_2": "24", "Partner_1": "23"}
+25	is	VERB		{}
+26	a	DET		{}
+27	...	.		{}
+28	URL	X		{}
+1	Gotta	VERB	Being_obligated	{"Duty": "2"}
+2	love	VERB	Experiencer_focus	{"Content": "5"}
+3	the	DET		{}
+4	bumper	NOUN		{}
+5	stickers	NOUN		{}
+6	of	ADP		{}
+7	Fayette	NOUN		{}
+8	County	NOUN	Political_locales	{"Locale": "8", "Name": "7"}
+9	:	.		{}
+10	"	.		{}
+11	Ever	ADV		{}
+12	wonder	VERB	Cogitation	{"Topic": "16", "Time": "11"}
+13	if	ADP		{}
+14	there	DET		{}
+15	is	VERB		{}
+16	life	NOUN		{}
+17	after	ADP		{}
+18	death	NOUN	Death	{}
+19	?	.		{}
+20	Touch	VERB	Manipulation	{"Entity": "22"}
+21	my	PRON		{}
+22	truck	NOUN	Vehicle	{"Possessor": "21", "Vehicle": "22"}
+23	and	CONJ		{}
+24	'll	VERB		{}
+25	find	VERB	Becoming_aware	{}
+26	out	PRT		{}
+27	."	.		{}
+1	@USER	X		{}
+2	and	CONJ		{}
+3	as	ADV		{}
+4	if	ADP		{}
+5	I	PRON		{}
+6	was	VERB		{}
+7	n't	ADV		{}
+8	obsessed	VERB	Emotion_active	{"Topic": "10", "Experiencer": "5"}
+9	with	ADP		{}
+10	AFL	NOUN		{}
+11	already	ADV		{}
+12	,	.		{}
+13	after	ADP		{}
+14	Sunday	NOUN		{}
+15	I	PRON		{}
+16	've	VERB		{}
+17	gotten	VERB	Becoming	{"Time": "13", "Entity": "15"}
+18	even	ADV		{}
+19	more	ADV		{}
+20	so	ADV		{}
+21	!!	.		{}
+22	I	PRON		{}
+23	'm	VERB		{}
+24	so	ADV		{}
+25	obsessed	VERB	Emotion_active	{"Topic": "28", "Experiencer": "22"}
+26	with	ADP		{}
+27	his	PRON		{}
+28	sexiness	NOUN		{}
+29	!!!!	.		{}
+1	When	ADV		{}
+2	you	PRON		{}
+3	know	VERB	Awareness	{"Content": "4", "Cognizer": "2", "Time": "1"}
+4	what	PRON		{}
+5	you	PRON		{}
+6	want	VERB	Desiring	{"Focal_participant": "4", "Experiencer": "2", "Time": "1"}
+7	,	.		{}
+8	and	CONJ		{}
+9	want	VERB	Desiring	{"Focal_participant": "10", "Experiencer": "2", "Degree": "10", "Time": "1"}
+10	it	PRON		{}
+11	bad	ADJ	Desirability	{"Evaluee": "9"}
+12	enough	ADV		{}
+13	,	.		{}
+14	you	PRON		{}
+15	will	VERB		{}
+16	find	VERB	Locating	{"Perceiver": "14", "Sought_entity": "18"}
+17	a	DET		{}
+18	way	NOUN	Means	{"Purpose": "20", "Agent": "14", "Means": "16"}
+19	to	PRT		{}
+20	get	VERB	Getting	{"Theme": "21", "Recipient": "14", "Means": "18"}
+21	it	PRON		{}
+22	.	.		{}
+23	-	.		{}
+24	Jim	NOUN		{}
+25	Rohn	NOUN		{}
+26	RT	X		{}
+27	@USER	X		{}
+1	@USER	X		{}
+2	good	ADJ	Desirability	{"Evaluee": "3"}
+3	luck	NOUN	Luck	{"Place": "6"}
+4	at	ADP		{}
+5	Elliot	NOUN		{}
+6	Miner	NOUN		{}
+7	:D	X		{}
+8	yous	PRON		{}
+9	were	VERB		{}
+10	greaaaat	ADJ		{}
+11	tonight	NOUN	Calendric_unit	{"Unit": "11"}
+12	&lt;	X		{}
+13	NUMBER	X		{}
+14	xx	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	RT	X		{}
+5	@USER	X		{}
+6	:	.		{}
+7	Will	VERB		{}
+8	government	NOUN	Organization	{"Organization": "8"}
+9	or	CONJ		{}
+10	markets	NOUN		{}
+11	finance	VERB		{}
+12	sustainability	NOUN		{}
+13	?	.		{}
+14	A	DET		{}
+15	free	ADJ	Expensiveness	{"Goods": "16", "Time": "17"}
+16	webinar	NOUN		{}
+17	on	ADP		{}
+18	Oct	NOUN		{}
+19	.	.		{}
+20	NUMBER	NUM		{}
+21	.	.		{}
+22	URL	X		{}
+1	just	ADV		{}
+2	went	VERB	Motion	{"Path": "3", "Time": "1"}
+3	on	ADP		{}
+4	an	DET		{}
+5	unfollowing	NOUN		{}
+6	spree	NOUN		{}
+7	...	.		{}
+8	there	DET		{}
+9	's	VERB		{}
+10	no	DET		{}
+11	point	NOUN	Locale	{}
+12	of	ADP		{}
+13	following	VERB	Cotheme	{"Cotheme": "16"}
+14	you	PRON		{}
+15	if	ADP		{}
+16	you	PRON		{}
+17	have	VERB		{}
+18	n't	ADV		{}
+19	tweeted	VERB	Make_noise	{"Sound_source": "16"}
+20	in	ADP		{}
+21	NUMBER	NUM		{}
+22	days	NOUN	Measure_duration	{"Count": "21", "Process": "17", "Agent": "16", "Unit": "22"}
+23	.	.		{}
+24	#justsaying	X		{}
+25	..	.		{}
+1	Such	ADJ		{}
+2	a	DET		{}
+3	shiny	ADJ	Location_of_light	{"Degree": "1", "Figure": "4"}
+4	morning	NOUN	Calendric_unit	{"Unit": "4"}
+5	!!!	.		{}
+6	Love	VERB	Experiencer_focus	{"Content": "7"}
+7	It	PRON		{}
+8	.	.		{}
+9	Anyways	X		{}
+10	,	.		{}
+11	today	NOUN	Calendric_unit	{"Unit": "11"}
+12	will	VERB		{}
+13	be	VERB		{}
+14	very	ADV		{}
+15	busy	ADJ	Lively_place	{"Degree": "14"}
+16	!	.		{}
+1	Aggressive	ADJ		{}
+2	Kids	NOUN	People_by_age	{"Persistent_characteristic": "1", "Person": "2"}
+3	With	ADP		{}
+4	ADHD	NOUN		{}
+5	May	VERB	Likelihood	{"Hypothetical_event": "7"}
+6	Not	ADV		{}
+7	Need	VERB	Needing	{"Requirement": "9"}
+8	Antipsychotic	ADJ		{}
+9	Meds	NOUN		{}
+10	URL	X		{}
+1	last	ADJ	Relative_time	{"Landmark_occasion": "6"}
+2	day	NOUN	Calendric_unit	{"Unit": "2"}
+3	of	ADP		{}
+4	sorting	VERB	Differentiation	{"Phenomena": "6"}
+5	pope	NOUN		{}
+6	visit	NOUN	Visiting	{"Agent": "5", "Entity": "8"}
+7	to	PRT		{}
+8	birmingham	NOUN		{}
+9	stuff	NOUN		{}
+10	out	PRT		{}
+11	.....	.		{}
+12	hope	VERB	Desiring	{"Focal_participant": "13", "Event": "14", "Time": "16"}
+13	it	PRON		{}
+14	goes	VERB	Motion	{"Depictive": "15"}
+15	ok	ADJ		{}
+16	on	ADP		{}
+17	sunday	NOUN		{}
+18	!!	.		{}
+1	@USER	X		{}
+2	'll	VERB		{}
+3	tryy~	VERB		{}
+4	Hope	VERB	Desiring	{"Time_of_Event": "9", "Focal_participant": "6", "Event": "8"}
+5	the	DET		{}
+6	Sharks	NOUN		{}
+7	will	VERB		{}
+8	try	VERB	Attempt	{"Agent": "6", "Time": "9"}
+9	tonight	NOUN	Calendric_unit	{"Unit": "9"}
+10	,	.		{}
+11	I	PRON		{}
+12	think	VERB	Opinion	{"Opinion": "14", "Cognizer": "11"}
+13	they	PRON		{}
+14	should	VERB	Being_obligated	{"Responsible_party": "13"}
+15	after	ADP		{}
+16	Clowe	NOUN		{}
+17	called	VERB	Labeling	{"Speaker": "16", "Entity": "18"}
+18	them	PRON		{}
+19	out	PRT		{}
+20	on	ADP		{}
+21	it	PRON		{}
+22	URL	X		{}
+1	Pretty	ADV		{}
+2	disappointed	VERB	Experiencer_obj	{"Stimulus": "5", "Degree": "1", "Time": "6"}
+3	in	ADP		{}
+4	the	DET		{}
+5	brothers	NOUN	Kinship	{"Relatives": "5"}
+6	tonight	NOUN	Calendric_unit	{"Unit": "6"}
+7	...	.		{}
+8	NUMBER	NUM		{}
+9	.	.		{}
+10	We	PRON		{}
+11	lost	VERB	Finish_competition	{"Competitor": "10", "Competition": "12"}
+12	jeopardy	NOUN		{}
+13	and	CONJ		{}
+14	2	NUM		{}
+15	.	.		{}
+16	they	PRON		{}
+17	're	VERB		{}
+18	pissing	VERB	Excreting	{"Excreter": "16", "Degree": "21", "Time": "25"}
+19	me	PRON		{}
+20	off	PRT		{}
+21	more	ADV		{}
+22	and	CONJ		{}
+23	more	ADV		{}
+24	each	DET		{}
+25	day	NOUN	Calendric_unit	{"Unit": "25"}
+26	.	.		{}
+1	@USER	X		{}
+2	i	PRON		{}
+3	know	VERB	Certainty	{"Content": "5", "Cognizer": "2"}
+4	..	.		{}
+5	i	PRON		{}
+6	need	VERB	Required_event	{"Required_situation": "8", "Negative_consequences": "11"}
+7	to	PRT		{}
+8	stop	VERB	Activity_stop	{"Agent": "5", "Time": "9"}
+9	before	ADP		{}
+10	my	PRON		{}
+11	room	NOUN	Building_subparts	{"Building_part": "11"}
+12	is	VERB		{}
+13	gonna	VERB		{}
+14	get	VERB	Becoming	{"Entity": "11"}
+15	filled	VERB	Filling	{"Theme": "16", "Goal": "11", "Result": "15"}
+16	with	ADP		{}
+17	water	NOUN		{}
+18	.	.		{}
+1	@USER	X		{}
+2	I	PRON		{}
+3	have	VERB		{}
+4	n't	ADV		{}
+5	unfortunately	ADJ		{}
+6	:(	X		{}
+7	I	PRON		{}
+8	missed	VERB	Success_or_failure	{"Containing_event": "12", "Agent": "7", "Time": "11"}
+9	the	DET		{}
+10	chance	NOUN	Opportunity	{"Opportunity": "12", "Agent": "7"}
+11	when	ADV		{}
+12	theycame	VERB		{}
+13	to	PRT		{}
+14	the	DET		{}
+15	uk	X		{}
+16	this	DET		{}
+17	year	NOUN	Calendric_unit	{"Unit": "17"}
+18	,	.		{}
+19	you	PRON		{}
+20	seen	VERB	Perception_experience	{"Phenomenon": "21", "Perceiver_passive": "19"}
+21	them	PRON		{}
+22	?	.		{}
+1	@USER	X		{}
+2	@USER	X		{}
+3	this	DET		{}
+4	thursday	NOUN		{}
+5	@USER	X		{}
+6	:	.		{}
+7	The	DET		{}
+8	New	NOUN		{}
+9	African	NOUN		{}
+10	Soul	NOUN		{}
+11	Event	NOUN	Event	{"Time": "4"}
+12	!	.		{}
+13	www.africaunsigned.com/asn	X		{}
+14	for	ADP		{}
+15	more	ADV		{}
+16	info	NOUN	Information	{"Information": "16"}
+17	and	CONJ		{}
+18	tickets	NOUN	Fining	{"Instrument": "18"}
+1	Just	ADV		{}
+2	found	VERB	Coming_to_believe	{"Content": "7", "Time": "1"}
+3	out	PRT		{}
+4	my	PRON		{}
+5	custom	ADJ		{}
+6	@USER	X		{}
+7	shirt	NOUN	Clothing	{"Garment": "7", "Style": "5", "Creator": "6"}
+8	wo	VERB		{}
+9	n't	ADV		{}
+10	arrive	VERB	Arriving	{"Theme": "7"}
+11	in	ADP		{}
+12	time	NOUN	Location_in_time	{"Relative_time": "13"}
+13	for	ADP		{}
+14	next	ADJ	Relative_time	{"Focal_occasion": "18", "Focal_participant": "7"}
+15	weekend	NOUN	Calendric_unit	{"Relative_time": "14", "Salient_event": "18", "Unit": "15"}
+16	's	PRT		{}
+17	ROH	NOUN		{}
+18	shows	NOUN		{}
+19	.	.		{}
+20	How	ADV		{}
+21	am	VERB		{}
+22	I	PRON		{}
+23	gonna	VERB		{}
+24	rep	VERB		{}
+25	old	ADJ	Age	{"Attribute": "25"}
+26	school	NOUN	Locale_by_use	{"Locale": "26", "Descriptor": "25"}
+27	now	ADV		{}
+28	?	.		{}
+1	omg	X		{}
+2	simone	NOUN		{}
+3	is	VERB		{}
+4	coming	VERB	Arriving	{"Theme": "2", "Goal": "5"}
+5	over	ADP		{}
+6	then	ADP		{}
+7	NUMBER	NOUN	Quantity	{}
+8	we	PRON		{}
+9	foin	VERB		{}
+10	2	PRT		{}
+11	da	DET		{}
+12	fall	NOUN	Change_position_on_a_scale	{}
+13	festival	NOUN	Social_event	{"Attendee": "8", "Name": "13", "Time": "12"}
+14	cant	VERB		{}
+15	wait	VERB	Waiting	{"Expected_event": "17"}
+16	4	ADP		{}
+17	GAC	NOUN		{}
+18	NUMBER	NOUN	Quantity	{}
+19	!	.		{}
+20	an	CONJ		{}
+21	Justin	NOUN		{}
+22	Bieber	NOUN		{}
+23	concert	NOUN		{}
+24	in	ADP		{}
+25	Dec	NOUN		{}
+26	.!!!!!!!	.		{}
+27	&lt;	X		{}
+28	NUMBER	X		{}
+1	#eritrea	X		{}
+2	Top	ADJ	Occupy_rank	{"Item": "3", "Rank": "2"}
+3	amateurs	NOUN	Expertise	{"Protagonist": "3"}
+4	in	ADP		{}
+5	North	NOUN	Part_orientational	{"Whole": "6"}
+6	Rift	NOUN		{}
+7	for	ADP		{}
+8	Manchester	NOUN		{}
+9	Salver	NOUN	Containers	{"Container": "9"}
+10	:	.		{}
+11	After	ADP		{}
+12	failing	VERB	Successful_action	{"Goal": "14"}
+13	to	PRT		{}
+14	recapture	VERB		{}
+15	the	DET		{}
+16	East	NOUN	Part_orientational	{"Whole": "17"}
+17	Africa	NOUN		{}
+18	Chal	NOUN		{}
+19	...	.		{}
+20	URL	X		{}
+21	#news	X		{}
+1	omfg	X		{}
+2	there	DET		{}
+3	was	VERB		{}
+4	a	DET		{}
+5	pigeon	NOUN		{}
+6	and	CONJ		{}
+7	cockatoo	NOUN		{}
+8	on	ADP		{}
+9	my	PRON		{}
+10	bathroom	NOUN	Building_subparts	{"Building_part": "10"}
+11	window	NOUN	Connecting_architecture	{"Part": "11", "Orientation": "10"}
+12	sill	NOUN		{}
+13	outside	ADP		{}
+14	and	CONJ		{}
+15	it	PRON		{}
+16	scared	VERB		{}
+17	me	PRON		{}
+18	when	ADV		{}
+19	i	PRON		{}
+20	showered	VERB	Grooming	{"Agent": "19", "Means": "20"}
+21	=(	X		{}
+22	(	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	If	ADP		{}
+5	u	PRON		{}
+6	call	VERB	Contacting	{"Communicator": "5", "Frequency": "9", "Addressee": "7"}
+7	someone	NOUN		{}
+8	NUMBER	NOUN	Quantity	{"Mass": "9", "Quantity": "8"}
+9	's	VERB		{}
+10	a	DET		{}
+11	day	NOUN	Calendric_unit	{"Count": "10", "Unit": "11"}
+12	and	CONJ		{}
+13	they	PRON		{}
+14	do	VERB	Intentionally_act	{"Agent": "13"}
+15	n't	ADV		{}
+16	answer	VERB	Communication_response	{"Speaker": "13"}
+17	,	.		{}
+18	do	VERB	Intentionally_act	{"Agent": "19"}
+19	u	PRON		{}
+20	not	ADV		{}
+21	get	VERB	Grasp	{"Cognizer": "19", "Phenomenon": "23"}
+22	a	DET		{}
+23	hint	NOUN		{}
+24	that	ADP		{}
+25	MAYBE	ADV		{}
+26	they	PRON		{}
+27	just	ADV		{}
+28	do	VERB	Intentionally_act	{"Agent": "26"}
+29	n't	ADV		{}
+30	wanna	VERB		{}
+31	talk	VERB	Chatting	{"Interlocutor_2": "33", "Interlocutor_1": "26"}
+32	to	PRT		{}
+33	u	PRON		{}
+34	!!!!!	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	RT	X		{}
+5	if	ADP		{}
+6	you	PRON		{}
+7	are	VERB		{}
+8	happy	ADJ	Emotion_directed	{"Stimulus": "9", "Experiencer": "6"}
+9	it	PRON		{}
+10	's	VERB		{}
+11	friday	NOUN		{}
+12	.	.		{}
+13	#OMGwhatateen	X		{}
+1	@USER	X		{}
+2	just	ADV		{}
+3	shocked	VERB	Experiencer_obj	{"Stimulus": "1", "Experiencer": "4"}
+4	me	PRON		{}
+5	for	ADP		{}
+6	the	DET		{}
+7	second	ADJ	Ordinal_numbers	{"Item": "8"}
+8	time	NOUN	Event_instance	{"Instance": "8", "Event": "3"}
+9	..	.		{}
+10	she	PRON		{}
+11	's	VERB		{}
+12	a	DET		{}
+13	lawyer	NOUN	People_by_vocation	{"Person": "10"}
+14	!?	.		{}
+15	LOL	X		{}
+16	.	.		{}
+17	No	X		{}
+18	tell	VERB	Telling	{"Message": "20", "Addressee": "19", "Time": "25"}
+19	me	PRON		{}
+20	it	PRON		{}
+21	's	VERB		{}
+22	April	NOUN		{}
+23	NUMBER	NUM		{}
+24	right	ADV		{}
+25	now	ADV		{}
+26	.	.		{}
+1	@USER	X		{}
+2	ohhh	X		{}
+3	,	.		{}
+4	atmosphere	NOUN		{}
+5	might	VERB	Likelihood	{"Hypothetical_event": "4"}
+6	have	VERB		{}
+7	to	PRT		{}
+8	slip	VERB	Self_motion	{"Goal": "9"}
+9	into	ADP		{}
+10	there	ADV		{}
+11	,	.		{}
+12	also	ADV		{}
+13	.	.		{}
+14	I	PRON		{}
+15	might	VERB	Likelihood	{"Hypothetical_event": "16", "Time": "22"}
+16	be	VERB		{}
+17	hitting	VERB	Hit_or_miss	{"Target_location": "19", "Agent": "14"}
+18	a	DET		{}
+19	show	NOUN		{}
+20	of	ADP		{}
+21	theirs	PRON		{}
+22	end	NOUN	Temporal_subregion	{"Time_period": "24", "Sub_part": "22"}
+23	of	ADP		{}
+24	February	NOUN		{}
+25	.	.		{}
+26	good	ADJ	Desirability	{"Evaluee": "27"}
+27	call	NOUN	Request	{}
+28	.	.		{}
+1	Yahoo	NOUN		{}
+2	:	.		{}
+3	Jackie	NOUN		{}
+4	joins	VERB	Becoming_a_member	{"New_member": "3", "Group": "5", "Time": "7"}
+5	Twitter	NOUN	Sounds	{}
+6	NUMBER	NUM		{}
+7	years	NOUN	Measure_duration	{"Count": "6", "Unit": "7"}
+8	after	ADP		{}
+9	JFK	NOUN		{}
+10	campaign	NOUN		{}
+11	:	.		{}
+12	Had	VERB		{}
+13	Twitter	NOUN	Sounds	{}
+14	been	VERB		{}
+15	an	DET		{}
+16	option	NOUN	Possibilities	{"Salient_entity": "13", "Number_of_possibilities": "15"}
+17	in	ADP		{}
+18	NUMBER	NUM		{}
+19	,	.		{}
+20	a	DET		{}
+21	pregnant	ADJ		{}
+22	Jacquelin	NOUN		{}
+23	...	.		{}
+24	URL	X		{}
+1	@USER	X		{}
+2	i	PRON		{}
+3	just	ADV		{}
+4	watched	VERB	Perception_active	{"Time": "7", "Perceiver_agentive": "2", "Phenomenon": "5"}
+5	that	DET		{}
+6	this	DET		{}
+7	morning	NOUN	Calendric_unit	{"Relative_time": "6", "Unit": "7"}
+8	xD	X		{}
+1	Preventing	VERB	Preventing	{"Event": "4"}
+2	Public	NOUN		{}
+3	Health	NOUN	Medical_conditions	{"Ailment": "4"}
+4	Disasters	NOUN	Catastrophe	{"Undergoer": "3"}
+5	[	.		{}
+6	The	DET		{}
+7	Pump	NOUN		{}
+8	Handle]	NOUN		{}
+9	:	.		{}
+10	Earlier	ADV		{}
+11	this	DET		{}
+12	week	NOUN	Calendric_unit	{"Relative_time": "11", "Unit": "12"}
+13	,	.		{}
+14	FDA	NOUN		{}
+15	Commissioner	NOUN		{}
+16	Margaret	NOUN		{}
+17	Hamburg	NOUN		{}
+18	present	VERB	Cause_to_perceive	{"Agent": "17"}
+19	...	.		{}
+20	URL	X		{}
+1	Got	VERB	Getting	{"Theme": "3", "Purpose": "5"}
+2	the	DET		{}
+3	stuff	NOUN		{}
+4	to	PRT		{}
+5	make	VERB	Cooking_creation	{"Purpose": "8", "Produced_food": "7", "Ingredients": "3"}
+6	egg	NOUN		{}
+7	rolls	NOUN		{}
+8	for	ADP		{}
+9	work	NOUN		{}
+10	monday	NOUN		{}
+1	I	PRON		{}
+2	feel	VERB	Feeling	{"Evaluation": "3", "Experiencer": "1"}
+3	like	ADP		{}
+4	a	DET		{}
+5	trillion	NUM		{}
+6	bucks	NOUN		{}
+7	!	.		{}
+8	I	PRON		{}
+9	feel	VERB	Feeling	{"Emotion": "10", "Experiencer": "8"}
+10	like	ADP		{}
+11	breaking	VERB	Cause_to_fragment	{"Whole_patient": "13", "Agent": "8", "Time": "14"}
+12	a	DET		{}
+13	record	NOUN		{}
+14	tomorrow	NOUN	Calendric_unit	{"Unit": "14"}
+15	...	.		{}
+16	and	CONJ		{}
+17	i	PRON		{}
+18	will	VERB		{}
+1	LADY	NOUN	People	{"Person": "2"}
+2	GAGA	NOUN		{}
+3	IS	VERB		{}
+4	BETTER	ADV		{}
+5	THE	DET		{}
+6	NUMBER	ADJ		{}
+7	TIME	NOUN	Event_instance	{"Instance": "6", "Event": "2"}
+8	OH	X		{}
+9	BABY(	X		{}
+10	:	X		{}
+1	I	PRON		{}
+2	'm	VERB		{}
+3	tired	ADJ	Biological_urge	{"State": "3", "Experiencer": "1", "Time": "4"}
+4	after	ADP		{}
+5	school	NOUN	Locale_by_use	{"Locale": "5"}
+6	today	NOUN	Temporal_collocation	{"Trajector_event": "1", "Landmark_period": "6"}
+7	!	.		{}
+1	i	PRON		{}
+2	just	ADV		{}
+3	gave	VERB	Giving	{"Donor": "1", "Theme": "7", "Recipient": "5", "Purpose": "8", "Time": "2"}
+4	my	PRON		{}
+5	momma	NOUN		{}
+6	some	DET		{}
+7	money	NOUN	Money	{"Money": "7"}
+8	4	ADP		{}
+9	a	DET		{}
+10	bill	NOUN	Observable_body_parts	{"Body_part": "10"}
+11	....	.		{}
+12	she	PRON		{}
+13	smiled	VERB	Making_faces	{"Agent": "12"}
+14	when	ADV		{}
+15	i	PRON		{}
+16	put	VERB	Placing	{"Theme": "17", "Place": "18", "Goal": "20", "Agent": "15"}
+17	it	PRON		{}
+18	n	ADP		{}
+19	her	PRON		{}
+20	hand	NOUN	Observable_body_parts	{"Body_part": "20", "Possessor": "12"}
+21	__AND__	CONJ		{}
+22	said	VERB	Communication	{"Communicator": "12", "Message": "24"}
+23	"	.		{}
+24	i	PRON		{}
+25	wanna	VERB		{}
+26	go	VERB	Motion	{"Theme": "24", "Direction": "27", "Purpose": "29"}
+27	out	PRT		{}
+28	to	PRT		{}
+29	eat	VERB	Ingestion	{"Place": "27", "Ingestor": "24"}
+30	"...	.		{}
+31	-______-	X		{}
+32	HELLA	X		{}
+33	SCAN	X		{}
+1	So	X		{}
+2	I	PRON		{}
+3	'm	VERB		{}
+4	currently	ADV		{}
+5	looking	VERB	Perception_active	{"Time": "4", "Phenomenon": "9", "Perceiver_agentive": "2"}
+6	at	ADP		{}
+7	about	ADJ		{}
+8	NUMBER	NUM		{}
+9	years	NOUN	Measure_duration	{"Count": "8", "Unit": "9"}
+10	and	CONJ		{}
+11	NUMBER	NUM		{}
+12	months	NOUN	Measure_duration	{"Count": "11", "Unit": "12"}
+13	if	ADP		{}
+14	I	PRON		{}
+15	can	VERB	Possibility	{"Time": "20"}
+16	get	VERB	Arriving	{"Theme": "14", "Place": "19", "Goal": "17", "Time": "20"}
+17	out	ADP		{}
+18	of	ADP		{}
+19	there	ADV		{}
+20	within	ADP		{}
+21	the	DET		{}
+22	next	ADJ	Relative_time	{"Focal_participant": "14"}
+23	month	NOUN	Calendric_unit	{"Relative_time": "22", "Unit": "23"}
+24	.	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Boise	NOUN		{}
+5	State	NOUN	Political_locales	{"Locale": "5", "Name": "4"}
+6	wearing	VERB	Wearing	{"Clothing": "8", "Wearer": "5", "Time": "16"}
+7	orange	ADJ	Color	{"Color": "7", "Entity": "8"}
+8	pants	NOUN		{}
+9	,	.		{}
+10	orange	ADJ	Color	{"Color": "10", "Entity": "11"}
+11	jerseys	NOUN		{}
+12	,	.		{}
+13	usual	ADJ		{}
+14	blue	ADJ	Color	{"Color": "14", "Entity": "15"}
+15	helmets	NOUN	Accoutrements	{"Wearer": "5"}
+16	tonight	NOUN	Calendric_unit	{"Unit": "16"}
+17	.	.		{}
+18	Orange	ADJ	Color	{"Color": "18", "Entity": "19"}
+19	jerseys	NOUN		{}
+20	match	VERB	Compatibility	{"Item_2": "24", "Item_1": "19"}
+21	their	PRON		{}
+22	regular	ADJ		{}
+23	blu	ADJ		{}
+24	...	.		{}
+1	@USER	X		{}
+2	What	PRON		{}
+3	about	ADP		{}
+4	the	DET		{}
+5	site	NOUN	Locale	{"Locale": "5"}
+6	could	VERB		{}
+7	be	VERB		{}
+8	changed	VERB	Undergo_change	{"Entity": "5"}
+9	in	ADP		{}
+10	order	NOUN	Request	{}
+11	to	PRT		{}
+12	reduce	VERB	Cause_change_of_position_on_a_scale	{"Item": "14"}
+13	the	DET		{}
+14	time	NOUN		{}
+15	required	VERB		{}
+16	for	ADP		{}
+17	you	PRON		{}
+18	to	PRT		{}
+19	provide	VERB		{}
+20	solutions	NOUN		{}
+21	?	.		{}
+1	THE	DET		{}
+2	BONG	NOUN		{}
+3	WENT	VERB	Becoming	{"Entity": "2", "Time": "6"}
+4	NUMBER	ADJ		{}
+5	LAST	ADJ	Relative_time	{"Focal_occasion": "6", "Focal_participant": "2"}
+6	NIGHT	NOUN	Calendric_unit	{"Relative_time": "5", "Unit": "6"}
+7	papers	NOUN		{}
+8	not	ADV		{}
+9	included	VERB	Inclusion	{"Part": "7"}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	#FACT	X		{}
+5	when	ADV		{}
+6	you	PRON		{}
+7	are	VERB		{}
+8	comfortable	ADJ		{}
+9	with	ADP		{}
+10	yourself	PRON		{}
+11	nothing	NOUN		{}
+12	else	ADV		{}
+13	matters	VERB		{}
+14	nobody	NOUN		{}
+15	can	VERB	Possibility	{"Cause": "6", "Time": "5"}
+16	tell	VERB	Telling	{"Topic": "19", "Message": "18", "Addressee": "17", "Speaker": "14", "Time": "5"}
+17	you	PRON		{}
+18	about	ADP		{}
+19	yourself	PRON		{}
+20	#HnF	X		{}
+1	Taco|	NOUN		{}
+2	P-Dogs	NOUN		{}
+3	Cruise	NOUN	Ride_vehicle	{"Time": "4"}
+4	Night	NOUN	Calendric_unit	{"Unit": "4"}
+5	~	.		{}
+6	South	NOUN	Direction	{}
+7	Gate	NOUN		{}
+8	:	.		{}
+9	First	ADJ	Ordinal_numbers	{"Item": "10"}
+10	event	NOUN	Event	{}
+11	coverage	NOUN		{}
+12	of	ADP		{}
+13	the	DET		{}
+14	new	ADJ	Age	{"Entity": "15"}
+15	year	NOUN	Calendric_unit	{"Unit": "15"}
+16	and	CONJ		{}
+17	Candy	NOUN		{}
+18	Coated	NOUN		{}
+19	made	VERB	Self_motion	{"Direction": "21", "Goal": "23", "Self_mover": "18"}
+20	it	PRON		{}
+21	out	PRT		{}
+22	to	PRT		{}
+23	P-D	NOUN		{}
+24	...	.		{}
+25	URL	X		{}
+1	Ooof	X		{}
+2	!	.		{}
+3	FB	NOUN		{}
+4	status	NOUN		{}
+5	"	.		{}
+6	Help	VERB	Assistance	{}
+7	!	.		{}
+8	I	PRON		{}
+9	have	VERB		{}
+10	to	PRT		{}
+11	clean	VERB		{}
+12	NUMBER	NUM		{}
+13	lbs	NOUN		{}
+14	of	ADP		{}
+15	chitlins	NOUN		{}
+16	tonight	NOUN	Calendric_unit	{"Unit": "16"}
+17	!"	.		{}
+18	*Barf*	X		{}
+1	Kahlua	NOUN		{}
+2	&	CONJ		{}
+3	Coffee	NOUN	Food	{"Food": "3"}
+4	over	ADP		{}
+5	looking	ADJ		{}
+6	the	DET		{}
+7	lake	NOUN	Natural_features	{"Locale": "7"}
+8	is	VERB		{}
+9	just	ADV		{}
+10	what	PRON		{}
+11	the	DET		{}
+12	doctor	NOUN	Medical_professionals	{"Professional": "12"}
+13	ordered	VERB	Request	{"Message": "1", "Speaker": "12"}
+14	....	.		{}
+15	hope	VERB	Desiring	{"Focal_participant": "16", "Event": "17"}
+16	everyone	NOUN		{}
+17	has	VERB	Have_associated	{"Topical_entity": "16", "Entity": "21"}
+18	a	DET		{}
+19	great	ADJ	Desirability	{"Evaluee": "21"}
+20	Friday	NOUN		{}
+21	night	NOUN	Calendric_unit	{"Unit": "21"}
+22	!	.		{}
+1	@USER	X		{}
+2	I	PRON		{}
+3	have	VERB	Have_associated	{"Topical_entity": "2", "Entity": "4"}
+4	chance	NOUN	Opportunity	{"Opportunity": "4", "Agent": "2"}
+5	with	ADP		{}
+6	you	PRON		{}
+7	?	.		{}
+8	webcam	NOUN		{}
+9	enters	VERB	Path_shape	{"Area": "10"}
+10	Sunday	NOUN		{}
+11	NUMBER	NUM		{}
+12	pm	ADJ		{}
+13	?	.		{}
+14	please	X		{}
+15	?	.		{}
+16	to	PRT		{}
+17	talk	VERB	Chatting	{}
+18	right	ADV		{}
+19	!	.		{}
+20	kisses	NOUN		{}
+21	on	ADP		{}
+22	the	DET		{}
+23	chin	NOUN	Observable_body_parts	{"Body_part": "23"}
+1	Jersey	NOUN		{}
+2	Shore	NOUN	Relational_natural_features	{"Focal_feature": "2", "Landmark_feature": "1"}
+3	is	VERB		{}
+4	overrated	VERB		{}
+5	.	.		{}
+6	studying	VERB	Education_teaching	{}
+7	and	CONJ		{}
+8	history	NOUN	Fields	{}
+9	homework	NOUN		{}
+10	then	ADV		{}
+11	a	DET		{}
+12	fat	ADJ	Body_description_holistic	{"Figure": "13"}
+13	night	NOUN	Calendric_unit	{"Count": "11", "Unit": "13"}
+14	of	ADP		{}
+15	sleep	NOUN		{}
+16	!	.		{}
+17	lord	NOUN		{}
+18	give	VERB	Giving	{"Donor": "17", "Theme": "22", "Recipient": "19"}
+19	me	PRON		{}
+20	a	DET		{}
+21	snow	NOUN		{}
+22	day	NOUN		{}
+23	:)	X		{}
+1	Bonfire	NOUN		{}
+2	tonite	NOUN		{}
+3	.	.		{}
+4	All	DET		{}
+5	are	VERB		{}
+6	welcome	VERB		{}
+7	,	.		{}
+8	joe	NOUN		{}
+9	included	VERB	Inclusion	{"Total": "4", "Part": "8"}
+1	Deez	DET		{}
+2	niggaz	NOUN		{}
+3	now	ADV		{}
+4	a	DET		{}
+5	days	NOUN	Calendric_unit	{"Unit": "5"}
+6	is	VERB		{}
+7	strate	ADJ		{}
+8	clowns	NOUN		{}
+9	...	.		{}
+10	NUMBER	NUM		{}
+11	of	ADP		{}
+12	deez	DET		{}
+13	niggaz	NOUN		{}
+14	ai	VERB		{}
+15	n't	ADV		{}
+16	shit	ADJ		{}
+17	wit	ADP		{}
+18	out	ADP		{}
+19	eachother	NOUN		{}
+20	..	.		{}
+21	#bitchmade	X		{}
+1	plez	VERB		{}
+2	check	VERB	Inspecting	{}
+3	URL	NOUN		{}
+4	(	.		{}
+5	my	PRON		{}
+6	blog	NOUN		{}
+7	)	.		{}
+8	__AND__	CONJ		{}
+9	URL	X		{}
+10	(	.		{}
+11	my	PRON		{}
+12	youtube	NOUN		{}
+13	channel	NOUN	Natural_features	{"Locale": "13"}
+14	)	.		{}
+15	if	ADP		{}
+16	u	PRON		{}
+17	have	VERB	Have_associated	{"Topical_entity": "16", "Entity": "18"}
+18	time	NOUN	Measure_duration	{}
+1	@USER	X		{}
+2	GaGa	NOUN		{}
+3	played	VERB	Performers_and_roles	{"Performer": "2", "Place": "4", "Time": "7"}
+4	here	ADV		{}
+5	a	DET		{}
+6	few	ADJ	Quantity	{"Individuals": "7", "Quantity": "6"}
+7	weeks	NOUN	Calendric_unit	{"Count": "6", "Unit": "7"}
+8	back	ADJ	Part_orientational	{}
+9	.	.		{}
+10	She	PRON		{}
+11	spoke	VERB	Statement	{"Topic": "14", "Speaker": "10", "Time": "15"}
+12	out	PRT		{}
+13	against	ADP		{}
+14	SB1070	NOUN		{}
+15	during	ADP		{}
+16	the	DET		{}
+17	show	NOUN		{}
+18	.	.		{}
+19	God	NOUN		{}
+20	bless	VERB	Rite	{"Guardian": "19", "Object": "21"}
+21	her	PRON		{}
+22	for	ADP		{}
+23	that	DET		{}
+24	.	.		{}
+1	@USER	X		{}
+2	Thanks	X		{}
+3	Chris	NOUN		{}
+4	.	.		{}
+5	We	PRON		{}
+6	are	VERB		{}
+7	going	VERB	Motion	{"Theme": "5", "Goal": "8", "Purpose": "10"}
+8	to	PRT		{}
+9	Lucilles	NOUN		{}
+10	for	ADP		{}
+11	Valentines	NOUN		{}
+12	Day	NOUN	Calendric_unit	{"Salient_event": "11", "Unit": "12"}
+13	and	CONJ		{}
+14	maybe	ADV		{}
+15	Famous	NOUN		{}
+16	Daves	NOUN		{}
+17	tonight	NOUN	Calendric_unit	{"Unit": "17"}
+18	.	.		{}
+1	@USER	X		{}
+2	have	VERB	Have_associated	{"Topical_entity": "1", "Entity": "5"}
+3	a	DET		{}
+4	dating	NOUN		{}
+5	show	NOUN		{}
+6	with	ADP		{}
+7	@USER	X		{}
+8	evry	ADJ		{}
+9	week	NOUN	Calendric_unit	{"Unit": "9"}
+10	'll	VERB		{}
+11	compete	VERB	Competition	{"Participant_2": "15", "Participant_1": "10", "Purpose": "17", "Time": "9"}
+12	with	ADP		{}
+13	sum	DET		{}
+14	hawt	ADJ		{}
+15	dude	NOUN	People	{"Persistent_characteristic": "14", "Person": "15"}
+16	2	PRT		{}
+17	keep	VERB	Cause_to_continue	{"Agent": "10"}
+18	ur	PRON		{}
+19	intrest	NOUN		{}
+20	like	ADP		{}
+21	@USER	X		{}
+22	my$	PRON		{}
+23	on	ADP		{}
+24	will	VERB		{}
+1	It	PRON		{}
+2	's	VERB		{}
+3	time	NOUN	Event_instance	{"Instance": "3", "Event": "5"}
+4	to	PRT		{}
+5	leave	VERB	Departing	{"Time": "1"}
+6	.	.		{}
+7	Thanks	NOUN	Judgment_direct_address	{"Topic": "12", "Reason": "13"}
+8	for	ADP		{}
+9	the	DET		{}
+10	roller	NOUN		{}
+11	coaster	NOUN		{}
+12	ride	NOUN	Ride_vehicle	{"Vehicle": "11"}
+13	it	PRON		{}
+14	's	VERB		{}
+15	been	VERB		{}
+16	interesting	ADJ	Mental_stimulus_stimulus_focus	{"Stimulus": "13"}
+17	but	CONJ		{}
+18	excruciatingly	ADV		{}
+19	painful	ADJ		{}
+20	!!	.		{}
+1	Polling	NOUN		{}
+2	ends	VERB	Process_end	{"Process": "1", "Place": "3", "Time": "5"}
+3	in	ADP		{}
+4	Bihar	NOUN		{}
+5	today	NOUN	Temporal_collocation	{"Trajector_event": "1", "Landmark_period": "5"}
+6	,	.		{}
+7	counting	NOUN		{}
+8	on	ADP		{}
+9	November	NOUN		{}
+10	NUMBER	NUM		{}
+11	URL	X		{}
+1	Forbidden	NOUN		{}
+2	Fruit	NOUN	Food	{"Food": "2", "Descriptor": "1"}
+3	:	.		{}
+4	How	ADV		{}
+5	to	PRT		{}
+6	Deal	VERB	Resolve_problem	{"Problem": "9", "Time": "7"}
+7	When	ADV		{}
+8	Your	PRON		{}
+9	Crush	NOUN	Personal_relationship	{"Partner_2": "9", "Partner_1": "8"}
+10	Is	VERB		{}
+11	Taken	VERB	Taking	{"Theme": "9"}
+12	:	.		{}
+13	URL	X		{}
+1	@USER	X		{}
+2	No	X		{}
+3	.	.		{}
+4	He	PRON		{}
+5	's	VERB		{}
+6	gonna	VERB		{}
+7	run	VERB	Cause_motion	{"Goal": "8", "Agent": "4", "Time": "12"}
+8	out	ADP		{}
+9	of	ADP		{}
+10	money	NOUN	Money	{"Money": "10"}
+11	some	DET		{}
+12	day	NOUN	Calendric_unit	{"Relative_time": "11", "Unit": "12"}
+13	:P	X		{}
+1	@USER	X		{}
+2	It	PRON		{}
+3	's	VERB		{}
+4	the	DET		{}
+5	view	NOUN	Opinion	{}
+6	from	ADP		{}
+7	where	ADV		{}
+8	I	PRON		{}
+9	'm	VERB		{}
+10	living	VERB	Residence	{"Resident": "8", "Location": "7", "Time": "11"}
+11	for	ADP		{}
+12	two	NUM		{}
+13	weeks	NOUN	Measure_duration	{"Count": "12", "Process": "9", "Agent": "8", "Unit": "13"}
+14	.	.		{}
+15	Empire	NOUN		{}
+16	State	NOUN		{}
+17	Building	NOUN		{}
+18	=	X		{}
+19	ESB	NOUN		{}
+20	.	.		{}
+21	Pretty	ADV		{}
+22	bad	ADJ		{}
+23	storm	NOUN		{}
+24	here	ADV		{}
+25	last	ADJ		{}
+26	evening	NOUN		{}
+27	.	.		{}
+1	Watching	VERB	Perception_active	{"Phenomenon": "4"}
+2	a	DET		{}
+3	detective	NOUN		{}
+4	show	NOUN		{}
+5	,	.		{}
+6	Monk	NOUN		{}
+7	.	.		{}
+8	They	PRON		{}
+9	go	VERB	Motion	{"Theme": "8", "Goal": "12", "Time": "14"}
+10	to	PRT		{}
+11	a	DET		{}
+12	commercial	NOUN		{}
+13	right	ADV		{}
+14	when	ADV		{}
+15	the	DET		{}
+16	house	NOUN	Buildings	{"Building": "16"}
+17	blows	VERB	Breathing	{"Agent": "16"}
+18	up	PRT		{}
+19	,	.		{}
+20	of	ADP		{}
+21	course	NOUN	Path_traveled	{"Path": "21"}
+22	.	X		{}
+23	_	X		{}
+24	.	X		{}
+1	DJ	NOUN		{}
+2	set	NOUN	Aggregate	{"Aggregate": "2", "Domain": "1"}
+3	at	ADP		{}
+4	The	NOUN		{}
+5	Standard	NOUN		{}
+6	in	ADP		{}
+7	LA	NOUN		{}
+8	tonight	NOUN	Calendric_unit	{"Relative_time": "8"}
+9	!	.		{}
+10	URL	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	You	PRON		{}
+5	basically	ADV		{}
+6	can	VERB	Possibility	{"Circumstances": "11"}
+7	say	VERB	Communication	{"Communicator": "4", "Message": "8", "Medium": "13"}
+8	anything	NOUN		{}
+9	to	PRT		{}
+10	someone	NOUN		{}
+11	on	ADP		{}
+12	an	DET		{}
+13	email	NOUN		{}
+14	or	CONJ		{}
+15	text	NOUN		{}
+16	as	ADP		{}
+17	long	ADV		{}
+18	as	ADP		{}
+19	you	PRON		{}
+20	put	VERB	Placing	{"Theme": "21", "Place": "11", "Goal": "22", "Agent": "19"}
+21	LOL	NOUN		{}
+22	at	ADP		{}
+23	the	DET		{}
+24	end	NOUN	Temporal_subregion	{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	LIL	NOUN		{}
+5	WAYNE	NOUN		{}
+6	/	CONJ		{}
+7	NICKI	NOUN		{}
+8	MINAJ	NOUN		{}
+9	-	.		{}
+10	March	NOUN	Self_motion	{}
+11	NUMBER	NUM		{}
+12	-	.		{}
+13	SOLD	VERB	Commerce_sell	{"Goods": "8", "Time": "11"}
+14	OUT.....'nuff	PRT		{}
+15	said	VERB	Statement	{"Message": "14"}
+16	.	.		{}
+1	NCAAF	NOUN		{}
+2	:	.		{}
+3	Notre	NOUN		{}
+4	Dame	NOUN		{}
+5	at	ADP		{}
+6	Miami	NOUN		{}
+7	(	.		{}
+8	FL	NOUN		{}
+9	)	.		{}
+10	-	.		{}
+11	Dec	NOUN		{}
+12	NUMBER	NUM		{}
+13	,	.		{}
+14	NUMBER	NUM		{}
+15	-	.		{}
+16	Photo	NOUN	Physical_artworks	{"Artifact": "16"}
+17	Gallery	NOUN	Locale_by_use	{"Locale": "17", "Constituent_parts": "16"}
+18	...:	.		{}
+19	EL	NOUN		{}
+20	PASO	NOUN		{}
+21	,	.		{}
+22	TX	NOUN		{}
+23	-	.		{}
+24	DECEMBER	NOUN		{}
+25	NUMBER	NUM		{}
+26	:	.		{}
+27	Running	NOUN		{}
+28	back	NOUN	Part_orientational	{"Part": "28"}
+29	Cier	NOUN		{}
+30	...	.		{}
+31	URL	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	RT	X		{}
+5	@USER	X		{}
+6	:	.		{}
+7	#Justbecause	X		{}
+8	I	PRON		{}
+9	can	VERB	Capability	{"Entity": "8"}
+10	help	VERB	Assistance	{"Benefited_party": "11", "Helper": "8"}
+11	you	PRON		{}
+12	,	.		{}
+13	does	VERB	Intentionally_act	{"Agent": "8"}
+14	n't	ADV		{}
+15	mean	VERB	Linguistic_meaning	{"Meaning": "16"}
+16	I	PRON		{}
+17	will	VERB		{}
+18	-	.		{}
+19	all	DET		{}
+20	the	DET		{}
+21	time	NOUN	Location_in_time	{"Relative_time": "19", "Whole": "21"}
+22	.	.		{}
+1	There	DET		{}
+2	's	VERB		{}
+3	a	DET		{}
+4	lot	NOUN	Destiny	{}
+5	of	ADP		{}
+6	people	NOUN	People	{"Person": "6"}
+7	showing	VERB	Cause_to_perceive	{"Medium": "12", "Phenomenon": "10", "Agent": "16", "Time": "13"}
+8	off	PRT		{}
+9	their	PRON		{}
+10	iPhones	NOUN		{}
+11	on	ADP		{}
+12	facebook	NOUN		{}
+13	today	NOUN	Temporal_collocation	{"Trajector_event": "6", "Landmark_period": "13"}
+14	,	.		{}
+15	so	ADV		{}
+16	&	CONJ		{}
+17	so	ADV		{}
+18	is	VERB		{}
+19	at	ADP		{}
+20	such	ADJ		{}
+21	a	DET		{}
+22	place	NOUN	Locale	{"Locale": "22", "Related_event": "15"}
+23	,	.		{}
+24	it	PRON		{}
+25	's	VERB		{}
+26	really	ADV		{}
+27	not	ADV		{}
+28	that	DET		{}
+29	interesting	ADJ	Mental_stimulus_stimulus_focus	{"Stimulus": "24", "Degree": "26"}
+30	;o	X		{}
+31	)	.		{}
+1	NUMBER	NUM		{}
+2	followers	NOUN		{}
+3	!	.		{}
+4	NUMBER	NUM		{}
+5	followers	NOUN		{}
+6	is	VERB		{}
+7	my	PRON		{}
+8	goal	NOUN	Purpose	{"Goal": "5", "Value": "4", "Time": "9"}
+9	for	ADP		{}
+10	today	NOUN		{}
+11	!	.		{}
+1	Companies	NOUN	Businesses	{"Business": "1"}
+2	fixing	VERB	Resolve_problem	{"Problem": "4", "Agent": "1"}
+3	a	DET		{}
+4	problem	NOUN	Predicament	{"Situation": "4"}
+5	that	DET		{}
+6	's	VERB		{}
+7	wholly	ADV		{}
+8	their	PRON		{}
+9	fault	NOUN	Judgment	{"Evaluee": "5"}
+10	and	CONJ		{}
+11	calling	VERB	Labeling	{"Entity": "4", "Speaker": "1", "Label": "16"}
+12	it	PRON		{}
+13	a	DET		{}
+14	"	.		{}
+15	one-time	ADJ		{}
+16	courtesy	NOUN		{}
+17	"	.		{}
+18	is	VERB		{}
+19	insult	NOUN	Cause_emotion	{"Event": "1"}
+20	to	PRT		{}
+21	injury	NOUN		{}
+22	.	.		{}
+23	They	PRON		{}
+24	're	VERB		{}
+25	clearly	ADV		{}
+26	not	ADV		{}
+27	sorry	ADJ	Contrition	{"Experiencer": "23", "Degree": "26", "Emotional_state": "27"}
+28	!	.		{}
+1	@USER	X		{}
+2	Id	PRON		{}
+3	love	VERB	Experiencer_focus	{"Topic": "3", "Experiencer": "2"}
+4	to	PRT		{}
+5	see	VERB	Perception_experience	{"Phenomenon": "6", "Perceiver_passive": "2"}
+6	IDWT	NOUN		{}
+7	live	ADJ		{}
+8	from	ADP		{}
+9	CES	NOUN		{}
+10	.	.		{}
+11	And	CONJ		{}
+12	one	NUM		{}
+13	day	NOUN	Calendric_unit	{"Count": "12", "Unit": "13"}
+14	I	PRON		{}
+15	hope	VERB	Desiring	{"Experiencer": "14", "Event": "17"}
+16	to	PRT		{}
+17	go	VERB	Motion	{"Theme": "14", "Goal": "19", "Time": "13"}
+18	to	PRT		{}
+19	ces	NOUN		{}
+20	myself	PRON		{}
+21	.	.		{}
+1	@USER	X		{}
+2	because	ADP		{}
+3	I	PRON		{}
+4	have	VERB	Have_associated	{"Topical_entity": "3", "Entity": "6"}
+5	no	DET		{}
+6	time	NOUN	Timespan	{}
+7	to	PRT		{}
+8	fan-girl	VERB		{}
+9	...	.		{}
+10	I	PRON		{}
+11	miss	VERB	Hit_or_miss	{"Target_location": "12", "Agent": "10"}
+12	you	PRON		{}
+13	!	.		{}
+14	:(	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Pisces	NOUN		{}
+5	tend	VERB	Likelihood	{"Hypothetical_event": "4"}
+6	to	PRT		{}
+7	escape	VERB	Escaping	{"Escapee": "4", "Goal": "8"}
+8	into	ADP		{}
+9	fantasy	NOUN		{}
+10	and	ADJ		{}
+11	day	NOUN	Calendric_unit	{"Unit": "11"}
+12	dreams	NOUN		{}
+13	.	.		{}
+14	There	ADV		{}
+15	they	PRON		{}
+16	are	VERB		{}
+17	free	ADJ	Expensiveness	{}
+18	.	.		{}
+1	belles	NOUN		{}
+2	mansion	NOUN	Buildings	{"Building": "2", "Name": "1"}
+3	4	ADP		{}
+4	bday	NOUN		{}
+5	dinner	NOUN	Social_event	{"Place": "2", "Name": "5"}
+6	.	.		{}
+7	eventhough	ADV		{}
+8	its	PRON		{}
+9	a	DET		{}
+10	day	NOUN	Calendric_unit	{"Count": "9", "Relative_time": "11", "Unit": "10"}
+11	early	ADV		{}
+12	.	.		{}
+13	*N*I*K*K*I*	NOUN		{}
+1	@USER	X		{}
+2	ik	X		{}
+3	me	PRON		{}
+4	2	ADV		{}
+5	.	.		{}
+6	At	ADP		{}
+7	night	NOUN	Calendric_unit	{"Unit": "7"}
+8	I	PRON		{}
+9	'm	VERB		{}
+10	wide	ADV		{}
+11	awake	ADJ	Being_awake	{"Protagonist": "8", "Degree": "10", "Time": "6"}
+12	but	CONJ		{}
+13	the	DET		{}
+14	daytime	NOUN		{}
+15	,	.		{}
+16	I	PRON		{}
+17	'm	VERB		{}
+18	so	ADV		{}
+19	tired	ADJ	Biological_urge	{"State": "19", "Experiencer": "16", "Time": "14"}
+20	my	PRON		{}
+21	day	NOUN	Calendric_unit	{"Unit": "21"}
+22	drags	VERB	Cause_motion	{"Theme": "21", "Time": "14"}
+1	Half	DET		{}
+2	baked	ADJ		{}
+3	,	.		{}
+4	next	ADJ	Relative_time	{"Focal_occasion": "6"}
+5	how	ADV		{}
+6	high	ADJ	Intoxication	{"Degree": "5", "Time": "4"}
+7	,	.		{}
+8	grandma	NOUN		{}
+9	boys	NOUN	People_by_age	{"Persistent_characteristic": "8", "Person": "9"}
+10	,	.		{}
+11	puff	VERB	Ingest_substance	{}
+12	puff	VERB	Ingest_substance	{}
+13	pass	VERB	Passing	{}
+14	,	.		{}
+15	and	CONJ		{}
+16	4	NUM		{}
+17	hours	NOUN	Measure_duration	{"Count": "16", "Unit": "17"}
+18	of	ADP		{}
+19	friday	NOUN		{}
+20	.	.		{}
+21	&lt;	X		{}
+22	DEAD	NOUN	Dead_or_alive	{"Protagonist": "24"}
+23	GREEN	NOUN	Color	{"Color": "23", "Attribute": "22", "Entity": "24"}
+24	HARTS	NOUN		{}
+25	&gt;	X		{}
+1	@USER	X		{}
+2	hey	X		{}
+3	its	PRON		{}
+4	my	PRON		{}
+5	birthday	NOUN	Commemorative	{"Dedicated_type": "5", "Honored_entity": "4"}
+6	which	DET		{}
+7	happens	VERB	Event	{"Frequency": "9", "Time": "11"}
+8	NUMBER	NUM		{}
+9	time	NOUN	Event_instance	{"Instance": "9", "Event": "6"}
+10	every	DET		{}
+11	year	NOUN	Calendric_unit	{"Unit": "11"}
+12	.	.		{}
+13	wanna	VERB		{}
+14	actually	ADV		{}
+15	make	VERB	Causation	{"Means": "21", "Affected": "17", "Time": "23"}
+16	my	PRON		{}
+17	wish	NOUN	Desiring	{"Time_of_Event": "23", "Event": "21"}
+18	come	VERB	Arriving	{"Theme": "17"}
+19	true	ADJ		{}
+20	and	CONJ		{}
+21	follow	VERB	Cotheme	{"Theme": "22", "Time": "23"}
+22	me	PRON		{}
+23	TODAY	NOUN	Temporal_collocation	{"Trajector_event": "21", "Landmark_period": "23"}
+24	?	.		{}
+25	(	X		{}
+26	:	X		{}
+1	@USER	X		{}
+2	cool	ADJ	Trendiness	{"Degree": "3", "Evaluee": "1"}
+3	as	ADP		{}
+4	hell	NOUN		{}
+5	and	CONJ		{}
+6	go	VERB	Becoming	{"Place": "8", "Entity": "1"}
+7	crazy	ADJ	Mental_property	{}
+8	on	ADP		{}
+9	twitter	NOUN	Sounds	{"Sound_source": "9", "Place": "8"}
+10	u	PRON		{}
+11	may	VERB	Likelihood	{"Hypothetical_event": "13", "Place": "15", "Degree": "12"}
+12	not	ADV		{}
+13	see	VERB	Perception_experience	{"Phenomenon": "14", "Degree": "16", "Perceiver_passive": "10"}
+14	him	PRON		{}
+15	out	PRT		{}
+16	much	ADV		{}
+17	but	CONJ		{}
+18	at	ADP		{}
+19	heart	NOUN	Part_orientational	{"Part": "19"}
+20	he	PRON		{}
+21	's	VERB		{}
+22	a	DET		{}
+23	real	ADJ	Existence	{"Entity": "24"}
+24	partier	NOUN		{}
+25	#BrightHistMonth	X		{}
+1	Pedigree	NOUN		{}
+2	Donates	VERB	Giving	{"Donor": "1", "Theme": "4", "Circumstances": "5"}
+3	Dog	NOUN		{}
+4	Food	NOUN	Food	{"Food": "4", "Type": "3"}
+5	for	ADP		{}
+6	Blog	NOUN		{}
+7	Posts	NOUN	Sent_items	{"Sent_item": "7"}
+8	:	.		{}
+9	These	DET		{}
+10	days	NOUN	Calendric_unit	{"Unit": "10"}
+11	,	.		{}
+12	big	ADJ	Size	{"Entity": "13"}
+13	brands	NOUN	Type	{"Type_Property": "12"}
+14	usually	ADV		{}
+15	look	VERB	Perception_active	{"Time": "10", "Perceiver_agentive": "13", "Phenomenon": "20"}
+16	to	PRT		{}
+17	the	DET		{}
+18	big	ADJ	Size	{"Entity": "20"}
+19	social	NOUN	Social_event	{}
+20	networks	NOUN	Network	{"Network": "22"}
+21	like	ADP		{}
+22	Face	NOUN	Observable_body_parts	{"Body_part": "22"}
+23	...	.		{}
+24	URL	X		{}
+1	NUMBER	NUM		{}
+2	tests	NOUN	Examination	{"Examination": "2", "Time": "6"}
+3	and	CONJ		{}
+4	an	DET		{}
+5	essay	NOUN	Text	{"Text": "5", "Time_of_creation": "6"}
+6	today	NOUN	Temporal_collocation	{"Trajector_entity": "2", "Landmark_period": "6"}
+7	.	.		{}
+8	&gt;	X		{}
+9	__	X		{}
+10	&gt;	X		{}
+11	also	ADV		{}
+12	i	PRON		{}
+13	lost	VERB	Losing_track_of_theme	{"Theme": "15", "Perceiver": "12"}
+14	my	PRON		{}
+15	backpackkk	NOUN		{}
+16	c	X		{}
+17	:	X		{}
+18	but	CONJ		{}
+19	then	ADV		{}
+20	i	PRON		{}
+21	found	VERB	Locating	{"Perceiver": "20", "Sought_entity": "22"}
+22	it	PRON		{}
+23	.	.		{}
+1	Pick	VERB	Food_gathering	{"Place": "3"}
+2	up	PRT		{}
+3	here	ADV		{}
+4	.	.		{}
+5	Deliver	VERB	Delivery	{"Place": "8", "Time": "9"}
+6	on	ADP		{}
+7	Dayton	NOUN		{}
+8	NJ	NOUN		{}
+9	tomorrow	NOUN	Calendric_unit	{"Relative_time": "9"}
+10	(@	ADP		{}
+11	Ball	NOUN	Shapes	{"Shape": "11"}
+12	Metal	NOUN	Substance	{"Substance": "12"}
+13	Container	NOUN	Containers	{"Material": "12", "Container": "13"}
+14	)	.		{}
+1	@USER	X		{}
+2	Ah	X		{}
+3	I	PRON		{}
+4	know	VERB	Certainty	{"Cognizer": "3"}
+5	!	.		{}
+6	She	PRON		{}
+7	is	VERB		{}
+8	simply	ADV		{}
+9	the	DET		{}
+10	best	ADJ		{}
+11	in	ADP		{}
+12	The	DET		{}
+13	Sept	NOUN		{}
+14	Issue	NOUN	Text	{"Text": "14"}
+15	.	.		{}
+16	My	PRON		{}
+17	boyfriend	NOUN	Personal_relationship	{"Partner_1": "17"}
+18	's	PRT		{}
+19	aunt	NOUN	Kinship	{"Ego": "17", "Alter": "19"}
+20	worked	VERB	Being_employed	{"Employee": "19", "Place": "24", "Employer": "23"}
+21	for	ADP		{}
+22	Anna	NOUN		{}
+23	Wintor	NOUN		{}
+24	in	ADP		{}
+25	NY	NOUN		{}
+26	.	.		{}
+1	Greek	NOUN		{}
+2	Festival	NOUN	Social_event	{"Style": "1", "Place": "5", "Name": "2", "Time": "6"}
+3	at	ADP		{}
+4	St	NOUN		{}
+5	Johns	NOUN		{}
+6	before	ADP		{}
+7	ASPEN	NOUN		{}
+1	Lmao	X		{}
+2	..	.		{}
+3	They	PRON		{}
+4	#Hurrt	X		{}
+5	!	.		{}
+6	RT	X		{}
+7	@USER	X		{}
+8	y	ADV		{}
+9	every	DET		{}
+10	nigga	NOUN		{}
+11	tryna	VERB		{}
+12	grow	VERB	Cause_expansion	{"Item": "14", "Agent": "10"}
+13	they	PRON		{}
+14	hair	NOUN	Observable_body_parts	{"Body_part": "14", "Possessor": "10"}
+15	out	PRT		{}
+16	.	.		{}
+17	should	VERB	Desirable_event	{"State_of_affairs": "19"}
+18	of	NOUN		{}
+19	did	VERB	Intentionally_act	{"Time": "23"}
+20	that	DET		{}
+21	a	DET		{}
+22	long	ADJ	Duration_attribute	{"Period": "23"}
+23	time	NOUN	Event_instance	{"Instance": "23", "Event": "19"}
+24	ago	ADP		{}
+25	.	.		{}
+26	-_-	X		{}
+27	skimp	ADJ		{}
+28	ass	ADJ		{}
+29	braids	NOUN	Hair_configuration	{"Hair": "29", "Hair_Property": "28"}
+30	.	.		{}
+1	@USER	X		{}
+2	I	PRON		{}
+3	went	VERB	Motion	{"Duration": "6", "Goal": "4"}
+4	to	PRT		{}
+5	kolb	NOUN		{}
+6	for	ADP		{}
+7	a	DET		{}
+8	week	NOUN	Measure_duration	{"Count": "7", "Process": "3", "Agent": "2", "Unit": "8"}
+9	lol	X		{}
+10	that	DET		{}
+11	shit	NOUN		{}
+12	was	VERB		{}
+13	trash	ADJ		{}
+14	lmao	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	#Twitition	X		{}
+5	HELP	VERB	Assistance	{"Goal": "6", "Time": "10"}
+6	us	PRON		{}
+7	meet	VERB	Make_acquaintance	{"Individual_1": "6", "Individual_2": "9", "Time": "10"}
+8	Justin	NOUN		{}
+9	Bieber	NOUN		{}
+10	on	ADP		{}
+11	November	NOUN		{}
+12	NUMBER	NUM		{}
+13	(	X		{}
+14	:	X		{}
+15	THANKYOU	X		{}
+16	URL	X		{}
+17	@USER	X		{}
+1	@USER	X		{}
+2	offensive	NOUN	Attack	{"Assailant": "1", "Time": "4"}
+3	player	NOUN	Competition	{"Participant_1": "1"}
+4	of	ADP		{}
+5	year	NOUN	Calendric_unit	{"Unit": "5"}
+6	so	ADV		{}
+7	far	ADV		{}
+8	,	.		{}
+9	but	CONJ		{}
+10	NOT	ADV		{}
+11	the	DET		{}
+12	most	ADV		{}
+13	valuable	ADJ	Usefulness	{"Degree": "12", "Entity": "14"}
+14	player	NOUN	Competition	{"Participant_1": "14"}
+15	,	.		{}
+16	when	ADV		{}
+17	he	PRON		{}
+18	was	VERB		{}
+19	hurt	VERB	Experience_bodily_harm	{"Experiencer": "17", "Time": "16"}
+20	,	.		{}
+21	they	PRON		{}
+22	were	VERB		{}
+23	still	ADV		{}
+24	good	ADJ	Usefulness	{"Time": "16", "Entity": "21"}
+1	HBCU	NOUN		{}
+2	's	PRON		{}
+3	should	VERB	Desirable_event	{"State_of_affairs": "1", "Circumstances": "14"}
+4	have	VERB	Have_associated	{"Circumstances": "14", "Time": "11", "Topical_entity": "1", "Entity": "9"}
+5	a	DET		{}
+6	free	ADJ	Expensiveness	{"Goods": "8", "Asset": "6", "Time": "11"}
+7	JORDAN	NOUN		{}
+8	shoe	NOUN	Clothing	{"Garment": "8", "Creator": "7"}
+9	lottery	NOUN		{}
+10	every	DET		{}
+11	Tuesday	NOUN		{}
+12	but	CONJ		{}
+13	only	ADV		{}
+14	at	ADP		{}
+15	NUMBER	NUM		{}
+16	.	.		{}
+17	Ninjas	NOUN		{}
+18	would	VERB		{}
+19	skip	VERB	Forgoing	{"Desirable": "20", "Purpose": "21", "Forgoer": "17"}
+20	class	NOUN	Aggregate	{"Aggregate": "20"}
+21	for	ADP		{}
+22	this	DET		{}
+23	shit	NOUN		{}
+1	NO	X		{}
+2	Saints	NOUN	People_by_morality	{"Person": "2"}
+3	R	VERB		{}
+4	.	.		{}
+5	Buch	NOUN		{}
+6	might	VERB	Likelihood	{"Hypothetical_event": "5", "Time": "13"}
+7	come	VERB	Arriving	{"Theme": "5", "Goal": "8", "Time": "13"}
+8	back	ADV		{}
+9	n	CONJ		{}
+10	play	VERB	Competition	{"Participant_2": "12", "Participant_1": "5", "Time": "13"}
+11	vs	ADP		{}
+12	Seahawks	NOUN		{}
+13	on	ADP		{}
+14	Sunday	NOUN		{}
+15	??	.		{}
+1	@USER	X		{}
+2	*Smiles	VERB		{}
+3	up	ADP		{}
+4	at	ADP		{}
+5	him*	PRON		{}
+6	Can	VERB	Capability	{"Entity": "7"}
+7	we	PRON		{}
+8	just	ADV		{}
+9	...	.		{}
+10	sit	VERB	Being_located	{"Theme": "7", "Location": "11", "Time": "15"}
+11	together	ADV		{}
+12	for	ADP		{}
+13	a	DET		{}
+14	while	NOUN		{}
+15	before	ADP		{}
+16	round	NOUN	Ammunition	{"Ammunition": "16"}
+17	two	NUM		{}
+18	?	.		{}
+1	time	NOUN	Location_in_time	{"Salient_event": "3", "Unit": "1"}
+2	to	PRT		{}
+3	help	VERB	Assistance	{"Benefited_party": "6", "Time": "1"}
+4	our	PRON		{}
+5	fellow	ADJ		{}
+6	BELIEBER	NOUN		{}
+7	shoutout	NOUN		{}
+8	for	ADP		{}
+9	@USER	X		{}
+10	's	VERB		{}
+11	one	NOUN		{}
+12	of	ADP		{}
+13	my	PRON		{}
+14	bestfriends	NOUN		{}
+15	on	ADP		{}
+16	our	PRON		{}
+17	school	NOUN	Locale_by_use	{"Locale": "17"}
+1	good	ADJ	Morality_evaluation	{"Evaluee": "2"}
+2	friday	NOUN		{}
+3	whatchu	PRON		{}
+4	got	VERB	Bringing	{"Beneficiary": "6", "Theme": "3"}
+5	for	ADP		{}
+6	me	PRON		{}
+7	@USER	X		{}
+1	URL	X		{}
+2	When	ADV		{}
+3	Pepsi	NOUN		{}
+4	to	PRT		{}
+5	ring	VERB	Contacting	{"Communicator": "3", "Time": "2"}
+6	usually	ADV		{}
+7	confirm	VERB	Verification	{"Medium": "5"}
+8	to	PRT		{}
+9	,	.		{}
+10	winning	VERB	Win_prize	{"Prize": "13"}
+11	a	DET		{}
+12	Nokia	NOUN		{}
+13	NUMBER	NUM		{}
+14	?	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	"	.		{}
+5	Nobody	NOUN		{}
+6	can	VERB	Capability	{"Entity": "5"}
+7	go	VERB	Motion	{"Direction": "8", "Theme": "5"}
+8	back	ADV		{}
+9	and	CONJ		{}
+10	start	VERB	Process_start	{}
+11	a	DET		{}
+12	new	ADJ	Age	{"Descriptor": "12", "Entity": "13"}
+13	beginning	NOUN	Temporal_subregion	{"Sub_part": "13"}
+14	,	.		{}
+15	but	CONJ		{}
+16	anyone	NOUN		{}
+17	can	VERB	Capability	{"Entity": "16"}
+18	start	VERB	Process_start	{"Result": "24", "Time": "19"}
+19	today	NOUN	Temporal_collocation	{"Trajector_entity": "16", "Trajector_event": "17", "Landmark_period": "19"}
+20	and	CONJ		{}
+21	make	VERB	Intentionally_create	{"Created_entity": "24", "Time": "19", "Creator": "16"}
+22	a	DET		{}
+23	new	ADJ	Age	{"Age": "23", "Entity": "24", "Time": "19"}
+24	ending	NOUN		{}
+25	."	.		{}
+1	Yikes	X		{}
+2	!	.		{}
+3	RT	X		{}
+4	@USER	X		{}
+5	:	.		{}
+6	@USER	X		{}
+7	Yes	X		{}
+8	!	.		{}
+9	I	PRON		{}
+10	got	VERB	Getting	{"Theme": "13", "Recipient": "9", "Time": "18"}
+11	a	DET		{}
+12	"	.		{}
+13	fuck43	NOUN		{}
+14	"	.		{}
+15	bit	NOUN		{}
+16	.	.		{}
+17	ly	NOUN		{}
+18	on	ADP		{}
+19	Friday	NOUN		{}
+20	--	.		{}
+21	veiled	ADJ	Eclipse	{"Eclipsed": "23"}
+22	anti-Bush	ADJ		{}
+23	message	NOUN	Statement	{"Message": "23"}
+24	?	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	NEW	ADJ	Age	{"Age": "3", "Entity": "4"}
+4	SONG	NOUN	Text	{"Text": "4"}
+5	COMING	VERB	Arriving	{"Theme": "4", "Time": "7"}
+6	THIS	DET		{}
+7	SUNDAY	NOUN		{}
+8	!	.		{}
+9	:D	X		{}
+1	@USER	X		{}
+2	Add	VERB	Cause_to_be_included	{"New_member": "5"}
+3	a	DET		{}
+4	little	ADJ	Size	{"Entity": "5"}
+5	Belanger	NOUN		{}
+6	,	.		{}
+7	and	CONJ		{}
+8	you	PRON		{}
+9	've	VERB		{}
+10	got	VERB	Getting	{"Theme": "11", "Recipient": "8", "Result": "10", "Means": "2"}
+11	it	PRON		{}
+12	!	.		{}
+13	Of	ADP		{}
+14	course	NOUN	Path_traveled	{}
+15	...	.		{}
+16	after	ADP		{}
+17	his	PRON		{}
+18	household	NOUN		{}
+19	items	NOUN	Entity	{"Type": "18", "Entity": "19"}
+20	arrive	VERB	Arriving	{"Source": "21", "Theme": "19"}
+21	from	ADP		{}
+22	D	NOUN		{}
+23	.	.		{}
+24	C	NOUN		{}
+25	.	.		{}
+1	Personal	ADJ		{}
+2	Twitter	NOUN	Sounds	{"Sound_source": "2"}
+3	is	VERB		{}
+4	now	ADV		{}
+5	ago	ADV		{}
+6	.	.		{}
+7	People	NOUN	People	{"Person": "7"}
+8	can	VERB	Capability	{"Entity": "7"}
+9	now	ADV		{}
+10	keep	VERB	Storing	{"Theme": "11", "Agent": "7"}
+11	track	NOUN	Roadways	{"Roadway": "11"}
+12	of	ADP		{}
+13	me	PRON		{}
+14	instead	ADV		{}
+15	of	ADP		{}
+16	just	ADV		{}
+17	my	PRON		{}
+18	films	NOUN		{}
+19	and	CONJ		{}
+20	production	NOUN	Manufacturing	{"Manufacturer": "21"}
+21	company	NOUN	Businesses	{"Product": "20", "Business": "21"}
+22	.	.		{}
+1	Sorry	X		{}
+2	but	CONJ		{}
+3	if	ADP		{}
+4	my	PRON		{}
+5	baby	NOUN	People_by_age	{"Person": "5"}
+6	is	VERB		{}
+7	gonna	VERB		{}
+8	sound	VERB	Make_noise	{"Noisy_event": "12", "Sound_source": "5", "Degree": "9", "Time": "11"}
+9	that	ADV		{}
+10	silly	ADJ		{}
+11	when	ADV		{}
+12	reading	VERB	Reading_aloud	{"Judgment": "10", "Speaker": "5"}
+13	at	ADP		{}
+14	age	NOUN	Age	{"Age": "15", "Entity": "5"}
+15	NUMBER	NUM		{}
+16	then	ADP		{}
+17	'll	VERB		{}
+18	take	VERB	Taking	{"Theme": "20", "Agent": "17"}
+19	my	PRON		{}
+20	chances	NOUN	Probability	{}
+21	__AND__	CONJ		{}
+22	wait	VERB	Holding_off_on	{"End_point": "23", "Agent": "11", "Circumstances": "5"}
+23	till	ADP		{}
+24	they	PRON		{}
+25	're	VERB		{}
+26	NUMBER	NUM		{}
+27	.	.		{}
+28	#yourbabycanread	X		{}
+1	LOOP	NOUN		{}
+2	PRODUCTION	NOUN	Manufacturing	{"Manufacturer": "2"}
+3	PRESENT	VERB	Cause_to_perceive	{"Phenomenon": "5", "Agent": "2", "Time": "7"}
+4	!!!	.		{}
+5	**ROCKSTAR**THURSDAY	X		{}
+6	NUMBER	NUM		{}
+7	OCT	NOUN		{}
+8	NUMBER	NUM		{}
+9	ONLY	ADV		{}
+10	@USER	ADP		{}
+11	EQUINOX	NOUN		{}
+12	!!!!!!!	.		{}
+13	INFO	NOUN	Information	{"Source": "14", "Information": "13"}
+14	NUMBER	NUM		{}
+15	URL	X		{}
+16	.	.		{}
+1	Dierks	NOUN		{}
+2	Bentley	NOUN		{}
+3	Admits	VERB	Reveal_secret	{"Information": "4", "Speaker": "2"}
+4	He	PRON		{}
+5	Snuck	VERB	Self_motion	{"Goal": "6", "Self_mover": "4", "Time": "10"}
+6	Into	ADP		{}
+7	Grand	NOUN		{}
+8	Ole	NOUN		{}
+9	Opry	NOUN		{}
+10	Before	ADP		{}
+11	He	PRON		{}
+12	Made	VERB	Arriving	{"Theme": "11"}
+13	It	PRON		{}
+14	Big	ADJ	Trendiness	{"Evaluee": "11"}
+15	:	.		{}
+16	Just	ADV		{}
+17	days	NOUN	Calendric_unit	{"Unit": "17"}
+18	after	ADP		{}
+19	join	NOUN		{}
+20	...	.		{}
+21	URL	X		{}
+1	hello	X		{}
+2	and	CONJ		{}
+3	good	X		{}
+4	evening	X		{}
+5	.......	.		{}
+6	hope	VERB	Desiring	{"Focal_participant": "7", "Event": "8"}
+7	you	PRON		{}
+8	all	DET		{}
+9	had	VERB	Have_associated	{"Topical_entity": "7", "Entity": "12"}
+10	a	DET		{}
+11	fab	ADJ		{}
+12	day	NOUN	Calendric_unit	{"Count": "10", "Unit": "12"}
+13	.	.		{}
+14	Ive	PRON		{}
+15	been	VERB		{}
+16	to	PRT		{}
+17	the	DET		{}
+18	gym	NOUN		{}
+19	with	ADP		{}
+20	@USER	X		{}
+21	and	CONJ		{}
+22	had	VERB	Have_associated	{"Place": "25", "Topical_entity": "14", "Entity": "24"}
+23	a	DET		{}
+24	friend	NOUN	Personal_relationship	{"Partner_2": "24", "Partner_1": "14"}
+25	round	ADP		{}
+26	.	.		{}
+1	I	PRON		{}
+2	typed	VERB	Text_creation	{"Text": "4", "Means": "2", "Author": "1"}
+3	an	DET		{}
+4	essay	NOUN	Text	{"Text": "4"}
+5	and	CONJ		{}
+6	before	ADP		{}
+7	I	PRON		{}
+8	saved	VERB		{}
+9	it	PRON		{}
+10	my	PRON		{}
+11	lap	NOUN		{}
+12	top	NOUN	Part_orientational	{"Part": "12", "Whole": "11"}
+13	froze	VERB	Activity_pause	{"Agent": "12", "Time": "6"}
+14	and	CONJ		{}
+15	died	VERB	Death	{"Protagonist": "12", "Time": "6"}
+16	.	.		{}
+17	-___-	X		{}
+1	Bestfriend	NOUN		{}
+2	wanna	VERB		{}
+3	go	VERB	Motion	{"Theme": "1", "Purpose": "7", "Time": "11"}
+4	wit	ADP		{}
+5	me	PRON		{}
+6	to	PRT		{}
+7	get	VERB	Getting	{"Recipient": "5", "Result": "9", "Time": "11"}
+8	my	PRON		{}
+9	nails	NOUN	Connectors	{"Connector": "9", "Descriptor": "8"}
+10	did	VERB	Intentionally_affect	{"Patient": "9", "Time": "11"}
+11	Saturday	NOUN		{}
+1	In	ADP		{}
+2	bed	NOUN		{}
+3	watching	VERB	Perception_active	{"Location_of_perceiver": "1", "Phenomenon": "6"}
+4	Day	NOUN	Calendric_unit	{"Unit": "4"}
+5	NUMBER	NUM		{}
+6	HLs	NOUN		{}
+7	.	.		{}
+8	(	.		{}
+9	Awaiting	VERB	Expectation	{"Phenomenon": "11"}
+10	Marcus	NOUN		{}
+11	Bentley	NOUN		{}
+12	!	.		{}
+13	)	.		{}
+14	#BB11	X		{}
+1	@USER	X		{}
+2	'll	VERB		{}
+3	do	VERB	Intentionally_act	{"Agent": "1", "Time": "5"}
+4	it	PRON		{}
+5	tomorrow	NOUN	Calendric_unit	{"Unit": "5"}
+6	.	.		{}
+7	Possibly	ADV		{}
+8	.	.		{}
+9	Most	ADV		{}
+10	likely	ADV		{}
+11	.	.		{}
+12	Hopefully	ADV		{}
+13	.	.		{}
+14	Maybe	ADV		{}
+15	:)	X		{}
+1	So	ADP		{}
+2	April	NOUN		{}
+3	is	VERB		{}
+4	looking	VERB	Appearance	{"Inference": "5", "Appraisal": "7", "Phenomenon": "2", "Characterization": "8"}
+5	like	ADP		{}
+6	a	DET		{}
+7	spectacular	ADJ		{}
+8	month	NOUN	Calendric_unit	{"Unit": "8"}
+9	for	ADP		{}
+10	shows	NOUN		{}
+11	.	.		{}
+12	Spring	NOUN	Calendric_unit	{"Name": "13"}
+13	Break	NOUN	Opportunity	{"Opportunity": "13"}
+14	Your	NOUN		{}
+15	Heart	NOUN	Part_orientational	{"Part": "15"}
+16	Tour	NOUN	Touring	{"Time": "13"}
+17	,	.		{}
+18	Dirty	NOUN		{}
+19	Work	NOUN	Being_employed	{}
+20	Tour	NOUN	Touring	{"Attraction": "19", "Time": "13"}
+21	,	.		{}
+22	Gamechangers	NOUN		{}
+23	Tour	NOUN	Touring	{"Attraction": "22", "Time": "13"}
+24	,	.		{}
+25	and	CONJ		{}
+26	now	ADV		{}
+27	FYS	NOUN		{}
+28	!	.		{}
+29	#yuss	X		{}
+1	Is	VERB		{}
+2	thinking	VERB	Cogitation	{"Topic": "3"}
+3	about	ADP		{}
+4	doing	VERB	Intentionally_act	{"Domain": "12"}
+5	maybe	ADV		{}
+6	an	DET		{}
+7	open	NOUN		{}
+8	mic	NOUN		{}
+9	night	NOUN	Calendric_unit	{"Salient_event": "8", "Unit": "9"}
+10	stand	NOUN	Aggregate	{"Domain": "12"}
+11	up	NOUN		{}
+12	comedy	NOUN	Text	{"Text": "12"}
+1	@USER	X		{}
+2	@USER	X		{}
+3	@USER	X		{}
+4	@USER	X		{}
+5	@USER	X		{}
+6	@USER	X		{}
+7	Rock	VERB	Moving_in_place	{"Direction": "8", "Theme": "6", "Time": "11"}
+8	to	PRT		{}
+9	SECTION	NOUN	Part_whole	{"Part": "9"}
+10	NUMBER	NUM		{}
+11	tonight	NOUN	Calendric_unit	{"Unit": "11"}
+12	!!!!	.		{}
+1	@USER	X		{}
+2	have	VERB	Have_associated	{"Topical_entity": "1", "Entity": "4"}
+3	a	DET		{}
+4	look	NOUN	Perception_active	{"Perceiver_agentive": "1", "Phenomenon": "6"}
+5	at	ADP		{}
+6	URL	X		{}
+7	,	.		{}
+8	there	DET		{}
+9	are	VERB		{}
+10	postings	NOUN		{}
+11	from	ADP		{}
+12	TechCrunch	NOUN		{}
+13	and	CONJ		{}
+14	Flowtown	NOUN		{}
+15	that	DET		{}
+16	may	VERB	Likelihood	{"Hypothetical_event": "17"}
+17	help	VERB	Assistance	{"Helper": "10"}
+18	#mobile	X		{}
+1	I	PRON		{}
+2	am	VERB		{}
+3	living	VERB	Residence	{"Resident": "1"}
+4	my	PRON		{}
+5	dream	NOUN		{}
+6	,	.		{}
+7	winning	VERB	Finish_competition	{"Competitor": "1", "Competition": "9"}
+8	at	ADP		{}
+9	life	NOUN		{}
+10	and	CONJ		{}
+11	being	VERB		{}
+12	respected	VERB	Judgment	{"Evaluee": "1"}
+13	for	ADP		{}
+14	every	DET		{}
+15	thing	NOUN		{}
+16	I	PRON		{}
+17	do	VERB	Intentionally_act	{"Agent": "16"}
+18	.	.		{}
+19	And	CONJ		{}
+20	its	PRON		{}
+21	about	ADP		{}
+22	fucking	ADV		{}
+23	time	NOUN	Location_in_time	{}
+24	.	.		{}
+25	#dontsettle	X		{}
+26	#EVER	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Shout	VERB	Communication_manner	{"Message": "5", "Addressee": "10"}
+5	out	PRT		{}
+6	2	PRT		{}
+7	all	DET		{}
+8	the	DET		{}
+9	real	ADJ	Existence	{"Entity": "10"}
+10	women	NOUN	People	{"Person": "10"}
+11	that	DET		{}
+12	hold	VERB	Defend	{"Defender": "10", "Victim": "14", "Time": "16"}
+13	they	PRON		{}
+14	man	NOUN	People	{"Person": "14"}
+15	down	ADP		{}
+16	when	ADV		{}
+17	he	PRON		{}
+18	's	VERB		{}
+19	doin	VERB		{}
+20	what	PRON		{}
+21	he	PRON		{}
+22	has	VERB		{}
+23	2	PRT		{}
+24	do	VERB	Intentionally_act	{"Purpose": "25", "Agent": "21"}
+25	2	PRT		{}
+26	make	VERB	Intentionally_create	{"Created_entity": "27", "Means": "19", "Creator": "17"}
+27	it	PRON		{}
+28	in	ADP		{}
+29	this	DET		{}
+30	world	NOUN	Political_locales	{"Locale": "30"}
+31	!	.		{}
+32	RESPECT	VERB	Judgment	{"Evaluee": "10"}
+33	T	NOUN		{}
+34	...	.		{}
+1	I	PRON		{}
+2	like	VERB	Experiencer_focus	{"Content": "4", "Experiencer": "1", "Circumstances": "5"}
+3	@USER	X		{}
+4	songs	NOUN	Text	{"Text": "4", "Author": "3"}
+5	after	ADP		{}
+6	a	DET		{}
+7	few	ADJ	Quantity	{"Individuals": "8", "Quantity": "7"}
+8	drinks	NOUN		{}
+1	ahaha	X		{}
+2	that	DET		{}
+3	just	ADV		{}
+4	made	VERB	Cause_change	{"Agent": "2", "Entity": "6"}
+5	my	PRON		{}
+6	day	NOUN	Calendric_unit	{"Unit": "6"}
+7	xDlmfao	X		{}
+8	!!!!	.		{}
+1	Dollar	NOUN		{}
+2	steady	ADV		{}
+3	versus	CONJ		{}
+4	yen	NOUN	Desiring	{}
+5	but	CONJ		{}
+6	market	NOUN		{}
+7	wary	ADJ		{}
+8	of	ADP		{}
+9	intervention	NOUN		{}
+10	|	.		{}
+11	Money	NOUN	Money	{"Money": "11"}
+12	...:	.		{}
+13	The	DET		{}
+14	dollar	NOUN		{}
+15	held	VERB	Inhibit_movement	{"Holding_location": "16", "Theme": "14"}
+16	near	ADP		{}
+17	its	PRON		{}
+18	highest	ADJ	Position_on_a_scale	{"Item": "14", "Domain": "11", "Degree": "18"}
+19	in	ADP		{}
+20	a	DET		{}
+21	month	NOUN	Measure_duration	{"Process": "15", "Agent": "14", "Unit": "21"}
+22	...	.		{}
+23	URL	X		{}
+1	Costa	ADJ		{}
+2	Rican	ADJ		{}
+3	group	NOUN	Organization	{"Descriptor": "2", "Organization": "4"}
+4	CocoFunka	NOUN		{}
+5	power	VERB		{}
+6	this	DET		{}
+7	week	NOUN	Calendric_unit	{"Unit": "7"}
+8	's	PRT		{}
+9	Indiesent	NOUN		{}
+10	Exposure	NOUN		{}
+11	URL	X		{}
+12	by	ADP		{}
+13	@USER	X		{}
+14	on	ADP		{}
+15	@USER	X		{}
+1	@USER	X		{}
+2	there	DET		{}
+3	will	VERB		{}
+4	be	VERB		{}
+5	,	.		{}
+6	just	ADV		{}
+7	need	VERB	Needing	{"Requirement": "9"}
+8	to	PRT		{}
+9	sort	VERB	Differentiation	{"Phenomenon_1": "10"}
+10	it	PRON		{}
+11	out	PRT		{}
+12	really	ADV		{}
+13	!	.		{}
+14	already	ADV		{}
+15	got	VERB	Getting	{"Theme": "17"}
+16	my	PRON		{}
+17	place	NOUN	Locale	{"Locale": "17"}
+18	for	ADP		{}
+19	NUMBER	NUM		{}
+20	year	NOUN	Calendric_unit	{"Unit": "20"}
+1	St	NOUN		{}
+2	Louis	NOUN		{}
+3	:	.		{}
+4	APR	NOUN		{}
+5	Chocolate	NOUN	Food	{"Food": "8", "Descriptor": "7", "Type": "5"}
+6	Toy	NOUN		{}
+7	Poodle	NOUN		{}
+8	Pups	NOUN		{}
+9	-	.		{}
+10	NUMBER	NUM		{}
+11	(	.		{}
+12	Liberty	NOUN		{}
+13	)	.		{}
+14	URL	X		{}
+15	#eBC	X		{}
+16	#Pets	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	Eyeopener	NOUN		{}
+4	vs	CONJ		{}
+5	.	.		{}
+6	Ryerson	NOUN		{}
+7	Quidditch	NOUN		{}
+8	team	NOUN	Aggregate	{"Aggregate": "8", "Domain": "7", "Name": "6"}
+9	this	DET		{}
+10	Sunday	NOUN		{}
+11	at	ADP		{}
+12	4	NUM		{}
+13	p.m.	NOUN		{}
+14	Anyone	NOUN		{}
+15	know	VERB	Awareness	{"Content": "16", "Topic": "20", "Cognizer": "14"}
+16	where	ADV		{}
+17	to	PRT		{}
+18	get	VERB	Getting	{"Theme": "20", "Place": "16"}
+19	cheap	ADJ	Expensiveness	{"Goods": "20"}
+20	brooms	NOUN		{}
+21	?	.		{}
+22	#Ryerson	X		{}
+23	@USER	X		{}
+24	#Rams	X		{}
+1	Antick	NOUN		{}
+2	Musings	NOUN		{}
+3	post	NOUN	Sent_items	{"Descriptor": "2", "Sent_item": "3"}
+4	:	.		{}
+5	Reviewing	VERB		{}
+6	the	DET		{}
+7	Mail	NOUN	Sent_items	{"Sent_item": "7"}
+8	:	.		{}
+9	Week	NOUN	Measure_duration	{"Unit": "9"}
+10	of	ADP		{}
+11	NUMBER	NUM		{}
+12	URL	X		{}
+1	I	PRON		{}
+2	'm	VERB		{}
+3	at	ADP		{}
+4	Winn-Dixie	NOUN		{}
+5	(	.		{}
+6	NUMBER	NUM		{}
+7	SW	NOUN		{}
+8	NUMBER	NOUN	Quantity	{}
+9	Ave	NOUN		{}
+10	,	.		{}
+11	SW	NOUN		{}
+12	NUMBER	NOUN	Quantity	{}
+13	St	NOUN		{}
+14	.,	ADP		{}
+15	Miami	NOUN		{}
+16	)	.		{}
+17	URL	X		{}
+1	@USER	X		{}
+2	@USER	X		{}
+3	I	PRON		{}
+4	've	VERB		{}
+5	been	VERB		{}
+6	having	VERB	Ingestion	{"Ingestibles": "7", "Ingestor": "3", "Time": "9"}
+7	soup	NOUN	Food	{"Food": "7"}
+8	all	DET		{}
+9	week	NOUN	Measure_duration	{"Process": "6", "Agent": "3", "Unit": "9"}
+10	,	.		{}
+11	do	VERB	Intentionally_act	{"Agent": "3"}
+12	n't	ADV		{}
+13	really	ADV		{}
+14	have	VERB	Have_associated	{"Topical_entity": "3", "Entity": "16"}
+15	a	DET		{}
+16	favourite	NOUN		{}
+17	.	.		{}
+18	It	PRON		{}
+19	's	VERB		{}
+20	starting	VERB	Process_start	{"Result": "22"}
+21	to	PRT		{}
+22	taste	VERB	Perception_experience	{"Phenomenon": "18", "Degree": "24"}
+23	pretty	ADV		{}
+24	much	ADV		{}
+25	the	DET		{}
+26	same	ADJ	Identicality	{"Set_of_instances": "18"}
+27	.	.		{}
+1	@USER	X		{}
+2	@USER	X		{}
+3	Tweet	VERB	Make_noise	{"Sound": "3"}
+4	me	PRON		{}
+5	a	DET		{}
+6	member	NOUN	Membership	{"Member": "6"}
+7	for	ADP		{}
+8	picspam	NOUN		{}
+9	.	.		{}
+10	Will	VERB		{}
+11	do	VERB	Intentionally_act	{"Time": "14"}
+12	them	PRON		{}
+13	tomorrow	NOUN	Calendric_unit	{"Unit": "13"}
+14	morning	NOUN	Calendric_unit	{"Whole": "13", "Unit": "14"}
+15	.	.		{}
+16	(	X		{}
+17	:	X		{}
+1	:)	X		{}
+2	RT	X		{}
+3	@USER	X		{}
+4	:	.		{}
+5	I	PRON		{}
+6	am	VERB		{}
+7	a	DET		{}
+8	total	ADJ	Completeness	{"Whole": "9"}
+9	dork	NOUN		{}
+10	.	.		{}
+11	But	CONJ		{}
+12	having	VERB	Have_associated	{"Time": "19", "Place": "15", "Entity": "13"}
+13	Flipboard	VERB		{}
+14	up	ADP		{}
+15	on	ADP		{}
+16	my	PRON		{}
+17	desk	NOUN		{}
+18	all	DET		{}
+19	day	NOUN	Calendric_unit	{"Unit": "19"}
+20	makes	VERB	Cause_change	{"Final_value": "22", "Agent": "12", "Entity": "21"}
+21	me	PRON		{}
+22	happy	ADJ	Emotion_directed	{"Stimulus": "12", "Topic": "21", "Experiencer": "21"}
+23	.	.		{}
+24	URL	X		{}
+1	@USER	X		{}
+2	haha	X		{}
+3	,	.		{}
+4	I	PRON		{}
+5	want	VERB	Desiring	{"Experiencer": "4", "Event": "7", "Time": "11"}
+6	to	PRT		{}
+7	load	VERB	Filling	{"Theme": "10", "Agent": "4", "Time": "11"}
+8	up	PRT		{}
+9	on	ADP		{}
+10	that	DET		{}
+11	before	ADP		{}
+12	work	NOUN	Being_employed	{}
+13	one	NUM		{}
+14	day	NOUN	Calendric_unit	{"Unit": "14"}
+1	@USER	X		{}
+2	lol	X		{}
+3	you	PRON		{}
+4	always	ADV		{}
+5	got	VERB	Getting	{"Theme": "6", "Recipient": "3", "Time": "4"}
+6	problems	NOUN	Predicament	{"Situation": "6", "Domain": "9", "Experiencer": "3", "Time": "4"}
+7	with	ADP		{}
+8	ur	PRON		{}
+9	hair	NOUN	Observable_body_parts	{"Body_part": "9", "Possessor": "3"}
+10	you	PRON		{}
+11	said	VERB	Communication	{"Communicator": "10", "Message": "12", "Time": "14"}
+12	somethin	NOUN		{}
+13	last	ADJ	Relative_time	{"Focal_participant": "10"}
+14	time	NOUN	Event_instance	{"Instance": "14", "Event": "10"}
+15	like	ADP		{}
+16	they	PRON		{}
+17	didnt	VERB		{}
+18	cut	VERB	Cutting	{"Item": "19", "Manner": "20", "Agent": "16"}
+19	it	PRON		{}
+20	right	ADV		{}
+21	ha	X		{}
+1	#Astros	X		{}
+2	lineup	NOUN		{}
+3	for	ADP		{}
+4	tonight	NOUN	Calendric_unit	{"Unit": "4"}
+5	.	.		{}
+6	Keppinger	NOUN		{}
+7	sits	VERB	Change_posture	{"Protagonist": "6"}
+8	,	.		{}
+9	Downs	NOUN		{}
+10	plays	VERB	Competition	{"Participant_1": "9"}
+11	NUMBER	NOUN	Quantity	{"Quantity": "11"}
+12	,	.		{}
+13	CJ	NOUN		{}
+14	bats	VERB	Body_movement	{"Agent": "13"}
+15	NUMBER	ADJ		{}
+16	.	.		{}
+17	@USER	X		{}
+18	URL	X		{}
+1	Gotta	VERB	Being_obligated	{"Duty": "2"}
+2	call	VERB	Contacting	{"Communication": "8", "Reason": "4", "Addressee": "3"}
+3	mom	NOUN	Kinship	{"Alter": "3"}
+4	2	PRT		{}
+5	let	VERB	Make_possible_to_do	{"Enabled_action": "6"}
+6	her	PRON		{}
+7	know	VERB	Awareness	{"Content": "8"}
+8	it	PRON		{}
+9	's	VERB		{}
+10	almost	ADV		{}
+11	NUMBER	NUM		{}
+12	.	.		{}
+13	Yli	NOUN		{}
+14	gets	VERB	Disembarking	{"Traveller": "13", "Time": "16"}
+15	out	PRT		{}
+16	in	ADP		{}
+17	NUMBER	NUM		{}
+18	.	.		{}
+19	Mom	NOUN	Kinship	{"Alter": "19"}
+20	took	VERB	Bringing	{"Theme": "22", "Goal": "23", "Time": "24"}
+21	the	DET		{}
+22	antenna	NOUN	Observable_body_parts	{"Body_part": "22"}
+23	home	NOUN	Expected_location_of_person	{"Location": "23", "Time": "24"}
+24	today	NOUN	Temporal_collocation	{"Trajector_event": "19", "Landmark_period": "24"}
+25	&	CONJ		{}
+26	connected	VERB	Attaching	{"Item": "27", "Place": "28", "Agent": "19"}
+27	it	PRON		{}
+28	at	ADP		{}
+29	home	NOUN	Expected_location_of_person	{"Location": "29"}
+30	,	.		{}
+31	finally	ADV		{}
+32	.	.		{}
+1	looking	VERB	Perception_active	{"Phenomenon": "5"}
+2	forward	ADV		{}
+3	to	PRT		{}
+4	a	DET		{}
+5	weekend	NOUN	Calendric_unit	{"Unit": "5"}
+6	resting	VERB	State_continue	{"Entity": "7"}
+7	foot	NOUN	Observable_body_parts	{"Body_part": "7"}
+8	!!	.		{}
+9	oh	X		{}
+10	and	CONJ		{}
+11	the	DET		{}
+12	irish	NOUN		{}
+13	on	ADP		{}
+14	sunday	NOUN		{}
+15	.	.		{}
+1	@USER	X		{}
+2	I	PRON		{}
+3	got	VERB	Getting	{"Theme": "4", "Recipient": "2", "Time": "6"}
+4	u	PRON		{}
+5	next	ADJ	Relative_time	{"Focal_participant": "2"}
+6	week	NOUN	Calendric_unit	{"Relative_time": "5", "Unit": "6"}
+1	I	PRON		{}
+2	may	VERB	Likelihood	{"Hypothetical_event": "1"}
+3	have	VERB	Have_associated	{}
+4	been	VERB		{}
+5	wrong	ADJ	Correctness	{"Topic": "7"}
+6	about	ADP		{}
+7	Murkowski	NOUN		{}
+8	,	.		{}
+9	look	VERB	Appearance	{"Inference": "11"}
+10	like	ADP		{}
+11	she	PRON		{}
+12	's	VERB		{}
+13	going	VERB	Motion	{}
+14	to	PRT		{}
+15	turn	VERB	Cause_to_move_in_place	{"Direction": "19", "Theme": "18", "Agent": "11"}
+16	Friday	NOUN		{}
+17	news	NOUN		{}
+18	dump	NOUN		{}
+19	on	ADP		{}
+20	its	PRON		{}
+21	head	NOUN	Observable_body_parts	{"Body_part": "21", "Possessor": "20"}
+22	.	.		{}
+23	three-way	ADJ		{}
+24	race	NOUN	Type	{"Category": "24", "Type_Property": "23"}
+25	reportedly	ADV		{}
+26	ahead	ADV		{}
+27	in	ADP		{}
+28	AK	NOUN		{}
+29	.	.		{}
+1	@USER	X		{}
+2	Thunder	NOUN	Sounds	{"Sound_source": "2"}
+3	,	.		{}
+4	lightening	NOUN		{}
+5	,	.		{}
+6	first	ADJ	Ordinal_numbers	{"Basis_of_order": "8", "Item": "7"}
+7	rain	NOUN	Precipitation	{"Precipitation": "7"}
+8	we	PRON		{}
+9	've	VERB		{}
+10	had	VERB	Have_associated	{"Time": "11", "Topical_entity": "8", "Entity": "7"}
+11	in	ADP		{}
+12	months	NOUN	Measure_duration	{"Unit": "12"}
+13	...	.		{}
+14	love	VERB	Experiencer_focus	{"Topic": "15"}
+15	it	PRON		{}
+16	!	.		{}
+17	Chukchansi	NOUN		{}
+18	had	VERB	Have_associated	{"Time": "23", "Topical_entity": "17", "Entity": "21"}
+19	a	DET		{}
+20	pow	NOUN		{}
+21	wow	NOUN		{}
+22	this	DET		{}
+23	weekend	NOUN	Calendric_unit	{"Relative_time": "22", "Unit": "23"}
+24	.	.		{}
+25	Think	VERB	Opinion	{"Opinion": "26"}
+26	someone	NOUN		{}
+27	did	VERB	Intentionally_act	{"Agent": "26"}
+28	a	DET		{}
+29	...	.		{}
+1	I	PRON		{}
+2	'm	VERB		{}
+3	stressed	VERB	Place_weight_on	{"Agent": "1"}
+4	at	ADP		{}
+5	NUMBER	NUM		{}
+6	,	.		{}
+7	shopping	VERB	Shopping	{"Time": "8"}
+8	on	ADP		{}
+9	my	PRON		{}
+10	lunch	NOUN		{}
+11	break	NOUN	Opportunity	{"Opportunity": "11", "Agent": "1"}
+12	.....	.		{}
+13	i	PRON		{}
+14	ca	VERB		{}
+15	n't	ADV		{}
+16	deal	VERB	Resolve_problem	{"Problem": "19", "Agent": "13", "Time": "20"}
+17	w/	ADP		{}
+18	this	DET		{}
+19	shit	NOUN		{}
+20	today	NOUN	Temporal_collocation	{"Trajector_event": "13", "Landmark_period": "20"}
+21	.	.		{}
+22	#retailtherapy	X		{}
+1	HA	X		{}
+2	!	.		{}
+3	RT	X		{}
+4	@USER	X		{}
+5	I	PRON		{}
+6	love	VERB	Experiencer_focus	{"Content": "7", "Experiencer": "5", "Time": "8"}
+7	it	PRON		{}
+8	when	ADV		{}
+9	my	PRON		{}
+10	mom	NOUN	Kinship	{"Ego": "5", "Alter": "10"}
+11	posts	VERB	Sending	{"Theme": "13", "Place": "14", "Sender": "10"}
+12	status	NOUN		{}
+13	updates	NOUN		{}
+14	on	ADP		{}
+15	FB	NOUN		{}
+16	,	.		{}
+17	they	PRON		{}
+18	are	VERB		{}
+19	usually	ADV		{}
+20	personal	ADJ		{}
+21	messages	NOUN	Statement	{"Message": "21", "Medium": "15", "Speaker": "22"}
+22	she	PRON		{}
+23	meant	VERB	Purpose	{}
+24	NUMBER	VERB	Amounting_to	{"Value": "24"}
+25	on	ADP		{}
+26	someone	NOUN		{}
+27	's	PRT		{}
+28	wall	NOUN	Architectural_part	{"Part": "28"}
+29	.	.		{}
+30	;)	X		{}
+1	@USER	X		{}
+2	I	PRON		{}
+3	've	VERB		{}
+4	got	VERB	Getting	{"Theme": "7", "Recipient": "2"}
+5	some	DET		{}
+6	bad	ADJ	Desirability	{"Evaluee": "7"}
+7	news	NOUN		{}
+8	,	.		{}
+9	Yeah	X		{}
+10	I	PRON		{}
+11	cant	VERB		{}
+12	come	VERB	Arriving	{"Theme": "10", "Goal": "14"}
+13	to	PRT		{}
+14	the	DET		{}
+15	meeting	NOUN	Social_event	{"Attendee": "10", "Time": "16"}
+16	tomorrow	NOUN	Calendric_unit	{"Unit": "16"}
+17	.	.		{}
+18	:	.		{}
+19	S	NOUN		{}
+1	@USER	ADP		{}
+2	home	X		{}
+3	chilling	VERB	Inchoative_change_of_temperature	{}
+4	guess	VERB	Estimating	{"Estimation": "5"}
+5	I	PRON		{}
+6	'm	VERB		{}
+7	staying	VERB	State_continue	{"Place": "8", "Entity": "5"}
+8	in	PRT		{}
+9	NUMBER	NOUN	Quantity	{"Quantity": "9"}
+10	2	PRT		{}
+11	rest	VERB	State_continue	{"Entity": "5"}
+12	this	DET		{}
+13	week	NOUN	Calendric_unit	{"Unit": "13"}
+14	was	VERB		{}
+15	crazy	ADJ	Mental_property	{"Protagonist": "13"}
+16	but	CONJ		{}
+17	I	PRON		{}
+18	'm	VERB		{}
+19	ready	ADJ	Activity_ready_state	{"Protagonist": "17"}
+20	for	ADP		{}
+21	dis	DET		{}
+22	weekend	NOUN	Calendric_unit	{"Unit": "22"}
+1	:(	X		{}
+2	RT	X		{}
+3	@USER	X		{}
+4	Who	PRON		{}
+5	is	VERB		{}
+6	coming	VERB	Arriving	{"Theme": "4", "Place": "11", "Goal": "9", "Time": "10"}
+7	to	PRT		{}
+8	the	DET		{}
+9	show	NOUN		{}
+10	tomorrow	NOUN	Calendric_unit	{"Unit": "10"}
+11	in	ADP		{}
+12	Hawaii	NOUN		{}
+13	?	.		{}
+1	@USER	X		{}
+2	ahaha	X		{}
+3	!	.		{}
+4	Omg	X		{}
+5	Bianca	NOUN		{}
+6	,	.		{}
+7	that	DET		{}
+8	made	VERB	Causation	{"Affected": "10", "Actor": "7"}
+9	my	PRON		{}
+10	day	NOUN	Calendric_unit	{"Unit": "10"}
+11	!	.		{}
+1	Consumer	NOUN		{}
+2	Electronics	NOUN		{}
+3	Show	NOUN		{}
+4	:	.		{}
+5	Attendees	NOUN		{}
+6	take	VERB	Ride_vehicle	{"Theme": "8", "Time": "9"}
+7	to	PRT		{}
+8	Twitter	NOUN	Sounds	{"Sound_source": "8"}
+9	on	ADP		{}
+10	opening	NOUN		{}
+11	day	NOUN	Calendric_unit	{"Unit": "11"}
+12	:	.		{}
+13	If	ADP		{}
+14	we	PRON		{}
+15	listened	VERB	Perception_active	{"Place": "18", "Perceiver_agentive": "14", "Phenomenon": "17"}
+16	to	PRT		{}
+17	attendees	NOUN		{}
+18	at	ADP		{}
+19	the	DET		{}
+20	Consumer	NOUN		{}
+21	...	.		{}
+22	URL	X		{}
+1	Before	ADV		{}
+2	I	PRON		{}
+3	proceed	VERB	Process_continue	{}
+4	into	ADP		{}
+5	the	DET		{}
+6	paradise	NOUN		{}
+7	,	.		{}
+8	let	VERB	Make_possible_to_do	{"Enabled_action": "11"}
+9	's	PRON		{}
+10	not	ADV		{}
+11	forget	VERB	Remembering_information	{"Topic": "14", "Cognizer": "9", "Mental_content": "18"}
+12	the	DET		{}
+13	Princess	NOUN		{}
+14	Lover	NOUN	Personal_relationship	{"Partner_1": "14"}
+15	OVA	NOUN		{}
+16	NUMBER	NUM		{}
+17	teaser	NOUN		{}
+18	pic	NOUN		{}
+19	,	.		{}
+20	SFW	NOUN		{}
+21	URL	X		{}
+1	Sleep	VERB	Sleep	{}
+2	.	.		{}
+3	Tomorrow	NOUN	Calendric_unit	{"Unit": "3"}
+4	is	VERB		{}
+5	Friday	NOUN		{}
+6	which	DET		{}
+7	is	VERB		{}
+8	good	ADJ	Desirability	{"Evaluee": "6"}
+9	,	.		{}
+10	but	CONJ		{}
+11	then	ADP		{}
+12	Saturday	NOUN		{}
+13	,	.		{}
+14	I	PRON		{}
+15	have	VERB	Have_associated	{"Topical_entity": "14", "Entity": "16"}
+16	work	NOUN	Being_employed	{"Employee": "14"}
+17	.	.		{}
+18	Ugh	X		{}
+19	.	.		{}
+20	I	PRON		{}
+21	have	VERB	Have_associated	{"Topical_entity": "20", "Entity": "24"}
+22	basically	ADV		{}
+23	no	DET		{}
+24	break	NOUN	Opportunity	{"Opportunity": "24"}
+25	because	ADP		{}
+26	I	PRON		{}
+27	am	VERB		{}
+28	doing	VERB	Intentionally_act	{"Agent": "26"}
+29	homework	NOUN		{}
+30	sunday	NOUN		{}
+31	.	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Exclusive	NOUN		{}
+5	:	.		{}
+6	FOX	NOUN		{}
+7	to	PRT		{}
+8	give	VERB	Giving	{"Donor": "6", "Theme": "16", "Recipient": "12"}
+9	"	.		{}
+10	The	NOUN		{}
+11	Good	NOUN		{}
+12	Guys	NOUN	People	{"Persistent_characteristic": "11", "Person": "12"}
+13	"	.		{}
+14	Saturday	NOUN		{}
+15	late-night	ADJ		{}
+16	slot	NOUN		{}
+17	;	.		{}
+18	"	.		{}
+19	Running	NOUN		{}
+20	Wilde	NOUN		{}
+21	"	.		{}
+22	one-hour	ADJ		{}
+23	winter	NOUN	Calendric_unit	{"Unit": "23"}
+24	finale	NOUN	Process_end	{"Process": "20", "Time": "25"}
+25	December	NOUN		{}
+26	NUMBER	NUM		{}
+27	...	.		{}
+1	I	PRON		{}
+2	like	VERB	Experiencer_focus	{"Content": "5", "Experiencer": "1", "Time": "3"}
+3	when	ADV		{}
+4	it	PRON		{}
+5	rains	VERB	Precipitation	{"Precipitation": "5"}
+6	.	.		{}
+1	@USER	X		{}
+2	Nope	X		{}
+3	!	.		{}
+4	*lil	ADJ		{}
+5	kid	NOUN	People_by_age	{"Persistent_characteristic": "4", "Person": "5"}
+6	voice*	NOUN		{}
+7	im	PRON		{}
+8	being	VERB		{}
+9	stingy	ADJ	Stinginess	{}
+10	tonight	ADV		{}
+11	!!	.		{}
+12	*hmph*	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Tonight	NOUN	Calendric_unit	{"Unit": "4"}
+5	(	.		{}
+6	NUMBER	NUM		{}
+7	)	.		{}
+8	is	VERB		{}
+9	Drink	NOUN		{}
+10	__AND__	CONJ		{}
+11	Draw	NOUN	Finish_competition	{}
+12	@USER	ADP		{}
+13	the	DET		{}
+14	Mellow	NOUN		{}
+15	Mushroom	NOUN		{}
+16	in	ADP		{}
+17	Decatur	NOUN		{}
+18	@USER	NUM		{}
+19	.	.		{}
+20	It	PRON		{}
+21	's	VERB		{}
+22	our	PRON		{}
+23	first	ADJ	Ordinal_numbers	{"Item": "24"}
+24	time	NOUN	Event_instance	{"Instance": "20"}
+25	back	ADV		{}
+26	in	ADP		{}
+27	NUMBER	NUM		{}
+28	months	NOUN	Measure_duration	{"Count": "27", "Unit": "28"}
+29	!	.		{}
+30	Come	VERB	Arriving	{"Goal": "31"}
+31	out	PRT		{}
+32	,	.		{}
+33	...	.		{}
+1	Do	VERB	Intentionally_act	{"Agent": "2"}
+2	you	PRON		{}
+3	want	VERB	Desiring	{"Event": "5", "Experiencer": "2"}
+4	to	PRT		{}
+5	learn	VERB	Education_teaching	{"Skill": "5", "Student": "2"}
+6	how	ADV		{}
+7	to	PRT		{}
+8	get	VERB	Getting	{"Theme": "9", "Recipient": "2"}
+9	rooms	NOUN	Building_subparts	{"Building_part": "9", "Whole": "12"}
+10	at	ADP		{}
+11	the	DET		{}
+12	Marriott	NOUN		{}
+13	for	ADP		{}
+14	NUMBER	NUM		{}
+15	a	DET		{}
+16	night	NOUN	Calendric_unit	{"Count": "15", "Unit": "16"}
+17	,	.		{}
+18	all	DET		{}
+19	year	NOUN	Calendric_unit	{"Unit": "19"}
+20	long	ADJ	Duration_attribute	{"Period": "20"}
+21	?	.		{}
+22	Check	VERB	Inspecting	{}
+23	this	DET		{}
+24	out	PRT		{}
+25	!	.		{}
+26	------	X		{}
+27	&gt;	X		{}
+28	URL	X		{}
+1	@USER	X		{}
+2	aww	X		{}
+3	yeah	X		{}
+4	,	.		{}
+5	its	PRON		{}
+6	gonna	VERB		{}
+7	be	VERB		{}
+8	one	NUM		{}
+9	to	PRT		{}
+10	remember	VERB	Remembering_experience	{"Experience": "8"}
+11	,	.		{}
+12	cause	ADP		{}
+13	the	DET		{}
+14	next	ADJ	Relative_time	{"Focal_occasion": "18"}
+15	day	NOUN	Calendric_unit	{"Unit": "15"}
+16	,	.		{}
+17	my	PRON		{}
+18	sis	NOUN		{}
+19	is	VERB		{}
+20	getting	VERB	Becoming	{"Entity": "18", "Time": "15"}
+21	married	VERB	Forming_relationships	{"Partner_1": "18", "Time": "15"}
+22	&lt;	X		{}
+23	NUMBER	X		{}
+24	yours	PRON		{}
+25	is	VERB		{}
+26	marked	VERB	Sign	{"Indicated": "24"}
+27	special	NOUN		{}
+28	occassion	NOUN		{}
+1	@USER	X		{}
+2	I	PRON		{}
+3	could	VERB		{}
+4	sing	VERB	Communication_manner	{"Message": "7", "Speaker": "2"}
+5	with	ADP		{}
+6	you	PRON		{}
+7	what	PRON		{}
+8	I`ll	PRON		{}
+9	do	VERB	Intentionally_act	{"Place": "14", "Agent": "8", "Time": "12"}
+10	o	DET		{}
+11	show	NOUN		{}
+12	in	ADP		{}
+13	november	NOUN		{}
+14	in	ADP		{}
+15	my	PRON		{}
+16	city	NOUN	Political_locales	{"Locale": "16"}
+17	oh	X		{}
+18	my	PRON		{}
+19	dream	NOUN		{}
+20	and	CONJ		{}
+21	sing	VERB	Communication_manner	{}
+22	one	NUM		{}
+23	time	NOUN	Event_instance	{"Instance": "23"}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	No	DET		{}
+5	more	ADV		{}
+6	Pink	ADJ	Color	{"Color": "6", "Entity": "8"}
+7	Friday	NOUN		{}
+8	barbiez	NOUN		{}
+9	!!	.		{}
+10	monsters	NOUN		{}
+11	are	VERB		{}
+12	taking	VERB	Conquering	{"Conqueror": "10"}
+13	over	ADP		{}
+14	.	.		{}
+15	Welcome	VERB		{}
+16	BORNTHISWAYFRIDAY	NOUN		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	NUMBER	NUM		{}
+5	years	NOUN	Calendric_unit	{"Count": "4", "Unit": "5"}
+6	ago	ADP		{}
+7	today	NOUN	Temporal_collocation	{"Trajector_event": "8"}
+8	I	PRON		{}
+9	tumbled	VERB	Change_position_on_a_scale	{"Item": "8"}
+10	from	ADP		{}
+11	my	PRON		{}
+12	mother	NOUN	Kinship	{"Ego": "8", "Alter": "12"}
+13	's	PRT		{}
+14	womb	NOUN		{}
+15	with	ADP		{}
+16	a	DET		{}
+17	cigarette	NOUN		{}
+18	in	ADP		{}
+19	my	PRON		{}
+20	mouth	NOUN	Observable_body_parts	{"Body_part": "20", "Possessor": "19"}
+21	and	CONJ		{}
+22	a	DET		{}
+23	chihuahua	NOUN		{}
+24	puppy	NOUN		{}
+25	under	ADP		{}
+26	each	DET		{}
+27	arm	NOUN	Observable_body_parts	{"Body_part": "27", "Possessor": "19"}
+28	...	.		{}
+1	@USER	X		{}
+2	Though	ADP		{}
+3	I	PRON		{}
+4	do	VERB	Intentionally_act	{"Agent": "3"}
+5	agree	VERB	Be_in_agreement_on_assessment	{"Opinion": "7", "Cognizer_1": "3"}
+6	that	ADP		{}
+7	it	PRON		{}
+8	is	VERB		{}
+9	offensive	ADJ	Cause_emotion	{"Agent": "7"}
+10	and	CONJ		{}
+11	would	VERB		{}
+12	be	VERB		{}
+13	difficult	ADJ	Difficulty	{}
+14	to	PRT		{}
+15	explain	VERB	Justifying	{"State_of_affairs": "7"}
+16	.	.		{}
+17	When	ADV		{}
+18	this	DET		{}
+19	stuff	NOUN		{}
+20	happens	VERB	Eventive_affecting	{"Entity": "19"}
+21	to	PRT		{}
+22	me	PRON		{}
+23	I	PRON		{}
+24	want	VERB	Desiring	{"Event": "26", "Experiencer": "23"}
+25	to	PRT		{}
+26	yell	VERB	Communication_noise	{"Message": "29", "Speaker": "23"}
+27	,	.		{}
+28	"	.		{}
+29	URDUMB	X		{}
+30	!"	.		{}
+1	Still	ADV		{}
+2	smh	X		{}
+3	@USER	ADP		{}
+4	last	ADJ	Relative_time	{}
+5	night	NOUN	Calendric_unit	{"Relative_time": "4", "Unit": "5"}
+6	.	.		{}
+7	Dointhemost	X		{}
+8	.	X		{}
+9	com	X		{}
+1	@USER	X		{}
+2	'll	VERB		{}
+3	be	VERB		{}
+4	back	ADV		{}
+5	in	ADP		{}
+6	LA	NOUN		{}
+7	tomorrow	NOUN	Calendric_unit	{"Unit": "7"}
+8	night	NOUN	Calendric_unit	{"Whole": "7", "Unit": "8"}
+9	!	.		{}
+10	yaaaay	X		{}
+11	!	.		{}
+1	@USER	X		{}
+2	Today	NOUN	Temporal_collocation	{"Trajector_event": "3", "Landmark_period": "2"}
+3	is	VERB		{}
+4	my	PRON		{}
+5	NUMBER	ADJ		{}
+6	birthday	NOUN	Commemorative	{"Dedicated_entity": "2", "Honored_entity": "4"}
+7	and	CONJ		{}
+8	it	PRON		{}
+9	would	VERB		{}
+10	mean	VERB	Linguistic_meaning	{"Referent": "8", "Meaning": "12"}
+11	the	DET		{}
+12	world	NOUN	Political_locales	{"Locale": "12"}
+13	to	PRT		{}
+14	me	PRON		{}
+15	if	ADP		{}
+16	I	PRON		{}
+17	got	VERB	Getting	{"Source": "20", "Theme": "19", "Recipient": "16", "Time": "22"}
+18	an	DET		{}
+19	@USER	NOUN		{}
+20	from	ADP		{}
+21	you	PRON		{}
+22	today	NOUN	Temporal_collocation	{"Trajector_event": "16", "Landmark_period": "22"}
+23	!	.		{}
+24	&lt;	X		{}
+25	NUMBER	X		{}
+1	LMFAO	X		{}
+2	:D	X		{}
+3	RT	X		{}
+4	@USER	X		{}
+5	:	.		{}
+6	Stop	VERB	Activity_stop	{}
+7	tweeting	VERB	Make_noise	{"Noisy_event": "7"}
+8	about	ADP		{}
+9	jersey	NOUN		{}
+10	shore	NOUN	Relational_natural_features	{"Focal_feature": "10", "Name": "9"}
+11	,	.		{}
+12	we	PRON		{}
+13	know	VERB	Awareness	{"Content": "14", "Cognizer": "12"}
+14	its	PRON		{}
+15	tonight	NOUN	Calendric_unit	{"Unit": "15"}
+16	,	.		{}
+17	but	CONJ		{}
+18	its	PRON		{}
+19	just	ADV		{}
+20	another	DET		{}
+21	that	DET		{}
+22	shows	VERB	Cause_to_perceive	{}
+23	of	ADP		{}
+24	a	DET		{}
+25	life	NOUN		{}
+26	'll	VERB		{}
+27	never	ADV		{}
+28	...	.		{}
+1	i	PRON		{}
+2	think	VERB	Opinion	{"Cognizer": "1", "Opinion": "3"}
+3	it	PRON		{}
+4	's	VERB		{}
+5	better	ADJ	Desirability	{"Evaluee": "3"}
+6	to	PRT		{}
+7	go	VERB	Motion	{"Goal": "6"}
+8	to	PRT		{}
+9	bed	NOUN		{}
+10	after	ADP		{}
+11	this	DET		{}
+12	bad	ADJ	Desirability	{"Evaluee": "13"}
+13	day	NOUN	Calendric_unit	{"Unit": "13"}
+14	...	.		{}
+1	@USER	X		{}
+2	ya	X		{}
+3	but	CONJ		{}
+4	it	PRON		{}
+5	would	VERB		{}
+6	have	VERB	Have_associated	{}
+7	to	PRT		{}
+8	go	VERB	Motion	{"Direction": "9"}
+9	down	ADP		{}
+10	Saturday	NOUN		{}
+11	morning	NOUN	Calendric_unit	{"Whole": "10", "Unit": "11"}
+12	and	CONJ		{}
+13	tht	DET		{}
+14	would	VERB		{}
+15	ntake	VERB		{}
+16	all	DET		{}
+17	day	NOUN	Measure_duration	{"Unit": "17"}
+18	lol	X		{}
+19	so	X		{}
+20	id	PRON		{}
+21	be	VERB		{}
+22	cutting	VERB	Cutting	{"Item": "23", "Manner": "24", "Agent": "20"}
+23	it	PRON		{}
+24	close	ADJ	Clarity_of_resolution	{"Outcome": "24"}
+25	lol	X		{}
+1	EventsandHolidays	NOUN		{}
+2	with	ADP		{}
+3	"	.		{}
+4	cute	ADJ		{}
+5	easter	NOUN		{}
+6	egg	NOUN	Food	{"Food": "6", "Descriptor": "4", "Type": "5"}
+7	color	NOUN	Color	{"Entity": "10"}
+8	shower	NOUN	Precipitation	{"Precipitation": "8"}
+9	Easter	NOUN		{}
+10	cards	NOUN		{}
+11	",	NOUN		{}
+12	Zazzle	NOUN		{}
+13	's	PRT		{}
+14	Best	ADJ		{}
+15	Today	NOUN	Temporal_collocation	{"Landmark_period": "15"}
+16	.	.		{}
+17	URL	X		{}
+1	you	PRON		{}
+2	reach	VERB	Arriving	{"Theme": "4", "Goal": "5"}
+3	your	PRON		{}
+4	hand	NOUN	Observable_body_parts	{"Body_part": "4", "Possessor": "1"}
+5	in	ADP		{}
+6	fire	NOUN		{}
+7	...	.		{}
+8	you	PRON		{}
+9	pull	VERB	Cause_motion	{"Path": "11", "Theme": "10", "Agent": "8", "Time": "12"}
+10	it	PRON		{}
+11	back	ADV		{}
+12	when	ADV		{}
+13	you	PRON		{}
+14	get	VERB	Becoming	{"Entity": "13"}
+15	hurt	ADJ		{}
+16	...	.		{}
+1	it	PRON		{}
+2	was	VERB		{}
+3	half	NOUN	Part_whole	{"Part": "3"}
+4	past	ADJ	Relative_time	{"Focal_participant": "1"}
+5	NUMBER	NUM		{}
+6	when	ADV		{}
+7	the	DET		{}
+8	drugs	NOUN	Intoxicants	{"Intoxicant": "8"}
+9	began	VERB	Activity_start	{"Time": "3", "Agent": "8", "Activity": "11"}
+10	to	PRT		{}
+11	take	VERB	Taking	{"Theme": "12", "Agent": "8"}
+12	hold	NOUN		{}
+13	....	.		{}
+1	I	PRON		{}
+2	am	VERB		{}
+3	in	ADP		{}
+4	such	ADJ		{}
+5	a	DET		{}
+6	good	ADJ	Desirability	{"Degree": "4", "Evaluee": "7"}
+7	mood	NOUN		{}
+8	,	.		{}
+9	i	PRON		{}
+10	should	VERB	Desirable_event	{"State_of_affairs": "9"}
+11	probably	ADV		{}
+12	do	VERB	Intentionally_act	{"Agent": "9", "Time": "15"}
+13	my	PRON		{}
+14	math	NOUN		{}
+15	before	ADP		{}
+16	my	PRON		{}
+17	mood	NOUN		{}
+18	changes	VERB	Undergo_change	{"Entity": "17"}
+19	and	CONJ		{}
+20	i	PRON		{}
+21	dont	VERB		{}
+22	want	VERB	Desiring	{"Event": "23", "Experiencer": "20"}
+23	to	PRT		{}
+24	later	ADV		{}
+25	...	.		{}
+26	lol	X		{}
+1	Hey	X		{}
+2	....	.		{}
+3	my	PRON		{}
+4	birthday	NOUN	Commemorative	{"Dedicated_type": "4", "Honored_entity": "3"}
+5	is	VERB		{}
+6	in	ADP		{}
+7	exactly	ADV		{}
+8	one	NUM		{}
+9	month	NOUN	Calendric_unit	{"Count": "8", "Unit": "9"}
+10	!!!	.		{}
+11	:D	X		{}
+1	@USER	X		{}
+2	@USER	X		{}
+3	Well	X		{}
+4	.	.		{}
+5	just	ADV		{}
+6	beg	VERB	Attempt_suasion	{"Content": "10"}
+7	@USER	X		{}
+8	..	.		{}
+9	PLEASE	VERB	Experiencer_obj	{}
+10	come	VERB	Arriving	{"Theme": "7", "Goal": "11"}
+11	to	PRT		{}
+12	the	DET		{}
+13	#SBLeurope	X		{}
+14	Next	ADJ	Relative_time	{"Focal_occasion": "13"}
+15	year	NOUN	Calendric_unit	{"Relative_time": "14", "Unit": "15"}
+16	!.	.		{}
+17	We	PRON		{}
+18	need	VERB	Needing	{"Cognizer": "17", "Requirement": "19", "Place": "20"}
+19	you	PRON		{}
+20	there	ADV		{}
+21	!	.		{}
+22	*puss	NOUN		{}
+23	in	ADP		{}
+24	boots	NOUN	Clothing	{"Garment": "24"}
+25	eyes*	NOUN		{}
+1	@USER	X		{}
+2	u	PRON		{}
+3	try	VERB	Attempt	{"Agent": "1"}
+4	to	PRT		{}
+5	be	VERB		{}
+6	like	ADP		{}
+7	April	NOUN		{}
+8	on	ADP		{}
+9	youtube	NOUN		{}
+1	Kfc	NOUN		{}
+2	!	.		{}
+3	my	PRON		{}
+4	mom	NOUN	Kinship	{"Descriptor": "6", "Ego": "3", "Alter": "4"}
+5	wuz	VERB		{}
+6	pushy	ADJ		{}
+7	in	ADP		{}
+8	there	ADV		{}
+9	,	.		{}
+10	damn	X		{}
+11	~December*18th~	NOUN		{}
+1	The	DET		{}
+2	inevitability	NOUN		{}
+3	of	ADP		{}
+4	ambivalence	NOUN		{}
+5	--	.		{}
+6	on	ADP		{}
+7	my	PRON		{}
+8	blog	NOUN		{}
+9	,	.		{}
+10	After	NOUN		{}
+11	Psychotherapy	NOUN	Medical_specialties	{"Specialty": "11"}
+12	.	.		{}
+13	URL	X		{}
+1	CIty	NOUN	Political_locales	{"Locale": "1"}
+2	Sponsors	VERB		{}
+3	Drug	NOUN	Intoxicants	{"Intoxicant": "3"}
+4	Toss	NOUN		{}
+5	To	PRT		{}
+6	Dispose	VERB		{}
+7	Of	ADP		{}
+8	Expired	ADJ		{}
+9	Medications	NOUN		{}
+10	:	.		{}
+11	Louisville	NOUN		{}
+12	and	CONJ		{}
+13	several	ADJ	Quantity	{"Individuals": "14", "Quantity": "13"}
+14	partners	NOUN	Collaboration	{"Partners": "14"}
+15	are	VERB		{}
+16	offering	VERB	Offering	{"Theme": "18", "Offerer": "14"}
+17	three	NUM		{}
+18	days	NOUN	Measure_duration	{"Count": "17", "Unit": "18"}
+19	...	.		{}
+20	URL	X		{}
+1	Today	NOUN	Temporal_collocation	{"Trajector_event": "2", "Landmark_period": "1"}
+2	I	NOUN		{}
+3	justt	ADV		{}
+4	felt	VERB		{}
+5	special	ADJ		{}
+6	forr	ADP		{}
+7	no	DET		{}
+8	reason	NOUN	Causation	{"Cause": "8", "Affected": "2"}
+9	&lt;	X		{}
+10	NUMBER	X		{}
+11	.	.		{}
+12	It	PRON		{}
+13	wass	VERB		{}
+14	cool	ADJ	Desirability	{"Evaluee": "12"}
+15	thou(	ADV		{}
+16	:	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Yo	X		{}
+5	,	.		{}
+6	artists	NOUN	Create_physical_artwork	{"Creator": "6"}
+7	!	.		{}
+8	ASU	NOUN		{}
+9	Step	NOUN	Connecting_architecture	{"Part": "9"}
+10	Gallery	NOUN	Locale_by_use	{"Locale": "10"}
+11	wants	VERB	Desiring	{"Purpose_of_Event": "21", "Focal_participant": "20", "Experiencer": "10"}
+12	your	PRON		{}
+13	"	.		{}
+14	socially	ADV		{}
+15	relevant	ADJ		{}
+16	"	.		{}
+17	comic	NOUN		{}
+18	book	NOUN	Text	{"Text": "18"}
+19	cover	NOUN		{}
+20	designs	NOUN	Coming_up_with	{"Idea": "20"}
+21	for	ADP		{}
+22	a	DET		{}
+23	Nov	NOUN		{}
+24	.	.		{}
+25	show	NOUN		{}
+26	URL	X		{}
+1	NHL	NOUN		{}
+2	Betting	VERB		{}
+3	Picks	NOUN	Choosing	{"Topic": "2"}
+4	-	.		{}
+5	Bruins	NOUN		{}
+6	vs	ADP		{}
+7	Wild	NOUN		{}
+8	:	.		{}
+9	Thursday	NOUN		{}
+10	night	NOUN	Calendric_unit	{"Whole": "9", "Unit": "10"}
+11	is	VERB		{}
+12	reserved	VERB		{}
+13	for	ADP		{}
+14	hockey	NOUN		{}
+15	as	ADP		{}
+16	we	PRON		{}
+17	are	VERB		{}
+18	taking	VERB	Taking	{"Theme": "21", "Agent": "16"}
+19	a	DET		{}
+20	good	ADJ	Desirability	{"Evaluee": "21"}
+21	rest	NOUN	Stimulus_focus	{}
+22	from	ADP		{}
+23	the	DET		{}
+24	...	.		{}
+25	URL	X		{}
+1	okay	X		{}
+2	okay	X		{}
+3	,	.		{}
+4	'll	VERB		{}
+5	follow	VERB	Cotheme	{"Cotheme": "6"}
+6	EVERYONE	NOUN		{}
+7	back	ADV		{}
+8	today	NOUN	Temporal_collocation	{"Trajector_event": "4", "Landmark_period": "8"}
+9	.	.		{}
+10	:D	X		{}
+1	We	PRON		{}
+2	should	VERB	Desirable_event	{"State_of_affairs": "1"}
+3	be	VERB		{}
+4	launching	VERB	Launch_process	{"Process": "9", "Agent": "1", "Time": "10"}
+5	our	PRON		{}
+6	first	ADJ	Ordinal_numbers	{"Item": "9", "Type": "8"}
+7	street	NOUN	Roadways	{"Roadway": "7"}
+8	team	NOUN	Aggregate	{"Aggregate": "8"}
+9	promotion	NOUN		{}
+10	today	NOUN	Temporal_collocation	{"Trajector_event": "1", "Landmark_period": "10"}
+11	.	.		{}
+12	Stay	VERB	State_continue	{}
+13	tuned	VERB		{}
+14	!	.		{}
+15	URL	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Please	VERB	Experiencer_obj	{}
+5	follow	VERB	Cotheme	{"Cotheme": "6"}
+6	me	PRON		{}
+7	and	CONJ		{}
+8	RT	X		{}
+9	for	ADP		{}
+10	a	DET		{}
+11	chance	NOUN	Opportunity	{"Desirable_situation": "13", "Opportunity": "11"}
+12	to	PRT		{}
+13	win	VERB	Win_prize	{"Means": "5"}
+14	.	.		{}
+15	Ends	VERB	Process_end	{"Time": "19"}
+16	Tue	NOUN		{}
+17	NUMBER	NUM		{}
+18	Feb	NOUN		{}
+19	NUMBER	NUM		{}
+20	x	X		{}
+21	URL	X		{}
+22	...	.		{}
+1	@USER	X		{}
+2	I	PRON		{}
+3	've	VERB		{}
+4	had	VERB	Ingestion	{"Ingestibles": "10", "Ingestor": "2", "Place": "14", "Time": "17"}
+5	what	PRON		{}
+6	was	VERB		{}
+7	purportedly	ADV		{}
+8	Chicago-style	ADJ		{}
+9	thin	ADJ	Body_description_holistic	{"Individual": "10"}
+10	crust	NOUN		{}
+11	from	ADP		{}
+12	a	DET		{}
+13	pizzeria	NOUN		{}
+14	in	ADP		{}
+15	this	DET		{}
+16	area	NOUN	Locale	{"Locale": "16"}
+17	before	ADV		{}
+18	.	.		{}
+19	It	PRON		{}
+20	was	VERB		{}
+21	very	ADV		{}
+22	tasty	ADJ	Chemical	{"sense_description": "19"}
+23	,	.		{}
+24	but	CONJ		{}
+25	the	DET		{}
+26	...	.		{}
+1	@USER	X		{}
+2	Kay	NOUN		{}
+3	sorry	ADJ	Contrition	{}
+4	...	.		{}
+5	Well	X		{}
+6	my	PRON		{}
+7	dad	NOUN	Kinship	{"Ego": "6", "Alter": "7"}
+8	lest	VERB		{}
+9	when	ADV		{}
+10	i	PRON		{}
+11	was	VERB		{}
+12	NUMBER	NUM		{}
+13	.	.		{}
+14	He	PRON		{}
+15	has	VERB	Have_associated	{"Topical_entity": "14", "Entity": "16"}
+16	issues	NOUN	Point_of_dispute	{}
+17	.	.		{}
+18	He	PRON		{}
+19	held	VERB	Manipulation	{"Agent": "18", "Entity": "21"}
+20	a	DET		{}
+21	knife	NOUN	Weapon	{"Weapon": "21", "Wielder": "18"}
+22	at	ADP		{}
+23	mom	NOUN	Kinship	{"Alter": "23"}
+24	.	.		{}
+25	I	PRON		{}
+26	can	VERB	Capability	{"Entity": "25"}
+27	STILL	ADV		{}
+28	remember	VERB	Remembering_experience	{"Cognizer": "25", "Experience": "29"}
+29	that	DET		{}
+30	...	.		{}
+31	=/	X		{}
+1	There	DET		{}
+2	was	VERB		{}
+3	just	ADV		{}
+4	a	DET		{}
+5	fire	NOUN		{}
+6	at	ADP		{}
+7	work	NOUN	Locale_by_use	{"Locale": "7"}
+8	.	.		{}
+9	Today	NOUN	Calendric_unit	{"Unit": "9"}
+10	is	VERB		{}
+11	looking	VERB	Appearance	{"Appraisal": "12", "Phenomenon": "9"}
+12	up	PRT		{}
+13	.	.		{}
+1	The	DET		{}
+2	Basic	ADJ	Being_necessary	{"Dependent": "7", "Requirement": "3"}
+3	Step	NOUN	Intentionally_act	{}
+4	Before	ADV		{}
+5	You	PRON		{}
+6	Even	ADV		{}
+7	Start	VERB	Activity_start	{"Agent": "5", "Activity": "8"}
+8	Thinking	VERB	Cogitation	{"Topic": "9", "Cognizer": "5"}
+9	Of	ADP		{}
+10	Making	VERB	Manufacturing	{"Manufacturer": "5"}
+11	Your	PRON		{}
+12	...:	.		{}
+13	Keyword	NOUN		{}
+14	research	NOUN	Research	{"Topic": "13"}
+15	is	VERB		{}
+16	a	DET		{}
+17	well	ADV		{}
+18	known	ADJ	Being_named	{"Entity": "19"}
+19	subject	NOUN	Topic	{"Topic": "14"}
+20	,	.		{}
+21	yet	CONJ		{}
+22	so	ADV		{}
+23	...	.		{}
+24	URL	X		{}
+1	Photo	NOUN	Physical_artworks	{"Artifact": "1"}
+2	:	.		{}
+3	SHE	PRON		{}
+4	GETS	VERB	Becoming	{"Entity": "3", "Time": "6"}
+5	TIRED	ADJ	Biological_urge	{"State": "5", "Experiencer": "3", "Time": "6"}
+6	AFTER	ADP		{}
+7	SEX	NOUN		{}
+8	!	.		{}
+9	URL	X		{}
+1	Nothing	NOUN		{}
+2	like	ADP		{}
+3	getting	VERB	Getting	{"Theme": "5", "Time": "6"}
+4	no	DET		{}
+5	sleep	NOUN		{}
+6	before	ADP		{}
+7	a	DET		{}
+8	NUMBER	NUM		{}
+9	hour	NOUN	Measure_duration	{"Count": "8", "Process": "10", "Unit": "9"}
+10	trip	NOUN	Travel	{"Descriptor": "9"}
+11	..	.		{}
+12	#wheee	X		{}
+1	Good	ADJ	Desirability	{"Evaluee": "2", "Affected_party": "3"}
+2	start	NOUN	Temporal_subregion	{"Sub_part_property": "1", "Sub_part": "2", "Time": "5"}
+3	for	ADP		{}
+4	sharks	NOUN		{}
+5	tonight	NOUN	Calendric_unit	{"Unit": "15"}
+6	can	VERB	Possibility	{}
+7	only	ADV		{}
+8	get	VERB	Becoming	{"Entity": "5"}
+9	better	ADJ	Desirability	{"Evaluee": "5"}
+10	.	.		{}
+11	Played	VERB	Competition	{}
+12	with	ADP		{}
+13	short	ADJ	Body_description_holistic	{"Figure": "14"}
+14	bench	NOUN		{}
+15	tonight	NOUN	Calendric_unit	{"Unit": "15"}
+16	.	.		{}
+17	Thought	VERB	Opinion	{"Opinion": "18"}
+18	Rocks	NOUN		{}
+19	well	ADV		{}
+20	in	ADP		{}
+21	game	NOUN		{}
+22	early	ADV		{}
+23	though	ADP		{}
+24	until	ADP		{}
+25	'	.		{}
+26	unseen	NOUN		{}
+27	'	.		{}
+1	@USER	X	{}
+2	tru	X	{}
+3	tru	X	{}
+4	I	PRON	{}
+5	'm	VERB	{}
+6	leavin	VERB	{}
+7	again	ADV	{}
+8	on	ADP	{}
+9	Tuesday	NOUN	{}
+10	yo	X	{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	the	DET		{}
+5	day	NOUN	Calendric_unit	{"Unit": "5"}
+6	Justin	NOUN		{}
+7	Bieber	NOUN		{}
+8	was	VERB		{}
+9	born	VERB	Birth	{"Child": "7"}
+10	was	VERB		{}
+11	a	DET		{}
+12	rainy	ADJ		{}
+13	day	NOUN	Calendric_unit	{"Count": "11", "Unit": "13"}
+14	,	.		{}
+15	but	CONJ		{}
+16	it	PRON		{}
+17	was	VERB		{}
+18	no	DET		{}
+19	rain	NOUN	Precipitation	{"Precipitation": "19"}
+20	,	.		{}
+21	NO	X		{}
+22	!	.		{}
+23	the	DET		{}
+24	heaven	NOUN		{}
+25	was	VERB		{}
+26	crying	VERB	Make_noise	{"Noisy_event": "26", "Reason": "27"}
+27	cause	ADP		{}
+28	he	PRON		{}
+29	lost	VERB	Losing	{"Owner": "28"}
+30	his	PRON		{}
+31	most	ADJ		{}
+32	...	.		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	Today	NOUN	Temporal_collocation	{"Landmark_period": "4"}
+5	is	VERB		{}
+6	my	PRON		{}
+7	main	ADJ	First_rank	{"Item": "8"}
+8	goonie	NOUN		{}
+9	@USER	X		{}
+10	birthday	NOUN	Commemorative	{"Honored_entity": "8"}
+11	#teamchino	X		{}
+12	ca	VERB		{}
+13	n't	ADV		{}
+14	move	VERB	Motion	{}
+15	without	ADP		{}
+16	him	PRON		{}
+17	,	.		{}
+18	please	VERB	Experiencer_obj	{}
+19	send	VERB	Sending	{"Theme": "22", "Recipient": "20"}
+20	him	PRON		{}
+21	some	DET		{}
+22	shouts	NOUN		{}
+23	!!	.		{}
+24	While	ADP		{}
+25	he	PRON		{}
+26	's	VERB		{}
+27	...	.		{}
+1	WIN	VERB	Win_prize	{"Prize": "3"}
+2	FREE	ADJ	Expensiveness	{"Goods": "3", "Time": "4"}
+3	PAMPERS	NOUN		{}
+4	FOR	ADP		{}
+5	A	DET		{}
+6	YEAR	NOUN	Measure_duration	{"Process": "1", "Count": "5", "Unit": "6"}
+7	!!!	.		{}
+8	And	CONJ		{}
+9	more	ADJ	Increment	{}
+10	...	.		{}
+11	URL	X		{}
+1	RT	X		{}
+2	@USER	X		{}
+3	:	.		{}
+4	BEST	ADJ		{}
+5	SATURDAY	NOUN		{}
+6	PARTY	NOUN	Social_event	{"Place": "7", "Time": "5"}
+7	IN	ADP		{}
+8	KYOTO	NOUN		{}
+9	!	.		{}
+10	BUTTERFLY	NOUN		{}
+11	SATURDAYS	NOUN		{}
+12	@USER	X		{}
+13	@USER	X		{}
+14	@USER	X		{}
+15	@USER	X		{}
+16	URL	X		{}
+1	Just	ADV		{}
+2	got	VERB	Arriving	{"Source": "4", "Goal": "3", "Time": "1"}
+3	home	NOUN	Expected_location_of_person	{"Location": "3"}
+4	from	ADP		{}
+5	school	NOUN	Locale_by_use	{"Locale": "5"}
+6	.	.		{}
+7	:D	X		{}
+8	it	PRON		{}
+9	's	VERB		{}
+10	friday	NOUN		{}
+11	guys	NOUN	Attention_getting	{"Address_term": "11"}
+12	!,	.		{}
+1	I	PRON		{}
+2	want	VERB	Desiring	{"Focal_participant": "3", "Experiencer": "1", "Time": "4"}
+3	it	PRON		{}
+4	NOW	ADV		{}
+5	!	.		{}
+6	;)	X		{}
+7	RT	X		{}
+8	:	.		{}
+9	@USER	X		{}
+10	Pumpkin	NOUN		{}
+11	Moonshine	NOUN		{}
+12	has	VERB		{}
+13	arrived	VERB	Arriving	{"Theme": "11", "Goal": "14"}
+14	in	ADP		{}
+15	Nashville	NOUN		{}
+16	--	.		{}
+17	Give	VERB	Giving	{"Theme": "20", "Purpose": "22"}
+18	it	PRON		{}
+19	a	DET		{}
+20	week	NOUN	Measure_duration	{"Count": "19", "Unit": "20"}
+21	to	PRT		{}
+22	get	VERB	Getting	{"Theme": "23", "Place": "24"}
+23	it	PRON		{}
+24	in	ADP		{}
+25	stores	NOUN	Store	{}
+26	.	.		{}
+27	KY	NOUN		{}
+28	ships	VERB	Sending	{"Theme": "28", "Time": "30"}
+29	next	ADP		{}
+30	week	NOUN	Calendric_unit	{"Relative_time": "29", "Unit": "30"}
+31	!	.		{}
+1	If	ADP		{}
+2	you	PRON		{}
+3	are	VERB		{}
+4	staying	VERB	Temporary_stay	{"Location": "6", "Guest": "2"}
+5	in	ADP		{}
+6	Gainesville	NOUN		{}
+7	,	.		{}
+8	come	VERB	Arriving	{"Time": "13"}
+9	check	VERB	Inspecting	{"Time": "13"}
+10	out	PRT		{}
+11	Costa	NOUN		{}
+12	Lounge	NOUN		{}
+13	TONIGHT	NOUN	Calendric_unit	{"Unit": "13"}
+14	!	.		{}
+15	Say	VERB	Communication	{"Message": "16", "Purpose": "22"}
+16	you	PRON		{}
+17	are	VERB		{}
+18	with	ADP		{}
+19	salsa	NOUN		{}
+20	caliente	NOUN		{}
+21	and	CONJ		{}
+22	get	VERB	Arriving	{"Goal": "23"}
+23	in	ADP		{}
+24	...	.		{}
+25	URL	X		{}
+1	;	.		{}
+2	I	PRON		{}
+3	can	VERB	Possibility	{"Time": "8"}
+4	upgrade	VERB		{}
+5	to	PRT		{}
+6	a	DET		{}
+7	BlackBerry	NOUN		{}
+8	in	ADP		{}
+9	November	NOUN		{}
+10	!!	.		{}
+11	Yesss	X		{}
+12	.	.		{}
+13	&lt;	X		{}
+14	NUMBER	X		{}
+15	BB	NOUN		{}
+16	Bold	NOUN		{}
+17	,	.		{}
+18	here	ADV		{}
+19	I	PRON		{}
+20	come	VERB	Arriving	{"Theme": "19", "Goal": "18"}
+21	!	.		{}
+1	@USER	X		{}
+2	call	VERB	Contacting	{"Addressee": "3", "Time": "4"}
+3	me	PRON		{}
+4	when	ADV		{}
+5	u	PRON		{}
+6	go	VERB	Motion	{"Direction": "7", "Purpose": "9"}
+7	out	PRT		{}
+8	to	PRT		{}
+9	practice	VERB	Practice	{"Agent": "5"}
+1	Do	VERB	Intentionally_act	{"Event_dscription": "3"}
+2	n't	ADV		{}
+3	miss	VERB	Hit_or_miss	{"Target_location": "9"}
+4	out	PRT		{}
+5	on	ADP		{}
+6	our	PRON		{}
+7	Clearance	ADJ		{}
+8	Blowout	ADJ		{}
+9	Sale	NOUN		{}
+10	!	.		{}
+11	LAST	ADJ	Relative_time	{"Focal_occasion": "12"}
+12	DAY	NOUN	Calendric_unit	{"Relative_time": "11", "Unit": "12"}
+13	for	ADP		{}
+14	an	DET		{}
+15	additional	ADJ	Increment	{}
+16	NUMBER	NOUN	Quantity	{"Q_Prop": "15", "Quantity": "16"}
+17	off	ADP		{}
+18	on	ADP		{}
+19	all	DET		{}
+20	clearance	NOUN		{}
+21	items	NOUN	Entity	{"Type": "20", "Entity": "21"}
+22	-	.		{}
+23	Visit	VERB	Visiting	{"Entity": "24"}
+24	URL	X		{}
+1	@USER	X		{}
+2	*purrs	VERB		{}
+3	long	ADV		{}
+4	on	ADP		{}
+5	the	DET		{}
+6	inside	NOUN	Part_inner_outer	{"Part": "6", "Part_Prop": "3"}
+7	,	.		{}
+8	moving	VERB	Motion	{"Manner": "9"}
+9	stealthy	ADV		{}
+10	like	VERB	Experiencer_focus	{}
+11	my	PRON		{}
+12	pard	NOUN		{}
+13	taught	VERB	Education_teaching	{"Skill": "8", "Teacher": "12", "Student": "14"}
+14	me	PRON		{}
+15	to	PRT		{}
+16	do	VERB	Intentionally_act	{"Agent": "14"}
+17	..	.		{}
+18	ears	NOUN	Observable_body_parts	{"Body_part": "18", "Descriptor": "19"}
+19	pulled	VERB	Manipulation	{"Entity": "18"}
+20	back	ADV		{}
+21	,	.		{}
+22	claws	NOUN	Observable_body_parts	{"Descriptor": "24", "Body_part": "22"}
+23	out	ADP		{}
+24	long*	ADJ		{}
+25	@USER	X		{}
+1	Tryna	VERB		{}
+2	Get	VERB	Becoming	{"Time": "5"}
+3	Into	ADP		{}
+4	Something	NOUN		{}
+5	Tonight	NOUN	Calendric_unit	{"Unit": "5"}
+1	Peace	X		{}
+2	green	ADJ		{}
+3	tea	NOUN	Food	{"Food": "3", "Type": "2"}
+4	time	NOUN	Location_in_time	{"Whole": "4"}
+5	!!	.		{}
+6	Happyzone	NOUN		{}
+7	!!!!	.		{}
+8	:)	X		{}
+9	))))	X		{}

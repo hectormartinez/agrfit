@@ -1,0 +1,2106 @@
+<?xml version="1.0" ?>
+<root>
+	<CONTENT>
+		<WORD>sign</WORD>
+		<SENSES>
+			<SENSE id="sense_1">a piece of evidence that something is happening or that something exists&lt;font color=blue&gt; ex: Looking back now, I realize I failed to spot the warning signs. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_2">a written symbol that has a particular meaning, such as % meaning &quot;percent&quot; or $ meaning &quot;dollar&quot;&lt;font color=blue&gt; ex: a multiplication/division sign &lt;/font&gt;</SENSE>
+			<SENSE id="sense_3">a movement or sound that you make that tells other people what you want, how you feel, what they should do, etc.&lt;font color=blue&gt; ex: He turned and gave the familiar thumbs-up sign to the crowd. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_4">a    star sign&lt;font color=blue&gt; ex: I'm a Scorpio. What's your sign? &lt;/font&gt;</SENSE>
+			<SENSE id="sense_5">a flat object with words or pictures on it, put in a public place to provide information or advertise something&lt;font color=blue&gt; ex: Several people were ignoring the no-smoking sign. &lt;/font&gt;</SENSE>
+		</SENSES>
+		<SENTENCES>
+			<SENTENCE id="461742111">
+				<TEXT>so as soon as i &lt;b&gt; signe &lt;/b&gt; d up for twitter safari quit unexepectedly . bad sign ?</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>to commit to something (i.e. sign up).</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>signed, not sign.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>To give your signature.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="254766331">
+				<TEXT>report : steps taken to formally preserve giant indiana studebaker &lt;b&gt; sign &lt;/b&gt; http://t.co/bmkhheia via @user</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5,sense_0</SENSE_LABEL>
+					<COMMENT>This is a welcome sign made out of trees, welcoming you to a town.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="301738885">
+				<TEXT>@user : people born under the &lt;b&gt; sign &lt;/b&gt; of #scorpio are trustworthy , honest , truthful &amp; sincere</TEXT>
+				<ANNOTATOR id="A37CV9K0BHGVJ9">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1W5QY2SZ95EHD">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+					<COMMENT>Refers to an astrological sign.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2ENT5A8JF9001">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A28L1K6D8QUCML">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3LBJ8DCJB86TD">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVXEDARJC5HLU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="326743783">
+				<TEXT>f@ck yes i would let the president come here ! the &lt;b&gt; sign &lt;/b&gt; says politicians - not presidents .</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="390459554">
+				<TEXT>great day in calgary west with mary &amp; reynold nokleby , robyn luff and rebecca eras , 60 &lt;b&gt; signa &lt;/b&gt; tures and 2 sign locations . #yycpoli</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>word is signatures not sign</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>The above word is signature, not sign.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Sign as in signature. Write one's name on (a letter, card, or similar item) to identify oneself as the writer or sender: &quot;the card was signed by the whole class&quot;.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>signatures, not sign</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Sign as in signature.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>there was a typo. the word should be &quot;signatures&quot;. in the context, it should mean something like &quot;a person's name written down to authorize something&quot;</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="137999453">
+				<TEXT>rt @user : #geminis know , more than any other &lt;b&gt; sign &lt;/b&gt; , that it is the little things in life that make it worth living .</TEXT>
+				<ANNOTATOR id="A2OLH1Q3GUFIPE">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AD1ILDUXZHASF">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+					<COMMENT>A part of the zodiac. Speaks of geminis.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="334492675">
+				<TEXT>rt @user : &lt;b&gt; sign &lt;/b&gt; in my own twitter just to know the hot gossip or the trending in this earth . ha ha that 's twitter for .</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>log-in or enter</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="53024656">
+				<TEXT>rt @user : milage &lt;b&gt; sign &lt;/b&gt; in #ushuaia , #argentina http://t.co/bjvmn5bz #viajes #turismo</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="119629410">
+				<TEXT>hike to hollywood &lt;b&gt; sign &lt;/b&gt; with @user</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="38911300">
+				<TEXT>i can finally do the whole &quot; fireworks &quot; song in &lt;b&gt; sign &lt;/b&gt; language</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="455310654">
+				<TEXT>think i'd better &lt;b&gt; sign &lt;/b&gt; off...my zombie tweets are even less interesting</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2C27YTQSQ1GXS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2VJCYBTO30QKS">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>connect or disconnect from the internet or phone call</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="334781214">
+				<TEXT>@user all i see on #ucanationals is you trying to get people to use the official hashtag ... i still call it a pound &lt;b&gt; sign &lt;/b&gt; #oldschool</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2VJCYBTO30QKS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="10449942">
+				<TEXT>:-)) rt @user : this road &lt;b&gt; sign &lt;/b&gt; is outside the mistry residence ;) @user http://t.co/3uw4bna5</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2VJCYBTO30QKS">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="155625651">
+				<TEXT>i just saw a &lt;b&gt; sign &lt;/b&gt; twirler drop his &lt;b&gt; sign &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2VJCYBTO30QKS">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="18082818">
+				<TEXT>rt @user : i just want you n your beautiful soul rt @user beautiful soul - jesse mccartney&amp;lt;&amp;lt;i see da batman &lt;b&gt; sign &lt;/b&gt; in da sky</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9OCIGYN0O6K6">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30WJWW131W266">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="367329081">
+				<TEXT>s/o to the bum on the corner holdin a &lt;b&gt; sign &lt;/b&gt; , wearin a coogi jacket and textin ... smh</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9OCIGYN0O6K6">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="279203086">
+				<TEXT>rt @user : the &lt;b&gt; sign &lt;/b&gt; of a beautiful person is that he always sees beauty in others .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9OCIGYN0O6K6">
+					<SENSE_LABEL>sense_1,sense_0</SENSE_LABEL>
+					<COMMENT>A Characteristic or trait of something or someone. ex: One sign of skin cancer are dark or disfigured moles.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A37BGMSHTKJX30">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="239114843">
+				<TEXT>@user it is a sad day for grammar . another &lt;b&gt; sign &lt;/b&gt; that will annoy me now .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A9OCIGYN0O6K6">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3OT61DL0DY283">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="368259216">
+				<TEXT>lol ! i 'm seriously laughing my ass off . gees .. am i really that bad ? it 's a &lt;b&gt; sign &lt;/b&gt; that i 'm normal ..</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="102851981">
+				<TEXT>photo : its a &lt;b&gt; sign &lt;/b&gt; . http://t.co/y917xntx</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="42526555">
+				<TEXT>this !!! @user there is something ab a water &lt;b&gt; sign &lt;/b&gt; ...</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="83659070">
+				<TEXT>rt @user : crying does not indicate that your weak since birth it has always been a &lt;b&gt; sign &lt;/b&gt; that you are alive and full of potential</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="25761127">
+				<TEXT>running with the devil is playing as i 'm taking off to san antonio . it 's a &lt;b&gt; sign &lt;/b&gt; \ m /</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="42730340">
+				<TEXT>@user bank of o'connor . please pay the amount of ....._________ to that_oli &lt;b&gt; sign &lt;/b&gt; @user</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>sign - be engaged by a written agreement</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="48968880">
+				<TEXT>rt @user : #capricorn is perhaps the most ambitious &lt;b&gt; sign &lt;/b&gt; of the zodiac .</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="459654993">
+				<TEXT>@user well a taradactyl is a bird so its a &lt;b&gt; sign &lt;/b&gt; that you should let me come live with you</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="406642944">
+				<TEXT>sometimes i think the surest &lt;b&gt; sign &lt;/b&gt; that intelligent life exists elsewhere in the universe is that none of it has tried to contact us .</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="60201420">
+				<TEXT>rt @user : rumor : ty is in jail in vegas for not stopping at a stop &lt;b&gt; sign &lt;/b&gt; . what really happened ?!</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE3A1HAMMKGC0">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="166295538">
+				<TEXT>i have muriel 's wedding in my head this morning . i think that 's a &lt;b&gt; sign &lt;/b&gt; that the ps3 wants to play it</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE3A1HAMMKGC0">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="385163732">
+				<TEXT>@user - i 'm tryin &amp; enjoyn every minute ! a little sore but that 's the &lt;b&gt; sign &lt;/b&gt; of progress !! :)</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE3A1HAMMKGC0">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="179534951">
+				<TEXT>i 've decided two things tonight : i 'm going to learn to play the drums . i 'm going to be a &lt;b&gt; sign &lt;/b&gt; language interpreter . nothing else will do .</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE3A1HAMMKGC0">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>alternative form of communication</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="150536679">
+				<TEXT>rt @user : #bieberfact justin once held up a &lt;b&gt; sign &lt;/b&gt; from his hotel window saying &quot; go to mcdonalds and get me a big mac .&quot;</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="402962278">
+				<TEXT>lmfao at the homeless person downtown holding a &lt;b&gt; sign &lt;/b&gt; in need of money #obviously</TEXT>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A37BGMSHTKJX30">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1LRRDBA84ITCJ">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A136RDQO8D9QGG">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="101992667">
+				<TEXT>there 's a &lt;b&gt; sign &lt;/b&gt; on my dick &amp; it says help wanted .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="38333116">
+				<TEXT>i jus seen 2 kids dat kaint talk havin a konvo n &lt;b&gt; sign &lt;/b&gt; language laffin n sht</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="427965484">
+				<TEXT>@user haha the &lt;b&gt; sign &lt;/b&gt; of a good night right there</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="60235436">
+				<TEXT>rt @user : ah shoot the hot &lt;b&gt; sign &lt;/b&gt; on , y'all know what that means !</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="41189659">
+				<TEXT>rt @user : &lt;b&gt; sign &lt;/b&gt; here if you do n't believe that corporations are persons with constitutional rights equal to real people : http :/ ...</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>do write ones name</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>sign - be engaged by a written agreement</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="290874515">
+				<TEXT>@user : #aries is a red hot fire &lt;b&gt; sign &lt;/b&gt; and famous for bursting into spontaneous sexual combustion . lol</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="408226416">
+				<TEXT>rycoco when a network debuts a show and does n't play the premiere it 's a sure &lt;b&gt; sign &lt;/b&gt; of death . see : fikk8</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="327311040">
+				<TEXT>@user looooool ! this is a first &lt;b&gt; sign &lt;/b&gt; of depression !!</TEXT>
+				<ANNOTATOR id="A2IUFXQO9ZC0LW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="17221447">
+				<TEXT>&lt;b&gt; sign &lt;/b&gt; @user ' s new petition-americans for prosperity newest ad exposing more on obama 's green energy scam http://t.co/yycrtwnp</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1,sense_0</SENSE_LABEL>
+					<COMMENT>signature</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2IRXCL5YW5RAS">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>to put one's signature on a document, ex: Sign here on the dotted line.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>A person's signature on a form.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1LRRDBA84ITCJ">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Applying a written signature</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20VG7NZ13S29U">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>A signature</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="16673480">
+				<TEXT>spent the entire day believing that it was thursday . everything feels so wrong now . is this a &lt;b&gt; sign &lt;/b&gt; that everything is wrong and im fucked</TEXT>
+				<ANNOTATOR id="A2IUFXQO9ZC0LW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="385720866">
+				<TEXT>i always have a dream where it start off good . then i wake up before i die . right before . its a &lt;b&gt; sign &lt;/b&gt; :(</TEXT>
+				<ANNOTATOR id="A2IUFXQO9ZC0LW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="293015149">
+				<TEXT>seeing a big &quot; sportsdirect.com &quot; &lt;b&gt; sign &lt;/b&gt; at st . james ' park just does n't look right ...</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H0ZOX916YFB4">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2IUFXQO9ZC0LW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2BC0MRL0SOKJQ">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="14990869">
+				<TEXT>look what i found on the way home ! i 've named him ernest , as he was stuck on a street &lt;b&gt; sign &lt;/b&gt; for ernest street . http://t.co/g7jya5pc</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2PGGBN0DSA2RL">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="210506674">
+				<TEXT>text messaging was invented by the homeless guy with the &quot; will work for food &quot; &lt;b&gt; sign &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="254852742">
+				<TEXT>&lt;b&gt; sign &lt;/b&gt; @user s letter calling on boehner to stop the #waronwomen &amp; hold no #antichoice votes in 2012 http://t.co/2kf1okcu</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>put a signature on something</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A136RDQO8D9QGG">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="242965406">
+				<TEXT>#2omf be hating on #teamcancer like we ai n't the best &lt;b&gt; sign &lt;/b&gt; out cheaa ...</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_7</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Sign as in emblem or insignia</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1IMICF9ISISZN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="50388592">
+				<TEXT>tomorrow &lt;b&gt; sign &lt;/b&gt; and last day by 24th january , lets go</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2UB1WE4XR1K1Z">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>I have no idea. This sentence makes no sense.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>not sure from context</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>To give your signature.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="67245484">
+				<TEXT>via @user : people want more coins , that 's a good &lt;b&gt; sign &lt;/b&gt; for the economy http://t.co/n7o8byy8</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2UB1WE4XR1K1Z">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="461705669">
+				<TEXT>@user like what does the number &lt;b&gt; sign &lt;/b&gt; mean ?? haha (:</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38TCB4NTM5093">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVXEDARJC5HLU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30WJWW131W266">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AP1C3ZE41AMH1">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="210182075">
+				<TEXT>i guess this is a &lt;b&gt; sign &lt;/b&gt; of i should go to bed . : p #goodnight</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2UB1WE4XR1K1Z">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="341822714">
+				<TEXT>rt @user : i got a &lt;b&gt; sign &lt;/b&gt; on my ass that say 's true religion &amp; gt ;</TEXT>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="297426580">
+				<TEXT>@user is this the first &lt;b&gt; sign &lt;/b&gt; of you getting &quot; lawyers 's point &quot; syndrome ? haha .</TEXT>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Z2SSVTB24QOY">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="112953734">
+				<TEXT>rt @user : if you were to let any astrology &lt;b&gt; sign &lt;/b&gt; take control , let it be the #scorpios because they are very good at it .</TEXT>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Z2SSVTB24QOY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="144247316">
+				<TEXT>@user campervan towing a small car with &lt;b&gt; sign &lt;/b&gt; in window &quot; i 'm a good car , i go where i 'm towed to go &quot;. :)</TEXT>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Z2SSVTB24QOY">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOPZSU77ONJXS">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20VG7NZ13S29U">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="164774159">
+				<TEXT>why u put the less than &lt;b&gt; sign &lt;/b&gt; ? lol rt @user woke up to sunday dinner .. &amp; lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;#winning</TEXT>
+				<ANNOTATOR id="A3BXTZQSUGFRIO">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_7</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Z2SSVTB24QOY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="131672833">
+				<TEXT>everytime i hit shuffle for &quot; elevate &quot; superstar comes up first . is this a &lt;b&gt; sign &lt;/b&gt; ?</TEXT>
+				<ANNOTATOR id="A3AI1EPDS8HAJ5">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3A7VZ2Z5EU18R">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2S09R2TB55WBN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2Z53LAM62CQVU">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35M4RWV3MCRUE">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1JXWWE39KJR2B">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20VG7NZ13S29U">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="112360946">
+				<TEXT>@user yea..but u been lookin for how long now ?? maybe its a &lt;b&gt; sign &lt;/b&gt; and you right..lmfao</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2IUFXQO9ZC0LW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="28463172">
+				<TEXT>@user that 's a lot of work lmao . plus i guess it 's a &lt;b&gt; sign &lt;/b&gt; , cause i have work to finish !</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2IUFXQO9ZC0LW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="219061810">
+				<TEXT>@user i no a picture of a 75 year old lady doing a peace &lt;b&gt; sign &lt;/b&gt; #legendary</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2IUFXQO9ZC0LW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="266246715">
+				<TEXT>: him and you : 69 mutual friends . it 's a &lt;b&gt; sign &lt;/b&gt; !!</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2IUFXQO9ZC0LW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="460686699">
+				<TEXT>logo gold equal &lt;b&gt; sign &lt;/b&gt; http://t.co/wl1enyjo</TEXT>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVOF14300525D">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+					<COMMENT>The sentence talks about a written symbol that has a particular meaning.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="81377048">
+				<TEXT>@user please listen to us and tell me please !! :') http://t.co/5ymdpujg we 'll make a we love gleley &lt;b&gt; sign &lt;/b&gt; ? ; d</TEXT>
+				<ANNOTATOR id="AVOF14300525D">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+					<COMMENT>The sentence talks about a movement that you make that tells other people what you want, how you feel, etc.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="87263856">
+				<TEXT>he had great style and he could whistle really loudly . and he liked drakes slow stuff . jesus could n't have made this &lt;b&gt; sign &lt;/b&gt; any clearer</TEXT>
+				<ANNOTATOR id="AVOF14300525D">
+					<SENSE_LABEL>sense_1,sense_3</SENSE_LABEL>
+					<COMMENT>The sentence talks about a piece of evidence that something is happening or that something exists or a movement that you make that tells other people what you want, how you feel, etc.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="59600080">
+				<TEXT>@user &lt;b&gt; sign &lt;/b&gt; of a good 2012 season</TEXT>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVOF14300525D">
+					<SENSE_LABEL>sense_1,sense_3</SENSE_LABEL>
+					<COMMENT>The sentence talks about a piece of evidence that something is happening or that something exists or a movement that you make that tells other people what you want, how you feel, etc.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="108796829">
+				<TEXT>@user i know ! we should ! save us some money lol ! are we still going to make a &lt;b&gt; sign &lt;/b&gt; ?</TEXT>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20JA64BT9D6FR">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="23050242">
+				<TEXT>is it just me or did everyone perspective of everyone change right after high school ? idk if that 's a &lt;b&gt; sign &lt;/b&gt; of growth or something immature</TEXT>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20JA64BT9D6FR">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJ5XS1V27H091">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+					<COMMENT>The phrase sign of growth implies they are using this phrase to indicate proof something is happening.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="26434156">
+				<TEXT>rt @user : wish niggas came with a &lt;b&gt; sign &lt;/b&gt; on their 4head like &quot; hi i 'm ____ and i 'm here 2 waste your fucking time &quot;</TEXT>
+				<ANNOTATOR id="A20JA64BT9D6FR">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="61276819">
+				<TEXT>@user aggression is a &lt;b&gt; sign &lt;/b&gt; of missing someone ... * wink , wink , etc *</TEXT>
+				<ANNOTATOR id="A20JA64BT9D6FR">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="17066195">
+				<TEXT>@user @user did u see that photo of a lib . with &lt;b&gt; sign &lt;/b&gt; &quot; you know things are bad when librarians rally &quot;? #uklibchat #occupy #ows</TEXT>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="256585811">
+				<TEXT>@user aaaah ! ithought uwere gesturinq 2 me that we would do it another time when uwere on stage . lmbo , i 'm not good with &lt;b&gt; sign &lt;/b&gt; language</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_3,sense_0</SENSE_LABEL>
+					<COMMENT>A language of hand signs for people that cant hear.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AJ5XS1V27H091">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3HKUTT4DCCMSS">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+					<COMMENT>The sentence is about gestures.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2UB1WE4XR1K1Z">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="39481349">
+				<TEXT>the new &lt;b&gt; sign &lt;/b&gt; at the summit of #kilimanjaro is awful http://t.co/cqzhezcq should have kept the old one #kili</TEXT>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AXFESYBQ21CVX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1X8JM3MNRPA87">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1PYMROZ75S4FW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="429922658">
+				<TEXT>i swear i'ma buy a &lt;b&gt; sign &lt;/b&gt; that says bad bitchs only</TEXT>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="230009912">
+				<TEXT>and i got my third star at work today , a &lt;b&gt; sign &lt;/b&gt; of things to come tomorrow</TEXT>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="19536904">
+				<TEXT>#readingfc &lt;b&gt; sign &lt;/b&gt; mikkel andersen up to a long-term contract until 2015 . right . so which of federici and mccarthy are leaving then ?</TEXT>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>sign - be engaged by a written agreement</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="27200600">
+				<TEXT>ugh i told myself i was gonna get started on this paper after wendy....but she didnt come on , clearly thats a &lt;b&gt; sign &lt;/b&gt; lol</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="185806851">
+				<TEXT>iont believe in karma &amp; iont believe in that zodiac &lt;b&gt; sign &lt;/b&gt; shit</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20VG7NZ13S29U">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="61659098">
+				<TEXT>rt @user : rt @user admitting your mistakes is not a &lt;b&gt; sign &lt;/b&gt; of weakness but a &lt;b&gt; sign &lt;/b&gt; of maturity</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="78157896">
+				<TEXT>@user ummmmmm i 'm putting a wanted &lt;b&gt; sign &lt;/b&gt; in the paper</TEXT>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="354549613">
+				<TEXT>couple hoes in my stable , time to stabilize ! check the time , i better say mine bitches ! need a &lt;b&gt; sign &lt;/b&gt; on my dick that say &quot; fine bitchess &quot;</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="198583816">
+				<TEXT>your mascara and eye liner probably need replacing . if you do n't remem last time you bought , that 's a &lt;b&gt; sign &lt;/b&gt; ! s/b every 3 mos max #marykay</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ZDQYGN778RQ7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="264982471">
+				<TEXT>rt @user : aries &lt;b&gt; sign &lt;/b&gt; !! were the most arrested in 2011 they said they dive into everything first and love adventure ( says astrologist )</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="156080091">
+				<TEXT>na but it was &lt;b&gt; sign &lt;/b&gt; of royalty rt @user : lmfao &quot; hoochie mama &quot; @user question , is purple a &quot; hoochie mama &quot; color ?</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="463674039">
+				<TEXT>it is even by this infallible &lt;b&gt; sign &lt;/b&gt; that you will recognize it</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="72449733">
+				<TEXT>so on #cnn today it showed a man in ohio that 's going to court becuz he wants to display a &lt;b&gt; sign &lt;/b&gt; outside the school that says for whites only</TEXT>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="184262090">
+				<TEXT>this shit just keeps popping up , it 's a &lt;b&gt; sign &lt;/b&gt; bro . http://t.co/hjefoi1i</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2WRP1KHK1UU7L">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="409957745">
+				<TEXT>do i have a &lt;b&gt; sign &lt;/b&gt; on my forehead sayin no discounts when it comes to buying plane tickets .</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2WRP1KHK1UU7L">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="247566124">
+				<TEXT>@user : @user auto pen or you legit &lt;b&gt; signe &lt;/b&gt; d each copy??legit sign bro .</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>signature</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>To write a signature Ex. He just couldn't bring himself to sign the divorce papers.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2WRP1KHK1UU7L">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="354022675">
+				<TEXT>haha just saw my sister on river road holding up a mr north &lt;b&gt; sign &lt;/b&gt; ! still amazed she 's already a junior .</TEXT>
+				<ANNOTATOR id="A7M8C6JRCD19D">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2WRP1KHK1UU7L">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="33455798">
+				<TEXT>rt @user : ... no dollar &lt;b&gt; sign &lt;/b&gt; on peace of mind , this i 've come to know , so if you agree have a drink with me !</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE3A1HAMMKGC0">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="121844692">
+				<TEXT>nuhog membership &lt;b&gt; sign &lt;/b&gt; ups ! going on right now until 8pm ! come on down , renew your membership and have some pizza !</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Sign; Write one's name on (a letter, card, or similar item) to identify oneself as the writer or sender</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE3A1HAMMKGC0">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="372624208">
+				<TEXT>rt @user : rt @user romney supporter at manchester intersection holding &lt;b&gt; sign &lt;/b&gt; reading , &quot; spread my work ethic around .&quot; #nh h ...</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE3A1HAMMKGC0">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="458935897">
+				<TEXT>rt if your school needs money . check this out . easy &lt;b&gt; sign &lt;/b&gt; up . http://t.co/n2xju1to</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>Sign; Write one's name on (a letter, card, or similar item) to identify oneself as the writer or sender</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a document that you're able to put your signature on</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE3A1HAMMKGC0">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="229710688">
+				<TEXT>he gotta a &lt;b&gt; sign &lt;/b&gt; on his dick that say o 's dick only</TEXT>
+				<ANNOTATOR id="AHLEIW6IVQ98T">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="327461381">
+				<TEXT>@user that 's tuff sis , that 's a &lt;b&gt; sign &lt;/b&gt; w/a date right ?</TEXT>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AHLEIW6IVQ98T">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="282821062">
+				<TEXT>rt @user : rt @user signz &lt;/b&gt; : #gemini is a rather open-minded sign , there is often a bias towards logic .</TEXT>
+				<ANNOTATOR id="AHLEIW6IVQ98T">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="17615504">
+				<TEXT>wow i almost just died cause a guy that looked like santa ran a stop &lt;b&gt; sign &lt;/b&gt; and kept driving and was like not even a foot away from my body !</TEXT>
+				<ANNOTATOR id="AHLEIW6IVQ98T">
+					<SENSE_LABEL>sense_2,sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3BVEZT6YXIE86">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1F3ZCU9KA2SB7">
+					<SENSE_LABEL>sense_5</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="142886522">
+				<TEXT>another positive &lt;b&gt; sign &lt;/b&gt; for 2012 real estate market . http://t.co/9p8yjzhq</TEXT>
+				<ANNOTATOR id="APGX2WZ59OWDN">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+		</SENTENCES>
+	</CONTENT>
+</root>

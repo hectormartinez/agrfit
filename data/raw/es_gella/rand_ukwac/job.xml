@@ -1,0 +1,2145 @@
+<?xml version="1.0" ?>
+<root>
+	<CONTENT>
+		<WORD>job</WORD>
+		<SENSES>
+			<SENSE id="sense_1">something that a computer, printer, etc. does&lt;font color=blue&gt; ex: Your scan is the third job in the queue. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_2">your duty in a particular situation or organization&lt;font color=blue&gt; ex: When I took on the job, I didn't know what it would involve. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_3">something that you have to do or deal with&lt;font color=blue&gt; ex: Our architects have done the job in record time. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_4">work that you do regularly to earn money   .  When you ask someone about their job, you usually say &quot;What do you do?&quot;, and not &quot;What is your job?&quot; The answer would usually be &quot;I am a ...&quot; or &quot;I work as a...&quot;, and not &quot;My job is...&quot;&lt;font color=blue&gt; ex: There are not many job opportunities in this part of the country. &lt;/font&gt;</SENSE>
+			<SENSE id="sense_5">a crime, especially one in which money is stolen&lt;font color=blue&gt; ex: a bank job &lt;/font&gt;</SENSE>
+			<SENSE id="sense_6">something of a particular type&lt;font color=blue&gt; ex: He's bought one of those MP3 jobs. &lt;/font&gt;</SENSE>
+		</SENSES>
+		<SENTENCES>
+			<SENTENCE id="&lt;text id=&quot;http://www.erps.co.uk/steamon10/SteamOn10.htm&quot;&gt;">
+				<TEXT>Butterley have done an excellent restoration &lt;b&gt; job  &lt;/b&gt; and 92214 looked as good as new .</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2GX7BJUGEUE9V">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://scfc.co.uk/press/press234.html&quot;&gt;">
+				<TEXT>&quot; He did a good &lt;b&gt; job  &lt;/b&gt; at Port Vale and has done well since taking over at Macclesfield .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2GX7BJUGEUE9V">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A5A9QE4W8X1UI">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+					<COMMENT>&quot;do a good job&quot; is a saying that is somewhere in between job=duty and job=something you have to deal with.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYQWBIUVDPBXK">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.bignjuicy.co.uk/2004_10_01_pip.html&quot;&gt;">
+				<TEXT>And for a resident of California did not seem too hung up on the ethical aspects of his &lt;b&gt; job  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="AM7FYVGVOEP66">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2IRXCL5YW5RAS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1RWNYJA5X25YH">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2QW3HSS2UUA3K">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35M4RWV3MCRUE">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.oneworkplace.org.uk/oneworkplace/426.html?pMenuID=202&amp;amp&quot;&gt;">
+				<TEXT>For example a &lt;b&gt; job  &lt;/b&gt; advertisement that openly says ' no disabled people need apply ' .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.learn-and-earn.org.uk/philip%20johnson.htm&quot;&gt;">
+				<TEXT>You also benefit from learning the theory behind your &lt;b&gt; job  &lt;/b&gt; whilst getting valuable qualifications .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2GX7BJUGEUE9V">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.accountingweb.co.uk/cgi-bin/item.cgi?id=126927&amp;d=448&amp;h=0&amp;f=0&quot;&gt;">
+				<TEXT>Unless it 's a fixed price &lt;b&gt; job  &lt;/b&gt; , is the designer seeing opertunity to boost his fee ?</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_6</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_6</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20VG7NZ13S29U">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A196YAYUDDD8CK">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.christs.cam.ac.uk/catalog/careers/career_options.html&quot;&gt;">
+				<TEXT>The following website is also useful for museum and gallery &lt;b&gt; job  &lt;/b&gt; research : Leicester University Jobs Desk</TEXT>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1IS0218RVG60K">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A18SDPMXGIDEB4">
+					<SENSE_LABEL>sense_4,sense_6</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.creditman.co.uk/news/2911.html&quot;&gt;">
+				<TEXT>Sir Richard Greenbury , chairman and chief executive , is to cede the chief executive &lt;b&gt; job  &lt;/b&gt; to Peter Salsbury ; he will remain chairman .</TEXT>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.staff.city.ac.uk/%7Era917/psychiatric-nursing/threads/user_employ.htm&quot;&gt;">
+				<TEXT>Member M : In my experience as an administrator , the individual 's ability to do the &lt;b&gt; job  &lt;/b&gt; is the only important consideration .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.careers.lon.ac.uk/output/Page505.asp&quot;&gt;">
+				<TEXT>Talk to current practitioners in the field and find out how they found their &lt;b&gt; jobs &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.takeheart.co.uk/kohin/lett97.htm&quot;&gt;">
+				<TEXT>Planners have to justify their &lt;b&gt; jobs &lt;/b&gt;  and salaries , unions are pushing to create 500 &lt;b&gt; jobs &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2CGULR0BMGYOR">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.publicfinance.co.uk/features_details.cfm?News_id=27616&quot;&gt;">
+				<TEXT>Done says the days experience with the caretakers reminded him what a tough &lt;b&gt; job  &lt;/b&gt; they do .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2CGULR0BMGYOR">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.acas.org.uk/index.aspx?articleid=684&amp;articleaction=print&quot;&gt;">
+				<TEXT>Other benefits Some &lt;b&gt; job  &lt;/b&gt; evaluation techniques require the analysis and description of jobs leading to a more detailed and accurate knowledge of their content .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2CGULR0BMGYOR">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.twofivesix.co.uk/political_cartoons_on_jobs.html&quot;&gt;">
+				<TEXT>If he was just an ordinary bloke in an ordinary &lt;b&gt; job  &lt;/b&gt; he would have been told to take ... http://kierenmccarthy.co.uk/2006/01/11/blair-political-cartoon-showdown-and-the- ... 13 .</TEXT>
+				<ANNOTATOR id="A1D9LRPMVX1CZ3">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2,sense_3,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2CGULR0BMGYOR">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.dfes.gov.uk/publications/5yearstrategy/chap7.shtml&quot;&gt;">
+				<TEXT>Many already do an excellent &lt;b&gt; job  &lt;/b&gt; of meeting employer and learner needs , and take pride in offering responsive , innovative , flexible training .</TEXT>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3C9OSLR9NZW5L">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A18SDPMXGIDEB4">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.londonofficejobs.co.uk/Jobs/Secretarial/PA-Banking/112-Finance-Sector---Senior-PA-7274-job.html&quot;&gt;">
+				<TEXT>To be successful , the &lt;b&gt; job  &lt;/b&gt; holder will need to be confident , assertive and willing to work overtime .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AHZK68L2UCA70">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20JA64BT9D6FR">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3NDGIP7TT9B0Q">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+					<COMMENT>the sentence refers to a person doing certain type of work</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ltu.co.uk/latestnews.php?id=2&amp;type=archive&quot;&gt;">
+				<TEXT>And a massive 89 % of members thought customers would be generally unhappy with the movement of Lloyds TSB work and/or &lt;b&gt; jobs &lt;/b&gt;  abroad .</TEXT>
+				<ANNOTATOR id="A136RDQO8D9QGG">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AP400922OOTYZ">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.res.org.uk/society/mediabriefings/pdfs/2001/November/arulam.asp&quot;&gt;">
+				<TEXT>Unemployment tends to bring with it future unemployment ; and &lt;b&gt; job  &lt;/b&gt; displacement tends to be followed by a lower trajectory for future earnings .</TEXT>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A364KJDYEBAWC9">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2SB2BW2W4T4WW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+					<COMMENT>Sentence refers to work for earnings.</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A18SDPMXGIDEB4">
+					<SENSE_LABEL>sense_2,sense_3,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.snowline.co.uk/Day_in_the_Life_1.asp?category=3&amp;doc=2711&amp;id=2708&quot;&gt;">
+				<TEXT>Do not imagine it is anything like the glory &lt;b&gt; job  &lt;/b&gt; it seems - frequent loo cleaning manages to calm the ego !</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A248LF7KKHXZ14">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A18SDPMXGIDEB4">
+					<SENSE_LABEL>sense_6</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.lowfield.co.uk/archers/weekly.phtml?20000827&quot;&gt;">
+				<TEXT>Emma admits to asking Lizzie for a &lt;b&gt; job  &lt;/b&gt; as a new kitchen assistant at Lower Loxley .</TEXT>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://doctorvee.co.uk/tag/bus/&quot;&gt;">
+				<TEXT>) is this thing I keep hearing that immigrants do the &lt;b&gt; jobs &lt;/b&gt;  &quot; that the British wo n't do anymore .</TEXT>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.abdn.ac.uk/mediareleases/release.php?id=635&quot;&gt;">
+				<TEXT>The Europe-wide research project also highlights the dramatic increase of stress-related illnesses in recent years in employees with high-speed &lt;b&gt; jobs &lt;/b&gt;  and tight deadlines .</TEXT>
+				<ANNOTATOR id="A3T68OBEBCKJF7">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.antoniabance.org.uk/2005/07/little-bit-more-american-politics.html&quot;&gt;">
+				<TEXT>I 'm one of two Labour members without portfolio , so our &lt;b&gt; job  &lt;/b&gt; is to represent the views of Labour voters and the group .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.creditman.co.uk/news/060102.html&quot;&gt;">
+				<TEXT>Their priorities are to maintain cash flow and protect the &lt;b&gt; jobs &lt;/b&gt;  of their employees .</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Z2SSVTB24QOY">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.countrysideonline.co.uk/news.php?item.1956.3&quot;&gt;">
+				<TEXT>Chief Minister Donald Gelling said : The Land Girls did a tough , vital &lt;b&gt; job  &lt;/b&gt; but they were the Cinderellas of the war effort .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Z2SSVTB24QOY">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVXEDARJC5HLU">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1LRRDBA84ITCJ">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.foe.co.uk/resource/press_releases/19980605155622.html&quot;&gt;">
+				<TEXT>Energy taxes are good for &lt;b&gt; jobs &lt;/b&gt;  , good for the economy and good for the environment .</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2,sense_0</SENSE_LABEL>
+					<COMMENT>general term for &quot;employment&quot;</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Z2SSVTB24QOY">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.chs.med.ed.ac.uk/ruhbc/research/projects/ltc3.php&quot;&gt;">
+				<TEXT>WHAT THIS STUDY ADDS : A significant minority of NHS staff reports extensive change in their &lt;b&gt; jobs &lt;/b&gt;  in the past year .</TEXT>
+				<ANNOTATOR id="A1ODHC7GKYB5QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1Z2SSVTB24QOY">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.burrator.gov.uk/beacon/spring2006.htm&quot;&gt;">
+				<TEXT>It seems either local contractors are too busy or it is too small a &lt;b&gt; job  &lt;/b&gt; to be taken on .</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>a task (or group of tasks) to be done</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A136RDQO8D9QGG">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ash.org.uk/html/casestudies/kwhitehead.html&quot;&gt;">
+				<TEXT>I 'd stopped smoking for about 9 months before I got my &lt;b&gt; job  &lt;/b&gt; at the community centre .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.yourcounty.co.uk/business/jobnews18.html&quot;&gt;">
+				<TEXT>Sign up for The Kent Review for breaking &lt;b&gt; job  &lt;/b&gt; news and Yourcounty 's employment and training updates .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>employment opportunity</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.volunteeredinburgh.org.uk/news/Newsletters/apr04/default.htm&quot;&gt;">
+				<TEXT>We 're generally happy doing the &lt;b&gt; jobs &lt;/b&gt;  we do , and when problems arise , that old voluntary sector support network trundles into action .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ombudsman.org.uk/improving_services/selected_cases/PCA/sc0003/c1500.html&quot;&gt;">
+				<TEXT>Mr A said that , had his business continued , his wife would not have taken full-time employment in a &lt;b&gt; job  &lt;/b&gt; which she hated .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.eternalnight.co.uk/interviews/2004/roycraftjaye.html&quot;&gt;">
+				<TEXT>Vampires have now been granted citizen rights , and affirmative action has dictated that vampires be hired to government &lt;b&gt; jobs &lt;/b&gt;  , including law enforcement .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.gty.org.uk/transcripts/55-6.htm&quot;&gt;">
+				<TEXT>I was a back and I was to lead through and knock out the linebacker , that was my &lt;b&gt; job  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cisc.org.uk/info_on_322.htm&quot;&gt;">
+				<TEXT>4. Finalise the agreed &lt;b&gt; Job  &lt;/b&gt; Description Assemble the Standards into a draft job description .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.jobs1.co.uk/directory/services_training.html&quot;&gt;">
+				<TEXT>Hits : 569 Bradley CVs FREE CV / resume , &lt;b&gt; job  &lt;/b&gt; searching , interview &amp; careers advice .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>opportunity for(or, form of) employment</COMMENT>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.rrc.co.uk/hsb/Summer05/docs/news.html&quot;&gt;">
+				<TEXT>He had missed several chainsaw use refresher courses due to illness and there had been no risk assessment of the &lt;b&gt; job  &lt;/b&gt; in hand .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_3,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.chi.ac.uk/careers/CreativeJobHunting.cfm&quot;&gt;">
+				<TEXT>It is worth remembering that creative &lt;b&gt; job  &lt;/b&gt; hunting is about maximising your opportunities and using all available methods in the &lt;b&gt; job  &lt;/b&gt; search .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2NV10VO47CYHA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_3,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>opportunity for(or, form of) employment</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://journalism.cf.ac.uk/2004/Student/sjosr2/portfolio/groomtorider.html&quot;&gt;">
+				<TEXT>I also took on extra &lt;b&gt; jobs &lt;/b&gt;  like delivery rounds and cleaning campsite loos - anything to make money .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.addjobs.co.uk/recruitmentagents/accountancy_finance/index.asp&quot;&gt;">
+				<TEXT>Golley Slater Recruitment Golley Slater Recruitment  specialists in accountancy &lt;b&gt; jobs &lt;/b&gt;  and executive &lt;b&gt; jobs &lt;/b&gt;  in Wales .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AMSWIR4J9XEIJ">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.jobs1.co.uk/directory/recruitment_local_yorkshire1.html&quot;&gt;">
+				<TEXT>Hits : 7466 Graduate &lt;b&gt; jobs &lt;/b&gt;  Graduate &lt;b&gt; jobs &lt;/b&gt;  , employer profiles , online CV and training , for recent graduates and students about to graduate .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AMSWIR4J9XEIJ">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.iwar.org.uk/news-archive/2004/07-08-9.htm&quot;&gt;">
+				<TEXT>My only wish is that those whose &lt;b&gt; job  &lt;/b&gt; it is to help us do better show the same balance and care .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AMSWIR4J9XEIJ">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://onlinenews.warwickshire.police.uk/briefings/archivefolder/200524Newspec&quot;&gt;">
+				<TEXT>&quot; &quot; I decided to apply for this &lt;b&gt; job  &lt;/b&gt; as I had done jury service and really enjoyed it .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AMSWIR4J9XEIJ">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.jobsite.co.uk/articles/candidate/c1/s23/a1861.html&quot;&gt;">
+				<TEXT>It is a fact that grateful people attract more &lt;b&gt; job  &lt;/b&gt; offers and opportunities that ungrateful people .</TEXT>
+				<ANNOTATOR id="A3V8V2OFMRM0QL">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.engsc.ac.uk/er/employability/index.asp?viewf=+393+&quot;&gt;">
+				<TEXT>The publication covers topics from skills awareness and career choice to &lt;b&gt; job  &lt;/b&gt; search techniques and resources .</TEXT>
+				<ANNOTATOR id="A2C27YTQSQ1GXS">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOPZSU77ONJXS">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://socialistworker.org.uk/article.php?article_id=8773&quot;&gt;">
+				<TEXT>Over 85,000 workers in the PCS struck in the DWP on Tuesday and Wednesday of this week against tens of thousands of &lt;b&gt; job  &lt;/b&gt; cuts .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>positions (forms) of employment</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://mercury.soas.ac.uk/HR/R&amp;S/JobDescriptions.html&quot;&gt;">
+				<TEXT>However , &lt;b&gt; job  &lt;/b&gt; descriptions which are too short can be vague , unclear and can be misleading to candidates .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.acas.org.uk/index.aspx?articleid=838&quot;&gt;">
+				<TEXT>This has led to a new emphasis on redesigning &lt;b&gt; jobs &lt;/b&gt;  to provide greater job satisfaction and improved quality of working life .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1BY04BWSZTFGX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ceg.org.uk/talkingjobs/print.asp?job=Industrial%20Engineer&quot;&gt;">
+				<TEXT>This is known as Method Analysis , which means planning out the route for a particular &lt;b&gt; job  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1BY04BWSZTFGX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.socialistparty.org.uk/2006/446/militant.htm&quot;&gt;">
+				<TEXT>The question of the static security force , the question of &lt;b&gt; jobs &lt;/b&gt;  for the boys and girls , all of that was nonsense .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1BY04BWSZTFGX">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://scfc.co.uk/press/press175.html&quot;&gt;">
+				<TEXT>&quot; The PFA &lt;b&gt; job  &lt;/b&gt; gives me a valuable insight into what 's happening in football , &quot; said Cusack .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1BY04BWSZTFGX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://unixhelp.ed.ac.uk/CGI/man-cgi?umask&quot;&gt;">
+				<TEXT>If no &lt;b&gt; jobs &lt;/b&gt; pec is present , and neither the -a nor the -r option is supplied , the current job is used .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVI77MTGQS0T9">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.weeklygripe.co.uk/arc114.asp&quot;&gt;">
+				<TEXT>It is not that Indians feel very happy when somebody looses &lt;b&gt; job  &lt;/b&gt; here or they are doing any conspiracy .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ACSKEB7JBPLXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVI77MTGQS0T9">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.swp.org.uk/swp_archive.php?article_id=5032&quot;&gt;">
+				<TEXT>In a parecon we are all workers with balanced &lt;b&gt; job  &lt;/b&gt; complexes  there is one class , only .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOPZSU77ONJXS">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A30WJWW131W266">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVI77MTGQS0T9">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ssv.uce.ac.uk/Careers/car-graduates-jobhunt-start.htm&quot;&gt;">
+				<TEXT>Your strengths in relation to these &lt;b&gt; jobs &lt;/b&gt;  - research into what these &lt;b&gt; jobs &lt;/b&gt;  involve will tell you what recruiters will require from you .</TEXT>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AVI77MTGQS0T9">
+					<SENSE_LABEL>sense_3,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ohb.scot.nhs.uk/News/Newsart01.htm&quot;&gt;">
+				<TEXT>Initially 6 areas of work have been identified but the intention is to roll out more volunteering &lt;b&gt; jobs &lt;/b&gt;  once the programme gets underway .</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.careeradvicenetwork.co.uk/resume/sample-resume.html&quot;&gt;">
+				<TEXT>We have a range of sample. resumes and resume examples to help you get the &lt;b&gt; job  &lt;/b&gt; .. .</TEXT>
+				<ANNOTATOR id="A2WMSIPUKEIBNS">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2PGGBN0DSA2RL">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ABYKQRCNOFYGK">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3L4JPADUA9EQ6">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;https://www.tuc.org.uk/welfare/tuc-12381-f0.cfm&quot;&gt;">
+				<TEXT>The threat of the sack as there is no protection from unfair dismissal until 12 months in a &lt;b&gt; job  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.jrf.org.uk/knowledge/responses/docs/employmentzones.asp&quot;&gt;">
+				<TEXT>Many of those displaced from manual &lt;b&gt; jobs &lt;/b&gt;  appear to have become hidden unemployed .</TEXT>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3BZ5KDTGXJZG2">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.familiesonline.co.uk/article/articleview/2047/1/19&quot;&gt;">
+				<TEXT>No &lt;b&gt; job  &lt;/b&gt; too small , Linda is always happy to quote , free of charge and without obligation .</TEXT>
+				<ANNOTATOR id="A35BQPABKN4Q8C">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.careers.ed.ac.uk/STUDENTS/Careers/F2.html&quot;&gt;">
+				<TEXT>Also has the facility to register for email &lt;b&gt; job  &lt;/b&gt; alerts and to register your CV so that employers can contact suitable candidates .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AUMM4O24JTD5O">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.pathwaysnetwork.co.uk/about/design.htm&quot;&gt;">
+				<TEXT>Once we have sight of copy we will be able to quote for the print &lt;b&gt; job  &lt;/b&gt; you require .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_1,sense_3,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AUMM4O24JTD5O">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.careers.lon.ac.uk/output/Page487.asp&quot;&gt;">
+				<TEXT>Voluntary Work Whilst not paid , voluntary work often involves greater variety and responsibility than you may find in a regular paid holiday &lt;b&gt; job  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AUMM4O24JTD5O">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ukdf.org.uk/grey/gr25.htm&quot;&gt;">
+				<TEXT>Distraction Government should not be distracted by other important issues - like the need to preserve &lt;b&gt; jobs &lt;/b&gt;  - from the emphasis of the strategy .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AYN2JAGMDI8H0">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1VWJ07MJAQTCU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AUMM4O24JTD5O">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3RM5913JCUGCS">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.industryrecruit.co.uk/Scientific/&quot;&gt;">
+				<TEXT>If you obtain vacancies that match more closely your skills , then you can be more confident in getting the &lt;b&gt; job  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A3HE7SE6BYC89I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE627VT8OR8A6">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.eoc-law.org.uk/Default.aspx?page=2831&quot;&gt;">
+				<TEXT>The &lt;b&gt; Jobc &lt;/b&gt; entre or &lt;b&gt; Jobc &lt;/b&gt; entre Plus staff will ask about reasons for leaving the last job , because this can potentially reduce entitlement to benefit .</TEXT>
+				<ANNOTATOR id="A3HE7SE6BYC89I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AE627VT8OR8A6">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://histru.bournemouth.ac.uk/Oral_History/Technology_in_the_Community/Keith_Thompson.htm&quot;&gt;">
+				<TEXT>And then I went on to take a &lt;b&gt; job  &lt;/b&gt; in London with the County of London Supply Company for 4 years .</TEXT>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H612FO0X09QA">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A34SVP7NQ7MH17">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.tory.org.uk/popups/print.cfm?obj_id=126451&amp;type=print&quot;&gt;">
+				<TEXT>Short-term contracts make it hard for a proper &lt;b&gt; job  &lt;/b&gt; to be done and proper lessons to be learned .</TEXT>
+				<ANNOTATOR id="A3HE7SE6BYC89I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.sec-ed.co.uk/cgi-bin/go.pl/features/article.html?uid=1393&quot;&gt;">
+				<TEXT>But not everyone wants to leave their roots behind and take a &lt;b&gt; job  &lt;/b&gt; hundreds of miles from home .</TEXT>
+				<ANNOTATOR id="A3HE7SE6BYC89I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.wgaalumni.co.uk/enetwork/issue13/roundup.html&quot;&gt;">
+				<TEXT>BLIS &lt;b&gt; Jobs &lt;/b&gt;  article for Graduates  ' Free job site for people with languages Have you recently graduated with a degree in languages ?</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC5LU9TF9CTK9">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.unison-scotland.org.uk/siu/siuapr00.html&quot;&gt;">
+				<TEXT>Where they deliberately attack the &lt;b&gt; job  &lt;/b&gt; prospects of over 3,000 public sector workers , voices of protest seem muted or silent .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC5LU9TF9CTK9">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A136RDQO8D9QGG">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.cornwall.nhs.uk/childcarecoordinationteam/CLIENT/06_family_friendly_policies/flexible_working.asp&quot;&gt;">
+				<TEXT>Term-time working : allows you to be in a permanent full or part-time &lt;b&gt; job  &lt;/b&gt; while taking unpaid leave during agreed school holidays .</TEXT>
+				<ANNOTATOR id="AE627VT8OR8A6">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2V8JFQEA30XNQ">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1JXWWE39KJR2B">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://lorien.ncl.ac.uk/ming/Dept/alumni/alumnews-Sep-Jun-2003.htm&quot;&gt;">
+				<TEXT>She 's liking it , especially since the &lt;b&gt; job  &lt;/b&gt; change is accompanied by shopping trips to the US .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC5LU9TF9CTK9">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.spartacus.schoolnet.co.uk/JFKbradleeB.htm&quot;&gt;">
+				<TEXT>This &lt;b&gt; job  &lt;/b&gt; , so out of character for the young patriot , may or may not have been an intelligence assignment .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC5LU9TF9CTK9">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.prospects.ac.uk/cms/ShowPage/Home_page/Jobs_and_work_main_menu/p!eglLpk&quot;&gt;">
+				<TEXT>- Build up a profile of yourself to find &lt;b&gt; jobs &lt;/b&gt;  that match your personality and interests .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.schnews.org.uk/archive/news516.htm&quot;&gt;">
+				<TEXT>The policy is designed to push one and all into low-paid , boring repetitive and casualised &lt;b&gt; jobs &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.thompsons.law.co.uk/ltext/l1380001.htm&quot;&gt;">
+				<TEXT>You can even claim removal costs if you have to move house to take up a new &lt;b&gt; job  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ceg.org.uk/talkingjobs/print.asp?job=Accountant&quot;&gt;">
+				<TEXT>It 's part of my &lt;b&gt; job  &lt;/b&gt; to produce reports to assist managers to understand the status of their accounts and areas of concern .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A393VGRPMMV95I">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.hcareers.co.uk/abouthospitalityjobs/Testimonials&quot;&gt;">
+				<TEXT>It only takes minutes to update and post new &lt;b&gt; jobs &lt;/b&gt;  on the site and daily we are notified of new response to our adverts .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AV1QSUJUCS4CO">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.retaileyes.co.uk/new/home/shopper_faq.php&quot;&gt;">
+				<TEXT>Please refer to the &lt;b&gt; job  &lt;/b&gt; document(s ) for details.** ) Can I Bring the Job Document(s ) When Performing the Mystery Shop ?</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AV1QSUJUCS4CO">
+					<SENSE_LABEL>sense_6</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.outsidein.co.uk/forum/viewtopic.php?t=689&amp;view=previous&quot;&gt;">
+				<TEXT>First of all , it 's probably a good idea to delay any decisions about your &lt;b&gt; job  &lt;/b&gt; until you feel better .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AV1QSUJUCS4CO">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.salestarget.co.uk/JobsByCategory/T_Technical%20Sales_1.htm&quot;&gt;">
+				<TEXT>With our &lt;b&gt; jobs &lt;/b&gt;  by email service you can even have the latest Technical Sales &lt;b&gt; jobs &lt;/b&gt;  delivered straight to your email inbox .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AV1QSUJUCS4CO">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A38K0I8ZW5817">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2OZTBCBOCHF9E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://jobs.thisisdevon.co.uk/&quot;&gt;">
+				<TEXT>Even better , when you register with This is Devon &lt;b&gt; Jobs &lt;/b&gt;  , our &lt;b&gt; Jobs &lt;/b&gt;  by Email lets the jobs come to you .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.hobgoblin.co.uk/thingumajig/testimonial.htm&quot;&gt;">
+				<TEXT>The percussion does its &lt;b&gt; job  &lt;/b&gt; well , driving the tunes along , without being an end in itself .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.david-clelland.org.uk/hoc03.htm&quot;&gt;">
+				<TEXT>It is by investing in skills and competitiveness that we can best ensure &lt;b&gt; jobs &lt;/b&gt;  for the future .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_1</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.jrf.org.uk/knowledge/findings/housing/H216.asp&quot;&gt;">
+				<TEXT>Community businesses seeking to create permanent employment are likely to seek markets beyond the neighbourhood , and to focus on low-skill/low wage &lt;b&gt; jobs &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A3R5L9P8JAQFXM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A5H5MJI5GFN92">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.myleedsjobs.co.uk/page.php?p=25&quot;&gt;">
+				<TEXT>You will find searching for &lt;b&gt; jobs &lt;/b&gt;  in Huddersfield is quicker and easier than ever before .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12WI1MRO70881">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>opportunity for employment</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.gamblersanonymous.org.uk/share/share_05-12.htm&quot;&gt;">
+				<TEXT>I do n't know if I can stop and I do n't live in the U.K as my &lt;b&gt; job  &lt;/b&gt; requires me in Germany .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12WI1MRO70881">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.e-citizen.gov.uk/NP/Page.aspx?id=278&quot;&gt;">
+				<TEXT>The Proof of Concept test The Councils online &lt;b&gt; jobs &lt;/b&gt;  service is an informal service designed to help residents find suitable employment .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12WI1MRO70881">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>employment opportunities</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ukjobsnet.co.uk/job-search/jobs/jlo17531/jobs-north-humberside.html&quot;&gt;">
+				<TEXT>Ring 01482 300135.To apply for this &lt;b&gt; job  &lt;/b&gt; please call 01482300135 Hull Negotiable Sep 27th 17 Bar Person STATION Hotel , Patrington req .</TEXT>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2H18EYM79ZRCW">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://cain.ulst.ac.uk/issues/discrimination/gudgin99.htm&quot;&gt;">
+				<TEXT>Local authorities Perhaps the clearest examples of &lt;b&gt; job  &lt;/b&gt; discrimination came among the non-manual employees of local authorities .</TEXT>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A12WI1MRO70881">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3AXBCMY0K2VC8">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.greensocialist.org.uk/ags/umbrella/u044.shtml&quot;&gt;">
+				<TEXT>Instead he has tried to direct attention to the size of the compensation packets and alternative &lt;b&gt; jobs &lt;/b&gt;  .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AQ36OBO2GRA00">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A347TD1K6HWG46">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.re-skill.org.uk/grads/dblwarrt.htm&quot;&gt;">
+				<TEXT>One way of expressing a significant degree of similarity in such &lt;b&gt; jobs &lt;/b&gt;  is to refer to them as ' professional-managerial ' occupations .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A347TD1K6HWG46">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.arts.ac.uk/student/careers/3534.htm&quot;&gt;">
+				<TEXT>Has beginner 's guides , video clips and a ' &lt;b&gt; Job  &lt;/b&gt; Bank ' : a guide to jobs from people who do them .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A347TD1K6HWG46">
+					<SENSE_LABEL>sense_3,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www2.dfid.gov.uk/aboutdfid/dfidwork/tradeunions/working.asp&quot;&gt;">
+				<TEXT>Many lose their &lt;b&gt; jobs &lt;/b&gt;  and find themselves without income - and without any form of social security , care or medicines .</TEXT>
+				<ANNOTATOR id="A3AI1EPDS8HAJ5">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AFSG2OXPUSCKF">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3A7VZ2Z5EU18R">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AC25X12LNYY6Y">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2S09R2TB55WBN">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A2Z53LAM62CQVU">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A35M4RWV3MCRUE">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1JXWWE39KJR2B">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A20VG7NZ13S29U">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.ecmselection.co.uk/cplusplus_programming/index.html?keywords=c%2B%2B&amp;page=6&amp;orderby=salary&quot;&gt;">
+				<TEXT>Listed below are current C++ &lt;b&gt; jobs &lt;/b&gt;  - but our clients are contacting us daily with outstanding new opportunities .</TEXT>
+				<ANNOTATOR id="A1675D95NJ1YDD">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AZK12FBX7X7LN">
+					<SENSE_LABEL>sense_2,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A11N2H7QSSS8VU">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ABYKQRCNOFYGK">
+					<SENSE_LABEL>sense_3,sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.nickdaws.co.uk/ew022.htm&quot;&gt;">
+				<TEXT>A. I 'd like to think the answer is yes , but it might depend a bit on the &lt;b&gt; job  &lt;/b&gt; I was doing instead .</TEXT>
+				<ANNOTATOR id="A3S4MWKGWPJS6I">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="ANG6O6OTLTUBM">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1MFZFYYDW4ZIX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A347TD1K6HWG46">
+					<SENSE_LABEL>sense_2,sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A5V3ZMQI0PU3F">
+					<SENSE_LABEL>sense_2</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.theminorsite.co.uk/viewtopic.php?t=853&quot;&gt;">
+				<TEXT>Even you mate if he worked in the buisness would probabily have the lowest cost of about 400 for a good paint &lt;b&gt; job  &lt;/b&gt; !</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_3</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>completion of a specific task</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.marklazarowicz.org.uk/communitynews/news/news8.03.htm&quot;&gt;">
+				<TEXT>This could have threatened &lt;b&gt; jobs &lt;/b&gt;  at the Assay Office in Broughton Street , as well as other &lt;b&gt; jobs &lt;/b&gt;  in the jewellery and craft industries .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>regular employment in specific situations</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+			<SENTENCE id="&lt;text id=&quot;http://www.direct.gov.uk/DisabledPeople/Employment/WorkSchemesAndProgrammes/WorkSchemesArticles/fs/en?CONTENT_ID=4001973&amp;chk=jMe8OJ&quot;&gt;">
+				<TEXT>This employment programme provides support to disabled people facing complex barriers to getting and keeping a &lt;b&gt; job  &lt;/b&gt; .</TEXT>
+				<ANNOTATOR id="A26QZVXO4ZS0ED">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A3CFNUD7VR2E1E">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="AOG0BC9JYJHNV">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+				<ANNOTATOR id="A16COZ4MDTLUWU">
+					<SENSE_LABEL>sense_0</SENSE_LABEL>
+					<COMMENT>regular employment in specific situations</COMMENT>
+				</ANNOTATOR>
+				<ANNOTATOR id="A1T5YMBH35PDBX">
+					<SENSE_LABEL>sense_4</SENSE_LABEL>
+				</ANNOTATOR>
+			</SENTENCE>
+		</SENTENCES>
+	</CONTENT>
+</root>
