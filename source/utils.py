@@ -1,0 +1,3 @@
+__author__ = 'alonso'
+
+SENTENCEBOUNDARY="<SENTENCEBOUNDARY>"
