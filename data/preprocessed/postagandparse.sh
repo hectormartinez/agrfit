@@ -8,7 +8,7 @@ parameterfile="/home/alonso/proj/text2depparse/data/$lang/$lang-ud-train.treetag
 parsermodel="/home/alonso/proj/text2depparse/data/$lang/$lang-ud-train.10cols.conll.model"
 
 
-    inputfile=$file.input
+    inputfile=$file
     taggedtemp=$file.postemp
     taggedfile=$file.pos
     parsedfile=$file.conll
