@@ -10,7 +10,7 @@ def main():
     args = parser.parse_args()
 
     textlist=[]
-    for lineform in open(args.inform).readlines()[:30]:
+    for lineform in open(args.inform).readlines():
         formlist=(contentlist(lineform))
         textlist.append(formlist)
 
