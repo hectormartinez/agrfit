@@ -9,6 +9,6 @@ sentences = []
 for line in open(args.infile).readlines():
     sentences.append(line.lower().strip().split(" "))
 
-print "Generating embeddings, it might take a while"
+print("Generating embeddings, it might take a while")
 embeddings = gensim.models.Word2Vec(sentences, size=100, size=100, window=5,min_count=5,sg=2,negative=10)
 embeddings.save_word2vec_format(args.infile+".embeds",binary=False)
