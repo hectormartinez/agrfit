@@ -12,7 +12,7 @@ def isvalid(s):
     return current2.isalpha() or current2.isdigit() or current2.isalnum()
 
 def contentlist(s):
-    v= [x for x in s.replace("\n","").split(" ") if isvalid(x)]
+    v= [x.lower() for x in s.replace("\n","").split(" ") if isvalid(x)]
     if len(v)>0:
         if v[-1] in "?.!":
             v=v[:-1]
@@ -37,7 +37,7 @@ def main():
             Cstems[s]+=1
 
     for ((f,s),v) in Ctuples.most_common():
-        print(f,s,Cforms[f] / Cstems[s])
+        print("\t".join([f,s,Cforms[f],Cstems[s],Cforms[f] / Cstems[s]]))
 
 
 
