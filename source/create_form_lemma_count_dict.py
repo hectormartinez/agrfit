@@ -11,9 +11,10 @@ def isvalid(s):
     return current2.isalpha() or current2.isdigit() or current2.isalnum()
 
 def contentlist(s):
-    if s[-1] in "?.!":
-        s=s[:-1]
-    return [x for x in s.replace("\n","").split(" ") if isvalid(x)]
+    v= [x for x in s.replace("\n","").split(" ") if isvalid(x)]
+    if v[-1] in "?.!":
+        v=v[:-1]
+    return v
 
 def main():
     parser = argparse.ArgumentParser(description="Rewrite Semafor input to annotation format")
