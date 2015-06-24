@@ -4,9 +4,53 @@ from utils import *
 from wordannotatedsentence import *
 from collections import defaultdict
 import math
+import itertools
 
 
+LOW=1/3
+HIGH=2/3
 
+
+def f_nsenses(s):
+    return s.extra["nlabels"]
+
+def f_distance_to_root(s,wordindex):
+    return 0
+
+def f_contextbagofwords(s):
+    o = []
+    for w in s.forms[:s.headwordindex]+s.forms[s.headwordindex+1:]:
+        o.append(w.lower())
+    return " ".join(sorted(set(o)))
+
+def f_ndeps(s,wordindex):
+    c=0
+    for head, dependent in s.parsetree.edges():
+        if head == wordindex:
+            c+=1
+    return c
+def f_bag_of_dependent_labels(s,wordindex):
+    c=[]
+    for head, dependent in s.parsetree.edges():
+        if head == wordindex:
+            c.append(s.parsetree[head][dependent]["deprel"])
+    if c == []:
+        c = ["none"]
+    return " ".join(c)
+def y_Ao(annotations):
+    total = 0.0
+    pairings = [x for x in itertools.combinations(annotations,2)]
+    for a1,a2 in pairings:
+        total+=int(a1==a2)
+    return total / len(pairings)
+
+def y_Class(annotations):
+    Ao = y_Ao(annotations)
+    if Ao <= LOW:
+        return "LOW"
+    if Ao >= HIGH:
+        return "HIGH"
+    return "MID"
 
 
 def InverseLogRank(form,sortedvocab):
@@ -61,15 +105,27 @@ def main():
     for s in instances:
         feats = defaultdict(list)
 
-        feats["a_targetwordfreq_n"] = f_targetFreq(s,sortedvocab)
-        feats["a_headoftargetfreq_n"] = f_head_of_targetFreq(s,sortedvocab)
+        feats["a_targetfreq_n"] = f_targetFreq(s,sortedvocab)
+        feats["a_headfreq_n"] = f_head_of_targetFreq(s,sortedvocab)
         feats["b_targetpos_s"] =  s.postags[s.headwordindex]
-        feats["b_head_of_targetpos_s"] = s.postags[head_of(s.parsetree,s.headwordindex)]
-        feats["c_posbigram_left"] = f_posbigram(s)
-        feats["c_posbigram_right"] = f_posbigram(s,left=False)
+        feats["b_headpos_s"] = s.postags[head_of(s.parsetree,s.headwordindex)]
+        feats["c_posbigram_left_s"] = f_posbigram(s)
+        feats["c_posbigram_right_s"] = f_posbigram(s,left=False)
         feats["X_slength_n"] = len(s.postags[1:])
         feats["X_content_proportion_n"] = len([x for x in s.postags[1:] if x in CONTENTTAGS]) / len(s.postags[1:])
-        print(s.id_,s.headwordindex,s.forms,s.postags,feats)
+        feats["X_targetdeps_n"]=f_ndeps(s,s.headwordindex)
+        feats["X_headsdeps_n"]=f_ndeps(s,head_of(s.parsetree,s.headwordindex))
+        feats["X_targetdepsrels_b"]=f_bag_of_dependent_labels(s,head_of(s.parsetree,s.headwordindex))
+        feats["X_headdeprels_b"]=f_bag_of_dependent_labels(s,head_of(s.parsetree,head_of(s.parsetree,s.headwordindex)))
+
+        feats["X_context_b"]=f_contextbagofwords(s)
+        feats["X_nlabels_n"]=f_nsenses(s)
+
+
+        feats["y_Ao_n"]=y_Ao(s.annotations)
+        feats["y_Class_s"]=y_Class(s.annotations)
+        feats["i_id"]=s.id_
+        print(s.id_,s.headwordindex,s.forms,feats)
 
 
 
