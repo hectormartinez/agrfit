@@ -1,4 +1,5 @@
 import argparse
+from collections import Counter
 
 valid = "abcdefghijklmnopqrstuvwzyz0123456789"
 
@@ -23,10 +24,20 @@ def main():
     parser.add_argument("instem",  metavar="FILE", help="")
     parser.add_argument("outdict",  metavar="FILE", help="")
     args = parser.parse_args()
+    Ctuples = Counter()
+    Cforms = Counter()
+    Cstems = Counter()
     for lineform, linestem in zip(open(args.inform).readlines()[:30],open(args.instem).readlines()):
-        print(contentlist(lineform))
-        print(contentlist(linestem))
+        formlist=(contentlist(lineform))
+        stemlist=(contentlist(linestem))
         print(len(contentlist(linestem)),len(contentlist(lineform)))
+        for f,s in zip(formlist,stemlist):
+            Ctuples[(f,s)]+=1
+            Cforms[f]+=1
+            Cstems[s]+=1
+
+    for ((f,s),v) in Ctuples:
+        print(f,s,Cforms[f] / Cstems[s])
 
 
 
