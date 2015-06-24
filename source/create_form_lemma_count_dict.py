@@ -2,7 +2,7 @@ import argparse
 
 
 def contentlist(s):
-    return [x for x in s.replace("\n").split(" ") if x.isalpha()]
+    return [x for x in s.replace("\n","").split(" ") if x.isalpha()]
 
 def main():
     parser = argparse.ArgumentParser(description="Rewrite Semafor input to annotation format")
