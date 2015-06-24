@@ -9,9 +9,8 @@ def isvalid(s):
         if c in valid:
             current2+=c
     return current2.isalpha() or current2.isdigit() or current2.isalnum()
-    #return current2.isalpha() or current2.isdigit() or current2.isalnum()
 
- def contentlist(s):
+def contentlist(s):
     return [x for x in s.replace("\n","").split(" ") if isvalid(x)]
 
 def main():
