@@ -12,8 +12,9 @@ def isvalid(s):
 
 def contentlist(s):
     v= [x for x in s.replace("\n","").split(" ") if isvalid(x)]
-    if v[-1] in "?.!":
-        v=v[:-1]
+    if len(v>0):
+        if v[-1] in "?.!":
+            v=v[:-1]
     return v
 
 def main():
