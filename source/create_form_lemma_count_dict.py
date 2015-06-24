@@ -7,7 +7,7 @@ def main():
     parser.add_argument("instem",  metavar="FILE", help="")
     parser.add_argument("outdict",  metavar="FILE", help="")
     args = parser.parse_args()
-    for lineform, linestem in zip(open(args.inform).readlines(),open(args.instem).readlines())[:30]:
+    for lineform, linestem in zip(open(args.inform).readlines()[:30],open(args.instem).readlines()):
         print(lineform.split(" "))
         print(linestem.split(" "))
         print(len(lineform.split(" ")),len(linestem.split(" ")))
