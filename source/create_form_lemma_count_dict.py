@@ -3,7 +3,7 @@ import argparse
 
 def isvalid(s):
     current = s.replace("@","A").replace("~","0").replace("-","1").replace("/","2").replace(".","3").replace("_","4")
-    return current.isalpha() or current.isnum() or current.isalnum()
+    return current.isalpha() or current.isdigit() or current.isalnum()
 
 def contentlist(s):
     return [x for x in s.replace("\n","").split(" ") if isvalid(x)]
