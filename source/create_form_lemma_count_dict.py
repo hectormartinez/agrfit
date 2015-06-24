@@ -28,7 +28,7 @@ def main():
     Ctuples = Counter()
     Cforms = Counter()
     Cstems = Counter()
-    for lineform, linestem in zip(open(args.inform).readlines()[:30],open(args.instem).readlines()):
+    for lineform, linestem in zip(open(args.inform).readlines(),open(args.instem).readlines()):
         formlist=(contentlist(lineform))
         stemlist=(contentlist(linestem))
         print(len(contentlist(linestem)),len(contentlist(lineform)))
