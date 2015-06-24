@@ -36,7 +36,7 @@ def main():
             Cforms[f]+=1
             Cstems[s]+=1
 
-    for ((f,s),v) in Ctuples:
+    for ((f,s),v) in Ctuples.most_common():
         print(f,s,Cforms[f] / Cstems[s])
 
 
