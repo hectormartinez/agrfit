@@ -2,8 +2,9 @@ __author__ = 'alonso'
 import argparse
 from utils import *
 from nltk.corpus import framenet as fn
-from collections import defaultdict
+from collections import defaultdict, Counter
 from nltk.stem import WordNetLemmatizer
+from framenetutils import frameCounter
 #The ritter data have Petrov tags, we kind of circumvent the issue
 
 # 1       and     _       CONJ    CONJ    _       4       cc
@@ -60,6 +61,8 @@ framenetpos["ADJ"]=".adv"
 
 
 
+
+
 def choosePos(petrov_pos,nivre_pos):
     if petrov_pos not in NIVRETAGS:
         return PETROVTONIVREMAP[petrov_pos]
@@ -68,12 +71,26 @@ def choosePos(petrov_pos,nivre_pos):
     return petrov_pos
 
 
+def findgold(annotations,sensecounter):
+    if len((set(annotations))) == 1:
+        return annotations[0]
+    C=Counter(annotations)
+    if C.most_common(1)[0][1] != C.most_common(2)[1][1]: #if the frequency of the first is higher than the second
+        return C.most_common(1)[0][0]
+    else:
+        localsensecounter = Counter()
+        for an in annotations:
+            localsensecounter[an] = sensecounter[an]
+        return localsensecounter.most_common(1)[0][0]
+
+
 def main():
     parser = argparse.ArgumentParser(description=")")
     parser.add_argument("infileparsed",   metavar="FILE", help="name of the input file")
     parser.add_argument("annofile",   metavar="FILE", help="name of the input file")
     args = parser.parse_args()
 
+    fCount = frameCounter()
 
     fout = open(args.infileparsed+".common","w")
     outforms = []
@@ -99,9 +116,10 @@ def main():
                 if fnpos in ["n", ".v", ".a"]:
                     xform = lmtzr.lemmatize(xform,pos=assignedpos[0].lower())
                 framesperlemma = fn.frames_by_lemma(xform+fnpos)
-                instanceidentifier= "_".join([str(sentenceounter),tokid])
+                instanceidentifier= "_".join([str(sentenceounter),tokid,xform+"-"+assignedpos])
                 nlabels = max(len(framesperlemma),len(set(annoarray[1:]))) #This is for the case of not giving a framelabel
-                annotations = [instanceidentifier,labels,"nlabels:"+str(nlabels)]#[instanceidentifier+"\t"+",".join([a1,a2,a3])+"\t"+"nlabels:"+))]
+                goldlabel = findgold(annoarray[1:],fCount)
+                annotations = [instanceidentifier,labels,"nlabels:"+str(nlabels)+",gold:"+goldlabel]#[instanceidentifier+"\t"+",".join([a1,a2,a3])+"\t"+"nlabels:"+))]
             else:
                 annotations = ["_"] * 3
             lineout.extend(annotations)

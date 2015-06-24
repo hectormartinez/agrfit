@@ -10,6 +10,25 @@ import itertools
 LOW=1/3
 HIGH=2/3
 
+HEADINGCOLUMNS=["i_id","y_Ao_n","y_Class_s"]
+
+def header_in_order(feats):
+    h = []
+    for c in HEADINGCOLUMNS:
+        h.append(c)
+    for k in sorted(feats.keys()):
+        if k not in HEADINGCOLUMNS:
+            h.append(k)
+    return h
+
+
+def outfeats(feats):
+    out = []
+    header = header_in_order(feats)
+    for h in header:
+        out.append(str(feats[h]))
+    return "\t".join(out)
+
 
 def f_nsenses(s):
     return s.extra["nlabels"]
@@ -85,6 +104,9 @@ def main():
     parser = argparse.ArgumentParser(description="Rewrite Semafor input to annotation format")
     parser.add_argument("infilecommon",  metavar="FILE", help="name of the framenet-parsed file file")
     parser.add_argument("sortedvocab",  metavar="FILE", help="name of the framenet-parsed file file")
+    parser.add_argument("idf_list",  metavar="FILE", help="")
+    parser.add_argument("sense_entropy",  metavar="FILE", help="")
+
 
     args = parser.parse_args()
 
@@ -102,6 +124,7 @@ def main():
 
     #Load common file into a list of WordAnnotatedSentence
     instances = readsentences(args.infilecommon)
+    printedheader=False
     for s in instances:
         feats = defaultdict(list)
 
@@ -125,7 +148,10 @@ def main():
         feats["y_Ao_n"]=y_Ao(s.annotations)
         feats["y_Class_s"]=y_Class(s.annotations)
         feats["i_id"]=s.id_
-        print(s.id_,s.headwordindex,s.forms,feats)
+        if not printedheader:
+            print("\t".join(header_in_order(feats)))
+            printedheader=True
+        print(outfeats(feats))
 
 
 
