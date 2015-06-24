@@ -30,7 +30,6 @@ def main():
     for lineform, linestem in zip(open(args.inform).readlines(),open(args.instem).readlines()):
         formlist=(contentlist(lineform))
         stemlist=(contentlist(linestem))
-        print(len(contentlist(linestem)),len(contentlist(lineform)))
         for f,s in zip(formlist,stemlist):
             Ctuples[(f,s)]+=1
             Cforms[f]+=1
