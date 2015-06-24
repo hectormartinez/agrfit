@@ -1,11 +1,17 @@
 import argparse
 
+valid = "abcdefghijklmnopqrstuvwzyz0123456789"
 
 def isvalid(s):
-    current = s.replace("@","A").replace("~","0").replace("-","1").replace("/","2").replace(".","3").replace("_","4")
-    return current.isalpha() or current.isdigit() or current.isalnum()
+    current = s.replace("@","A").replace("~","0").replace("-","1").replace("/","2").replace(".","3").replace("_","4").lower()
+    current2=""
+    for c in current:
+        if c in valid:
+            current2+=c
+    return current2.isalpha() or current2.isdigit() or current2.isalnum()
+    #return current2.isalpha() or current2.isdigit() or current2.isalnum()
 
-def contentlist(s):
+ def contentlist(s):
     return [x for x in s.replace("\n","").split(" ") if isvalid(x)]
 
 def main():
