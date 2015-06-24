@@ -1,10 +1,4 @@
 import argparse
-import numpy as np
-from utils import *
-from wordannotatedsentence import *
-from collections import defaultdict
-import math
-import itertools
 
 
 def main():
