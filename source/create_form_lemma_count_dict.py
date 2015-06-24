@@ -21,8 +21,9 @@ def contentlist(s):
 def main():
     parser = argparse.ArgumentParser(description="Rewrite Semafor input to annotation format")
     parser.add_argument("inform",  metavar="FILE", help="")
-    parser.add_argument("instem",  metavar="FILE", help="")
-    parser.add_argument("outdict",  metavar="FILE", help="")
+    parser.add_argument("--instem",  metavar="FILE", help="")
+    parser.add_argument("--lang",   metavar="FILE", help="")
+
     args = parser.parse_args()
     Ctuples = Counter()
     Cforms = Counter()
