@@ -6,7 +6,7 @@ def isvalid(s):
     return current.isalpha() or current.isnum() or current.isalnum()
 
 def contentlist(s):
-    return [x for x in s.replace("\n","").split(" ") if x.isvalid()]
+    return [x for x in s.replace("\n","").split(" ") if isvalid(x)]
 
 def main():
     parser = argparse.ArgumentParser(description="Rewrite Semafor input to annotation format")
