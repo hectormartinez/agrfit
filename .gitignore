@@ -1,0 +1,5 @@
+.idea
+.ipynb*
+.texpadtmp
+__pycache__
+agrfitldsem2015.pdf
