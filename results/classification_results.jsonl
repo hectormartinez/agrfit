@@ -1,48 +1,36 @@
-{"f1": 0.4795805065763176, "recall": 0.552168815943728, "system": "logreg", "dataset": "all_rounds.feats", "precision": 0.4735154955209173, "bag_features": false}
-{"system": "uniform", "f1": 0.3687838406807304, "recall": 0.3505275498241501, "dataset": "all_rounds.feats", "bag_features": false, "precision": 0.4094827939564472}
-{"bag_features": false, "recall": 0.5506057053536537, "precision": 0.30316664276799454, "dataset": "all_rounds.feats", "system": "most_frequent", "f1": 0.39102995909440424}
-{"dataset": "all_rounds.feats", "system": "stratified", "bag_features": false, "f1": 0.419640266398803, "precision": 0.4271407642105282, "recall": 0.4134427510746385}
-{"system": "stratified", "f1": 0.4415595938532229, "recall": 0.4454865181711606, "dataset": "all_rounds.feats", "bag_features": true, "precision": 0.4383370313171988}
-{"recall": 0.5506057053536537, "f1": 0.39102995909440424, "precision": 0.30316664276799454, "dataset": "all_rounds.feats", "system": "most_frequent", "bag_features": true}
-{"bag_features": true, "dataset": "all_rounds.feats", "system": "uniform", "f1": 0.36872327802360716, "precision": 0.42211310170105365, "recall": 0.3516998827667057}
-{"precision": 0.45993816767646, "bag_features": true, "dataset": "all_rounds.feats", "system": "logreg", "f1": 0.4737945724457997, "recall": 0.4978507229386479}
-{"dataset": "da_semcor.feats", "system": "most_frequent", "f1": 0.533288675426437, "recall": 0.6666317772660666, "precision": 0.4443979264609146, "bag_features": false}
-{"precision": 0.5766003902474635, "dataset": "da_semcor.feats", "f1": 0.5764914555537939, "bag_features": false, "recall": 0.6410927360267951, "system": "logreg"}
-{"dataset": "da_semcor.feats", "precision": 0.5605933668338254, "recall": 0.4984299769729956, "f1": 0.5124655380270509, "bag_features": false, "system": "uniform"}
-{"dataset": "da_semcor.feats", "system": "stratified", "f1": 0.5597897565392466, "bag_features": false, "precision": 0.5588045718503722, "recall": 0.5608122252459703}
-{"recall": 0.6666317772660666, "dataset": "da_semcor.feats", "f1": 0.533288675426437, "system": "most_frequent", "bag_features": true, "precision": 0.4443979264609146}
-{"dataset": "da_semcor.feats", "precision": 0.5674402701717784, "f1": 0.5674232904047001, "system": "stratified", "bag_features": true, "recall": 0.5674063219593888}
-{"precision": 0.7186245621699984, "recall": 0.7515657620041754, "bag_features": false, "system": "logreg", "f1": 0.7176072896713515, "dataset": "en_framenet.feats"}
-{"bag_features": false, "dataset": "en_framenet.feats", "f1": 0.6323351900241541, "system": "most_frequent", "precision": 0.5508180752350277, "recall": 0.7421711899791231}
-{"system": "logreg", "precision": 0.5970772442588727, "bag_features": true, "dataset": "en_framenet.feats", "f1": 0.5970772442588727, "recall": 0.5970772442588727}
-{"precision": 0.5508180752350277, "recall": 0.7421711899791231, "system": "most_frequent", "f1": 0.6323351900241541, "dataset": "en_framenet.feats", "bag_features": true}
-{"f1": 0.4681627412620518, "bag_features": true, "precision": 0.47336756426692245, "system": "logreg", "dataset": "da_semcor.feats", "recall": 0.46347079757169773}
-{"system": "stratified", "f1": 0.5754192011826744, "precision": 0.5825247449113854, "bag_features": false, "recall": 0.5688935281837161, "dataset": "en_framenet.feats"}
-{"dataset": "da_semcor.feats", "recall": 0.5170609168934478, "precision": 0.5668263506563175, "system": "uniform", "bag_features": true, "f1": 0.5307943013254985}
-{"system": "stratified", "precision": 0.6208343649757586, "bag_features": true, "recall": 0.6388308977035491, "f1": 0.6290953566421319, "dataset": "en_framenet.feats"}
-{"bag_features": false, "dataset": "en_framenet.feats", "recall": 0.5062630480167014, "precision": 0.6052441246440801, "system": "uniform", "f1": 0.5368981082380205}
-{"recall": 0.48538622129436326, "dataset": "en_framenet.feats", "f1": 0.5175773683641024, "precision": 0.5963705779884863, "bag_features": true, "system": "uniform"}
-{"precision": 0.19330773189526695, "recall": 0.43966775171175215, "system": "most_frequent", "dataset": "en_masc_crowdsourced.feats", "bag_features": false, "f1": 0.26854492179244244}
-{"bag_features": false, "dataset": "en_masc_crowdsourced.feats", "system": "stratified", "recall": 0.35669547648445393, "f1": 0.35671388273130283, "precision": 0.35677219627810164}
-{"bag_features": false, "recall": 0.3321135929958469, "f1": 0.3367550529043846, "precision": 0.3529100982455513, "system": "uniform", "dataset": "en_masc_crowdsourced.feats"}
-{"recall": 0.5030674846625767, "system": "logreg", "f1": 0.49713166093855404, "dataset": "en_ritter_sst.feats", "precision": 0.4957068930720502, "bag_features": false}
-{"dataset": "en_ritter_sst.feats", "system": "logreg", "recall": 0.2392638036809816, "bag_features": true, "precision": 0.24106525376464027, "f1": 0.24013011425984473}
-{"f1": 0.392832027934722, "bag_features": false, "recall": 0.5521472392638037, "dataset": "en_ritter_sst.feats", "precision": 0.30486657382664006, "system": "most_frequent"}
-{"bag_features": true, "dataset": "en_ritter_sst.feats", "precision": 0.30486657382664006, "recall": 0.5521472392638037, "system": "most_frequent", "f1": 0.392832027934722}
-{"dataset": "en_ritter_sst.feats", "bag_features": false, "precision": 0.5994220748022766, "system": "stratified", "f1": 0.5961628454353478, "recall": 0.5950920245398773}
-{"system": "stratified", "dataset": "en_ritter_sst.feats", "precision": 0.5625603216033168, "f1": 0.5305267936597201, "recall": 0.5705521472392638, "bag_features": true}
-{"precision": 0.4895523847602849, "system": "logreg", "f1": 0.4641873173660644, "bag_features": false, "recall": 0.48696823436973846, "dataset": "en_masc_crowdsourced.feats"}
-{"f1": 0.4786612183091534, "bag_features": false, "dataset": "en_ritter_sst.feats", "recall": 0.48466257668711654, "system": "uniform", "precision": 0.5023287802756132}
-{"system": "uniform", "f1": 0.5340231248256586, "precision": 0.5446820640175573, "bag_features": true, "dataset": "en_ritter_sst.feats", "recall": 0.5337423312883436}
-{"bag_features": true, "dataset": "en_masc_crowdsourced.feats", "f1": 0.26854492179244244, "recall": 0.43966775171175215, "system": "most_frequent", "precision": 0.19330773189526695}
-{"precision": 0.3490631398965346, "bag_features": true, "system": "stratified", "dataset": "en_masc_crowdsourced.feats", "f1": 0.3494655835422281, "recall": 0.3498933662588394}
-{"precision": 0.354432826641733, "system": "uniform", "f1": 0.3398033017340512, "dataset": "en_masc_crowdsourced.feats", "recall": 0.3352115837916713, "bag_features": true}
-{"system": "logreg", "precision": 0.7052039508720243, "recall": 0.7587061052018068, "dataset": "eu_semcor.feats", "f1": 0.6762816389176087, "bag_features": false}
-{"system": "most_frequent", "f1": 0.6533632544552083, "precision": 0.5742355029867512, "dataset": "eu_semcor.feats", "recall": 0.7577832823352275, "bag_features": false}
-{"recall": 0.64277041138472, "precision": 0.6372061083769524, "f1": 0.6399268108291184, "system": "stratified", "dataset": "eu_semcor.feats", "bag_features": false}
-{"bag_features": true, "dataset": "eu_semcor.feats", "system": "most_frequent", "recall": 0.7577832823352275, "f1": 0.6533632544552083, "precision": 0.5742355029867512}
-{"dataset": "eu_semcor.feats", "precision": 0.6258611266087012, "system": "uniform", "recall": 0.4907474865219292, "bag_features": false, "f1": 0.5269009600635064}
-{"bag_features": true, "system": "stratified", "f1": 0.6287399453896483, "dataset": "eu_semcor.feats", "precision": 0.6323812935313825, "recall": 0.6252853465442713}
-{"system": "uniform", "precision": 0.6356204753420234, "recall": 0.504541259896061, "dataset": "eu_semcor.feats", "f1": 0.5398718238153383, "bag_features": true}
-{"recall": 0.6834231871387634, "system": "logreg", "bag_features": true, "precision": 0.6365909806047849, "dataset": "eu_semcor.feats", "f1": 0.6552591869199796}
-{"precision": 0.4164318709299795, "f1": 0.4169006862953678, "dataset": "en_masc_crowdsourced.feats", "system": "logreg", "recall": 0.4200246941295319, "bag_features": true}
+{"system": "logreg", "num_instances": 1492, "f1": 0.3866079307143516, "ignore": "", "bag_features": false, "dataset": "comb_round2.feats", "recall": 0.4081769436997319, "keep": "", "precision": 0.3779578687164536, "num_features": 318}
+{"keep": "", "f1": 0.2541213379364761, "recall": 0.42560321715817695, "ignore": "", "system": "most_frequent", "dataset": "comb_round2.feats", "num_features": 318, "bag_features": false, "num_instances": 1492, "precision": 0.18113809845539033}
+{"dataset": "comb_round2.feats", "system": "stratified", "ignore": "", "recall": 0.3398123324396783, "precision": 0.3425764935150095, "num_features": 318, "f1": 0.3411128411266458, "num_instances": 1492, "bag_features": false, "keep": ""}
+{"recall": 0.32640750670241286, "num_instances": 1492, "bag_features": false, "precision": 0.347090061237503, "ignore": "", "num_features": 318, "system": "uniform", "dataset": "comb_round2.feats", "f1": 0.33129955179891135, "keep": ""}
+{"system": "logreg", "keep": "", "ignore": "", "dataset": "comb_round3.feats", "bag_features": false, "num_features": 220, "f1": 0.6210357815442561, "recall": 0.6311111111111111, "num_instances": 450, "precision": 0.6131557288282435}
+{"keep": "", "bag_features": false, "system": "most_frequent", "precision": 0.5120197530864197, "dataset": "comb_round3.feats", "num_features": 220, "f1": 0.5969142199194012, "ignore": "", "num_instances": 450, "recall": 0.7155555555555555}
+{"recall": 0.5733333333333334, "bag_features": false, "f1": 0.5712639623750734, "keep": "", "num_instances": 450, "ignore": "", "system": "stratified", "dataset": "comb_round3.feats", "num_features": 220, "precision": 0.5692671020515865}
+{"system": "uniform", "precision": 0.5972784632148758, "dataset": "comb_round3.feats", "recall": 0.5111111111111111, "ignore": "", "bag_features": false, "num_instances": 450, "keep": "", "f1": 0.5349837348042729, "num_features": 220}
+{"recall": 0.646677471636953, "num_instances": 617, "dataset": "comb_round4.feats", "f1": 0.6287576825508867, "system": "logreg", "ignore": "", "keep": "", "num_features": 246, "bag_features": false, "precision": 0.6158895479597123}
+{"dataset": "comb_round4.feats", "num_instances": 617, "system": "most_frequent", "f1": 0.6195038305085261, "num_features": 246, "bag_features": false, "ignore": "", "precision": 0.5366690395572238, "recall": 0.7325769854132901, "keep": ""}
+{"bag_features": false, "recall": 0.6207455429497569, "ignore": "", "num_features": 246, "precision": 0.616321176028029, "dataset": "comb_round4.feats", "system": "stratified", "num_instances": 617, "keep": "", "f1": 0.618484217025546}
+{"bag_features": false, "keep": "", "f1": 0.5538661831451491, "num_features": 246, "ignore": "", "precision": 0.6321636578298906, "num_instances": 617, "recall": 0.526742301458671, "system": "uniform", "dataset": "comb_round4.feats"}
+{"num_features": 352, "recall": 0.5279406017975772, "f1": 0.4813903775415765, "num_instances": 2559, "keep": "", "precision": 0.4675979596453914, "bag_features": false, "dataset": "comb_round_all.feats", "ignore": "", "system": "logreg"}
+{"keep": "", "dataset": "comb_round_all.feats", "bag_features": false, "f1": 0.39102995909440424, "ignore": "", "num_features": 352, "recall": 0.5506057053536537, "num_instances": 2559, "system": "most_frequent", "precision": 0.30316664276799454}
+{"system": "stratified", "precision": 0.3940775248466329, "num_instances": 2559, "ignore": "", "bag_features": false, "f1": 0.39418080826420016, "num_features": 352, "dataset": "comb_round_all.feats", "keep": "", "recall": 0.394294646346229}
+{"f1": 0.34913798520477984, "dataset": "comb_round_all.feats", "keep": "", "num_features": 352, "precision": 0.39817094248417817, "bag_features": false, "num_instances": 2559, "recall": 0.3337241109808519, "system": "uniform", "ignore": ""}
+{"dataset": "da_semcor.feats", "keep": "", "ignore": "", "num_instances": 9554, "recall": 0.6383713627799874, "bag_features": false, "precision": 0.5928540615959562, "num_features": 533, "system": "logreg", "f1": 0.5971451425095056}
+{"keep": "", "num_features": 533, "precision": 0.4443979264609146, "recall": 0.6666317772660666, "dataset": "da_semcor.feats", "ignore": "", "system": "most_frequent", "f1": 0.533288675426437, "num_instances": 9554, "bag_features": false}
+{"recall": 0.554636801339753, "bag_features": false, "keep": "", "num_instances": 9554, "system": "stratified", "dataset": "da_semcor.feats", "num_features": 533, "ignore": "", "f1": 0.5548628340468224, "precision": 0.5550907149906945}
+{"keep": "", "ignore": "", "system": "uniform", "num_features": 533, "bag_features": false, "f1": 0.5272017000845208, "recall": 0.5132928616286372, "precision": 0.5679674485000776, "dataset": "da_semcor.feats", "num_instances": 9554}
+{"dataset": "en_framenet.feats", "bag_features": false, "system": "logreg", "keep": "", "f1": 0.7136003587524895, "ignore": "", "num_features": 334, "num_instances": 958, "recall": 0.7453027139874739, "precision": 0.711133528985707}
+{"system": "most_frequent", "num_instances": 958, "precision": 0.5508180752350277, "num_features": 334, "bag_features": false, "recall": 0.7421711899791231, "ignore": "", "keep": "", "f1": 0.6323351900241541, "dataset": "en_framenet.feats"}
+{"precision": 0.6132013401385085, "bag_features": false, "ignore": "", "num_features": 334, "system": "stratified", "keep": "", "num_instances": 958, "f1": 0.6119109154731642, "recall": 0.6106471816283925, "dataset": "en_framenet.feats"}
+{"system": "uniform", "num_instances": 958, "num_features": 334, "f1": 0.5142235479051857, "keep": "", "recall": 0.4822546972860125, "bag_features": false, "precision": 0.6054662602530528, "dataset": "en_framenet.feats", "ignore": ""}
+{"recall": 0.4579638567740487, "bag_features": false, "keep": "", "system": "logreg", "num_features": 523, "ignore": "", "f1": 0.4462651095994284, "num_instances": 44545, "dataset": "en_masc_crowdsourced.feats", "precision": 0.45308597805778406}
+{"system": "most_frequent", "ignore": "", "f1": 0.26854492179244244, "num_instances": 44545, "precision": 0.19330773189526695, "recall": 0.43966775171175215, "num_features": 523, "dataset": "en_masc_crowdsourced.feats", "keep": "", "bag_features": false}
+{"dataset": "en_masc_crowdsourced.feats", "num_features": 523, "recall": 0.3527219665506791, "keep": "", "num_instances": 44545, "ignore": "", "f1": 0.3527605021514759, "bag_features": false, "system": "stratified", "precision": 0.3528122051832777}
+{"num_instances": 44545, "keep": "", "num_features": 523, "system": "uniform", "bag_features": false, "recall": 0.3320686945785161, "precision": 0.35168003927903607, "f1": 0.33682978423933146, "dataset": "en_masc_crowdsourced.feats", "ignore": ""}
+{"precision": 0.4992671280485963, "dataset": "en_ritter_sst.feats", "keep": "", "f1": 0.49998018653476906, "bag_features": false, "num_instances": 326, "ignore": "", "system": "logreg", "recall": 0.50920245398773, "num_features": 227}
+{"system": "most_frequent", "num_instances": 326, "keep": "", "ignore": "", "recall": 0.5521472392638037, "precision": 0.30486657382664006, "f1": 0.392832027934722, "bag_features": false, "num_features": 227, "dataset": "en_ritter_sst.feats"}
+{"keep": "", "num_features": 227, "bag_features": false, "ignore": "", "precision": 0.5070920971182881, "dataset": "en_ritter_sst.feats", "system": "stratified", "recall": 0.5061349693251533, "num_instances": 326, "f1": 0.5065710842931329}
+{"bag_features": false, "recall": 0.48773006134969327, "system": "uniform", "keep": "", "f1": 0.48910672854298076, "ignore": "", "num_instances": 326, "precision": 0.4937919375902838, "num_features": 227, "dataset": "en_ritter_sst.feats"}
+{"keep": "", "f1": 0.6784922064237587, "system": "logreg", "precision": 0.682671571333089, "num_features": 381, "num_instances": 20589, "bag_features": false, "dataset": "eu_semcor.feats", "ignore": "", "recall": 0.7511778133955025}
+{"num_features": 381, "num_instances": 20589, "ignore": "", "precision": 0.5742355029867512, "dataset": "eu_semcor.feats", "keep": "", "system": "most_frequent", "bag_features": false, "f1": 0.6533632544552083, "recall": 0.7577832823352275}
+{"keep": "", "num_features": 381, "precision": 0.6315643816711801, "ignore": "", "num_instances": 20589, "bag_features": false, "f1": 0.6313630264991382, "dataset": "eu_semcor.feats", "recall": 0.6311622711156443, "system": "stratified"}
+{"dataset": "eu_semcor.feats", "keep": "", "bag_features": false, "recall": 0.5034727281558113, "num_instances": 20589, "precision": 0.635157251850279, "num_features": 381, "f1": 0.5388600527116123, "ignore": "", "system": "uniform"}

@@ -5,10 +5,13 @@ datasets = ['comb_round2.feats', 'comb_round3.feats', 'comb_round4.feats', 'comb
             'en_masc_crowdsourced.feats', 'en_ritter_sst.feats', 'eu_semcor.feats']
 
 dataset_dir = (Path(__file__).parent / '../data/feats').resolve()
+namespaces = {'a', 'b', 'c', 'd', 'z'}
 
 for dataset_name in datasets:
     dataset_path = dataset_dir / dataset_name
-    print("python source/regress.py {}".format(dataset_path))
 
-    for baseline in ('mean', 'median'):
-        print("python source/regress.py {} --baseline {}".format(dataset_path, baseline))
+    print("python source/classify.py {}".format(dataset_path))
+
+    for ns in namespaces:
+        print("python source/classify.py {} --ignore {}".format(dataset_path, ns))
+        print("python source/classify.py {} --keep {}".format(dataset_path, ns))
