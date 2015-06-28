@@ -36,7 +36,7 @@
 % in the camera-ready version and ask you to change it back.
 
 
-\title{Profiling word-sense agreement variation}
+\title{Predicting word-sense annotation agreement}
 
 \author{First Author \\
   Affiliation / Address line 1 \\
@@ -56,33 +56,29 @@
 \begin{abstract}
 \section{Introduction}
 
-Some of the disagreement on sense annotation is systematic, and is a result of the interplay between the linguistic properties of the examples and the characteristics of the sense inventory. We propose a regression method to predict systematic disagreement, namely the variation of agreement in sense-annotated examples that depends on the linguistic features of the headword and its contexts.
+
+In this article we propose a regression method to predict systematic disagreement, namely the variation of agreement in sense-annotated examples that depends on the linguistic features of the headword and its contexts.
  In this article we tackle the estimation of the likely agreement of a sense-annotated example by means of regression. \textcolor{red}{ We observe so and so}. 
 \end{abstract}
 
-\cite{Artstein2008} provide interpretation of Kripperdorff's $\alpha$ coefficient to describe the reliability of an annotation task, and the way that observed agreement ($A_o$) is calculated for each example. We describe a method to predict the $A_o$ of the examples in our datasets. 
+Sense-annotation tasks show less-than-perfect agreement scores. However, variation in agreement is not the result of featureless, white noise on the annotations; \newcite{krippendorff2011} defines disagreement as \textit{by chance}---caused by unavoidable inconsistencies in annotator behavior---and \textit{systematic}---caused by properties of the data being annotated.
 
-\cite{krippendorff2011} defines disagreement as \textit{by chance}---caused by unavoidable inconsistencies in annotator behavior---and \textit{systematic}---caused by properties of the data being annotated. We know some of the difficult examples in our dataset to have lower agreement, which can be a result of the linguistic characteristics of these examples.
-
-Even though, strictly speaking, the value of $\alpha$ only provides an indication of the replicability of an annotation task, we suggest that the difficulty of annotating a particular example will influence its local observed agreement. Thus, easy examples will have a high $A_o$, that will drop as difficulty increases. 
-
-Identifying low-agreement examples by their linguistic features would help characterize contexts that make words difficult to annotate.
-
-
-The goal of this experiment is to measure how much of the disagreement in the annotations is caused by linguistic properties of the examples and is thus systematic. More specifically, we intend to interpret the $R^2$ determination coefficient of a regression model on the linguistic features.1
-
-We will consider the proportion of explained variance of the regression model described by the coefficient of determination $R^2$ to be the amount of disagreement our system can give account for, and is thus systematic. 
-
-Detecting the potential agreement examples has a immediate application for data collection, as a way of estimating the proportion of examples of each difficulty level that one wants to sample. 
-
-Moreover, a model of (dis)agreement can help interpret the mispredictions of a word-sense disambiguation system (a la XXX etc al) without requiring the data to be multiply annotated. 
-
-$R^2$ does not strictly say how much agreement is systematic, but how much of the agreement variation within a dataset can be explained by the features. Regression models for datasets that have very low or very high agreement and little variation cannot be so easily fit, because regression fitting benefits from smoothness in the dependent variable, while (discriminative) classification relies on the complementary notion of linear separability. In other words, some datasets lend themselves better to regression than others.
+If we can identify linguistic properties that can predict whether an example has a low or high agreement, then we can claim that some of the agreement variation in the data is systematic, and is a result of the interplay between the linguistic properties of the examples and the characteristics of the sense inventory.
 
 
 
-\paragraph{Contributions} \textcolor{red}{This and that}.
+\newcite{Artstein2008} provide interpretation of Kripperdorff's $\alpha$ coefficient to describe the reliability of a whole annotation task, and the way that observed agreement ($A_o$) is calculated for each example. Strictly speaking, the value of $\alpha$ only provides an indication of the replicability of an annotation task, but we propose that the difficulty of annotating a particular example will influence its local observed agreement. Thus, easy examples will have a high $A_o$, that will drop as difficulty increases. 
 
+
+%The goal of this experiment is to measure how much of the disagreement in the annotations is caused by linguistic properties of the examples and is thus systematic. More specifically, we intend to interpret the $R^2$ determination coefficient of a regression model on the linguistic features.1
+
+
+
+Identifying low-agreement examples by their linguistic features would help characterize contexts that make words difficult to annotate. Detecting the potential agreement examples has a immediate application for data collection, as a way of estimating the proportion of examples of each difficulty level that one wants to sample. Moreover, a model of (dis)agreement can help interpret the mispredictions of a word-sense disambiguation system (a la XXX etc al) without requiring the data to be multiply annotated. 
+
+$A_o$ is a continuous-valued variable and we tackle its prediction as regression (Section \ref{sec:reg}). We also experiment with a discretized version of observed agreement into low, mid and high agreement, which is predicted using classification (Section \ref{sec:class}).  
+
+\paragraph{Contributions} This article provides, to the best of our knowledge, the first attempt to predict instance-wise agreement from the linguistic features of the context.
 \section{Related work}
 
 
@@ -95,8 +91,6 @@ $R^2$ does not strictly say how much agreement is systematic, but how much of th
 \cite{Jurgens2013}
 
 \cite{Lopez2015} study the agreement-to-performance correlation for WSD. \\
-
-Disagreement between annotators is commonly seen as some kind of featureless noise. However, when an item is annotated with low-agreement, there is a case for seeing this particular example as difficult to annotate. 
 
 \cite{Tomuro2001a} provides an interpretation on disagreement between sense-annotated corpora. Her hypothesis is that, when humans disagree on senses of a word, there is an underlying relation between the senses, that is, most inter-annotator disagreement is explained by systematic polysemy. 
 
@@ -112,7 +106,7 @@ We conduct our study on sense-annotated datasets, and restrict it to the subset 
 \textsc{ensst} The English Twitter supersense-annotated data of \newcite{Johannsen2014}.\\
 \textsc{eusc} The Basque SemCor \cite{Agirre2006}.\\
 \textsc{dasst} The Danish supersense data of \cite{MartinezAlonso2015}.\\
-Table \ref{tab:data} provides the characteristics of the dataset. The annotation task can be lexical-sample (ls) or all-words (aw), the number of instances is different from the number of sentences for all-words annotation. The type of annotators can be expert (ex) or crowdsourced (cs). The agreement scores can differ from those reported in the datasets documentation because they are calculated on the multiple-annotated subset of the data. The last two columns describe the target variables of observed agreement ($A_o$) and the proportion of low-, mid- and high-agreement instances, cf. \ref{sec:targetvars} for details.
+Table \ref{tab:data} provides the characteristics of the dataset. The annotation task can be lexical-sample (ls) or all-words (aw), the number of instances is different from the number of sentences for all-words annotation. The type of annotators can be expert (ex) or crowdsourced (cs). The $\alpha$ \cite{Artstein2008} scores can differ from those reported in the datasets documentation because they are calculated on the multiple-annotated subset of the data. The last two columns describe the target variables of observed agreement ($A_o$) and the proportion of low-, mid- and high-agreement instances, cf. \ref{sec:targetvars} for details.
 
 \begin{table*}[Ht!]
 
@@ -120,18 +114,18 @@ Table \ref{tab:data} provides the characteristics of the dataset. The annotation
   \begin{tabular}{llllrrrcccc}
   \toprule 
 
-Dataset& lang & inventory & task & sent & inst & ann & type & $\alpha$ & $A_o$ /H& L/M\\ 
+Dataset& lang & inventory & task & sent & inst & ann & type & $\alpha$ & $A_o\pm\sigma$ & /H/L/M\\ 
 \midrule 
 
-\textsc{mascc} & English & synset & ls & 44.6k & 44.6k & 13-25 & cs & .4 & .14 $\pm$ .24 & 25/44/31\\
+\textsc{mascc} & English & synset & ls & 44.6k & 44.6k & 13-25 & cs & .40 & .14 $\pm$ .24 & 25/44/31\\
 \textsc{mascew} & English & synset & ls & 2.6k & 2.6k & 2-6 & ex & .48 & .07 $\pm$ .35 & 24/21/55\\
 ---\textsc{masce2} & English & synset & ls & 1.5k & 1.5k & 5-6 & ex & .51 & .41 $\pm$ .3 & 21/36/43\\
----\textsc{masce3} & English & synset & ls & 500 & 500 & 3 & ex & .69 & .8 $\pm$ .33 & 28/00/72\\
+---\textsc{masce3} & English & synset & ls & 500 & 500 & 3 & ex & .69 & .80 $\pm$ .33 & 28/00/72\\
 ---\textsc{macse4} & English & synset & ls & 618 & 618 & 2 & ex & .63 & .73 $\pm$ .44 & 27/00/73\\
 \textsc{ensst} & English & supersense & aw & 39 & 326 & 3 & ex & .67 & .69 $\pm$ .36 & 45/00/55\\
 \textsc{fntw} & English & frame & aw & 236 & 958 & 3 & ex & .82 & .82 $\pm$ .31 & .26/00/74\\
 
-\textsc{eusc} & Basque & synset & ls & 20,6k & 20.6k & 2 & ex & .76 & .76 $\pm$ .43 & 240/0/76\\
+\textsc{eusc} & Basque & synset & ls & 20.6k & 20.6k & 2 & ex & .76 & .76 $\pm$ .43 & 240/0/76\\
 \textsc{dasst} & Danish & supersense & aw & 1.2k & 9.5k & 2 & ex & .65 & .67 $\pm$ .47 & 33/00/67\\
 
 
@@ -150,8 +144,7 @@ We define an \textit{instance} as a sentence with a target word for annotation. 
 \textsc{cont} Context features (5). We calculate the amount length of $s$ in tokens, the proportion of $w$ made up of content words, and a bag of words of the context of $w$, i.e. all the words of $s$ except $w$. In order to capture the specificity of the context, we calculate the maximum and the sum of the entence-wise idf of each stem in $s$ \\
 \textsc{inv} Sense inventory features (2). We calculate the amount of possible senses for $w$, including an additional sense when $w$ could be discarded from the annotation---like the tag `O' for supersenses--- or the right synset was not present in WordNet. We also calculate the sense entropy for each word following \newcite{Yarowsky2002}. 
 
-
-We use TreeTagger (CITE) for part-of-speech tagging and TurboParser (CITE) for dependency parsing. All tagging and parsing models are trained on the Universal Dependencies v1.1 (CITE), which allows cross-language comparison of features.
+Note that the word identity of $w$ and $p$ are not included in the features to keep the models more general. We use TreeTagger (CITE) for part-of-speech tagging and TurboParser (CITE) for dependency parsing. All tagging and parsing models are trained on the Universal Dependencies v1.1 (CITE), which allows cross-language comparison of features. We estimate frequencies on 100M-word web-crawled and Wikipedia corpora for English and Danish, and on 13M newswire for Basque.
 
 \subsection{Target variable}
 \paragraph*{Regression} Instance-wise observed agreement ($A_o$) is the target variable for the regression experiments. We calculate  the $A_o$ for each example by calculating the pairwise matches in the annotation and dividing over the amount of pairwise combinations of annotation. 
@@ -160,9 +153,11 @@ Note that the $\alpha$ coefficient is an aggregate measure that is obtained data
 
 
 \section{Experimental setup}
-For \textbf{regression},we use a L2 regularized regression model
-The output of the regression is sigmoid-transformed to keep the values in the range $[0,1]$. The baselines for regression are so and  so. For \textbf{classification}, we use a maximum entropy classifier. We use the sklearn\footnote{\url{http://scikit-learn.org/}} implementation for both learning algorithms. We train and test  on 10-fold cross validation. 
+We use the sklearn\footnote{\url{http://scikit-learn.org/}} implementation for all learning algorithms, and train and test on 10-fold cross validation.
 
+\paragraph*{Regression} We use a L2 regularized linear-regression model. The output of the regression is sigmoid-transformed to keep the values in the range $[0,1]$. The baselines for regression are \textsc{mean}, where all instances receive the mean $A_o$ of the dataset, and  \textsc{median}, where the assigned value is the median $A_o$. 
+
+\paragraph*{Classification} We use a maximum entropy classifier. The baselines for classification are \textsc{mfc}, where all instances receive most frequent class, and the two random baselines \textsc{stra}, where the assigned values are randomly selected via stratified sampling from the distribution of classes in the dataset, and \textsc{uni} where random values are assigned from the uniform distribution of the three possible classes . 
 
 \subsection{Results}
 \subsubsection{Regression}
@@ -175,7 +170,7 @@ Table \ref{tab:regagr_results} shows the results for regression.
 \begin{center}
   \begin{tabular}{lc|cc}
  \toprule
-system & linreg & mean & median \\
+ & \textsc{Regression} & \textsc{mean} & \textsc{median} \\
  \midrule
  \textsc{mascc} & 0.19 & 0.21 & 0.21 \\
  \textsc{mascew} & 0.31 & 0.32 & 0.37 \\
@@ -195,7 +190,14 @@ system & linreg & mean & median \\
 \caption{Agreement prediction as regression compared against mean and median $A_o$. Datasets where the system outperforms the hardest baseline are marked in bold. \label{tab:regagr_results}}
 \end{table} 
 
+We will consider the proportion of explained variance of the regression model described by the coefficient of determination $R^2$ to be the amount of disagreement our system can give account for, and is thus systematic. 
+
+
 For positive values of $R^2$, we can claim that there is at least that much proportion of the disagreement that can be explained by the features and is thus systematic. A smoother target variable is easier to fit. Fewer annotators per item yield more jagged distributions of $A_o$, with fewer different intermediate values. The higher the amount of annotators, the better the resolution of the target variable. 
+
+
+$R^2$ does not strictly say how much agreement is systematic, but how much of the agreement variation within a dataset can be explained by the features. Regression models for datasets that have very low or very high agreement and little variation cannot be so easily fit, because regression fitting benefits from smoothness in the dependent variable, while (discriminative) classification relies on the complementary notion of linear separability. In other words, some datasets lend themselves better to regression than others.
+
 
 \subsubsection{Classification}
 Table \ref{tab:classresults} shows the results for classification.
@@ -206,7 +208,7 @@ Table \ref{tab:classresults} shows the results for classification.
 \begin{center}
   \begin{tabular}{lc|ccc}
  \toprule
-system & maxent & MFS & stratified & uniform\\ 
+ & \textsc{MaxEnt} & \textsc{MFC} & \textsc{stra} & \textsc{uni} \\
  \midrule
  \textsc{mascc} & \textbf{0.45} & 0.27 & 0.35 & 0.37\\ 
 
