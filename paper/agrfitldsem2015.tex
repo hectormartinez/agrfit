@@ -56,16 +56,16 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-\section{Introduction}
 
 
 High agreement is a common objective when annotating data for word senses.  However, the limitations of the sense inventories, the difficulty of the examples and the interpretation preferences of the annotations make perfect agreement impossible.
-In this article we propose two methods to predict agreement on word-annotation instances: ii) We experiment with a continuous representation (observed agreement), and ii) with a three-way discretization of observed agreement. We find that, in spite of the difficulty of the task, different levels of agreement can be identified---in particular, low-agreement examples are easier to capture with our features.
+In this article we propose two methods to predict agreement on word-annotation instances: ii) We experiment with a continuous representation (observed agreement), and ii) with a three-way discretization of observed agreement. We find that, in spite of the difficulty of the task, different levels of agreement can be identified---in particular, low-agreement examples are easier.
 \end{abstract}
+\section{Introduction}
 
-Sense-annotation tasks show less-than-perfect agreement scores. However, variation in agreement is not the result of featureless, white noise on the annotations; \newcite{krippendorff2011} defines disagreement as \textit{by chance}---caused by unavoidable inconsistencies in annotator behavior---and \textit{systematic}---caused by properties of the data being annotated.
+Sense-annotation tasks show less-than-perfect agreement scores. However, variation in agreement is not the result of featureless, white noise on the annotations; \newcite{krippendorff2011} defines disagreement as \textit{by chance}---caused by unavoidable inconsistencies in annotator behavior---and \textit{systematic}---caused by properties of the data.
 
-If we can identify linguistic properties that can predict whether an example has a low or high agreement, then we can claim that some of the agreement variation in the data is systematic, and is a result of the interplay between the linguistic properties of the examples and the characteristics of the sense inventory.
+If we can identify linguistic properties predictive of low or high agreement, then we can claim that some of the agreement variation in the data is indeed systematic. %, and is a result of the interplay between the linguistic properties of the examples and the characteristics of the sense inventory.
 
 
 
@@ -76,11 +76,10 @@ If we can identify linguistic properties that can predict whether an example has
 
 
 
-Identifying low-agreement examples by their linguistic features would help characterize contexts that make words difficult to annotate. Detecting the potential agreement examples has a immediate application for data collection, as a way of estimating the proportion of examples of each difficulty level that one wants to sample. Moreover, a model of (dis)agreement can help interpret the mispredictions of a word-sense disambiguation system without requiring the data to be multiply annotated. 
+Identifying low-agreement examples by their linguistic features would help characterize contexts that make words difficult to annotate. Estimating the agreement of examples has a immediate application for data collection, as a way of estimating the proportion of examples of each difficulty level that one wants to sample. Moreover, a model of (dis)agreement can help interpret the mispredictions of a word-sense disambiguation system without requiring the data to be multiply annotated. 
 
-$A_o$ is a continuous-valued variable and we tackle its prediction as regression (Section \ref{sec:reg}). We also experiment with a discretized version of observed agreement into low, mid and high agreement, which is predicted using classification (Section \ref{sec:class}).  
+Observed agrement $A_o$ is a continuous-valued variable and we tackle its prediction as regression (Section \ref{sec:reg}). We also experiment with a discretized version of observed agreement into low, mid and high agreement, which is predicted using classification (Section \ref{sec:class}).  
 
-\paragraph{Contributions} This article provides, to the best of our knowledge, the first attempt to predict instance-wise agreement from the linguistic features of the context.
 \section{Related work}
 In their seminal study, \newcite{Yarowsky2002} examine on the relation between agreement variation and predictive power of word-sense disambiguation systems, which is later expanded by \newcite{Lopez2015}.
 \newcite{Tomuro2001} uses the disagreement between annotators of two English sense-annotated corpora to provide insights on the relations between synsets, and more recent studies \cite{Plank2014,Jurgens2013,Jurgens2014} have empirically tackled the issue of inter-annotator disagreement as a phenomenon that is potentially informative for natural language processing, while others advocate for models of annotator behavior \cite{Passonneau2014,Cohn2013}. 
@@ -95,7 +94,7 @@ We conduct our study on sense-annotated datasets, keeping only the examples with
 \textsc{ensst} The English Twitter supersense-annotated data of \newcite{Johannsen2014}.\\
 \textsc{eusc} The Basque SemCor \cite{Agirre2006}.\\
 \textsc{dasst} The Danish supersense data of \cite{MartinezAlonso2015}.\\
-Table \ref{tab:data} provides the characteristics of the dataset. The annotation task can be lexical-sample (ls) or all-words (aw), the number of instances is different from the number of sentences for all-words annotation. The type of annotators can be expert (ex) or crowdsourced (cs). The $\alpha$ scores can differ from those reported in the datasets' documentation given our example-selection criteria. The last two columns describe the target variables of observed agreement ($A_o$) and the proportion of low-, mid- and high-agreement instances, cf. \ref{sec:targetvariable} for details.
+Table \ref{tab:data} provides the characteristics of the datasets. The annotation task can be lexical-sample (ls) or all-words (aw), the number of instances is different from the number of sentences for all-words annotation. The type of annotators can be expert (ex) or crowdsourced (cs). The $\alpha$ scores can differ from those reported in the datasets' documentation given our example-selection criteria. The last two columns describe the target variables of observed agreement ($A_o$) and the proportion of low-, mid- and high-agreement instances, cf. \ref{sec:targetvariable} for details.
 
 \begin{table*}[Ht!]
 
@@ -130,7 +129,7 @@ We define an \textit{instance} as a sentence with a target word for annotation. 
 \noindent\textbf{Frequency(2)} We calculate the frequency of $w$ and $p$, scaling by $log(rank(x)+1)^{-1}$.\\
 \textbf{ Morphology (5)} We consider the part-of-speech tag (POS) of $w$, of $p$,and the POS-bigram at the left and at the right of $w$. In order to incorporate information on inflectional complexity, we calculate which proportion of the stem of $w$ is covered by $w$, e.g. the occurrences of `jumping' constitute 22\% of the occurrences of the stem `jump'. \\
 \textbf{Syntax (5)} We calculate the number of dependents of $w$ and $p$, and a bag of words for the labels of the dependents of $w$ and $p$. We also include the distance from $w$ to the root node, and the linear distance between $w$ and $p$.\\
-\textbf{ Context  (5)} We calculate the length of $s$ in tokens, the proportion of $w$ made up of content words, and a bag of words of the context of $w$, i.e. all the words of $s$ except $w$. In order to capture the specificity of the context, we calculate the maximum and the sum of the entence-wise idf of each stem in $s$ \\
+\textbf{ Context  (5)} We calculate the length of $s$ in tokens, the proportion of $w$ made up of content words, and a bag of words of the context of $w$, i.e. all the words of $s$ except $w$. To capture context specificity, we calculate the maximum and the sum of the entence-wise idf of each stem in $s$ \\
 \textbf{Sense inventory (2)} We calculate the amount of possible senses for $w$, including an additional sense when $w$ could be discarded from the annotation---like the tag `O' for supersenses--- or the right synset was not present in WordNet. We also calculate the sense entropy for each word following \newcite{Yarowsky2002}. 
 
 Note that the word identity of $w$ and $p$ are not included in the features to keep the models more general. We use TreeTagger \cite{Schmid1994} for part-of-speech tagging and TurboParser \cite{Martins2010} for dependency parsing. All tagging and parsing models are trained on the Universal Dependencies v1.1 \footnote{\url{https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/LRT-1478}}, which allows cross-language comparison of features. We estimate frequencies on 100M-word web-crawled and Wikipedia corpora for English and Danish, and on 13M newswire for Basque.
@@ -144,14 +143,12 @@ Note that the $\alpha$ coefficient is an aggregate measure that is obtained data
 
 \section{Experiments}
 We use the sklearn\footnote{\url{http://scikit-learn.org/}} implementation for all learning algorithms, and train and test on 10-fold cross validation.
-
-\paragraph*{Regression} We use L2-regularized linear regression. The output of the regression is sigmoid-transformed to keep the values in the range $[0,1]$. The baselines for regression are \textsc{mean}, where all instances receive the mean $A_o$ of the dataset, and  \textsc{median}, where the assigned value is the median $A_o$. 
-
-\paragraph*{Classification} We use a maximum entropy classifier. The baselines for classification are \textsc{mfc}, where all instances receive most frequent class, and the two random baselines \textsc{stra}, where the assigned values are randomly selected via stratified sampling from the distribution of classes in the dataset, and \textsc{uni} where random values are assigned from the uniform distribution of the three possible classes . 
+\paragraph{Regression} We use L2-regularized linear regression. The output of the regression is sigmoid-transformed to keep the values in the range $[0,1]$. The baselines for regression are \textsc{mean}, where all instances receive the mean $A_o$ of the dataset, and  \textsc{median}, that assigns the median $A_o$. 
+\paragraph{Classification} We use a maximum-entropy classifier. The baselines for classification are \textsc{mfc}, where all instances receive most frequent class, and the two random baselines \textsc{stra}, where the assigned values are randomly selected via stratified sampling from the distribution of classes in the dataset, and \textsc{uni} where values are assigned from the uniform distribution of the three labels. 
 
 \subsection{Regression}
 \label{sec:reg}
-Table \ref{tab:regagr_results} shows the results for regression in terms of root mean absolute error (MAE). Datasets were the system outperforms both baselines are marked in bold.
+Table \ref{tab:regagr_results} shows the results for regression in terms of root mean absolute error (MAE). Datasets were the system outperforms both baselines are in bold.
 
 
 \begin{table}[Ht!]
@@ -181,7 +178,7 @@ Table \ref{tab:regagr_results} shows the results for regression in terms of root
 
 The results for regresssion show that predicting instance-wise $A_o$ is a hard task. The learnability of the task is limited by the resolution of the target variable; the only two datasets that can be fit over baseline (and have thus lower MAE) have many instances, and many annotators (about 50\% of the instances in \textsc{mascew} have five or more annotators). Also, size of the dataset is a relevant factor for a good estimation of $A_o$.
 
-If we examine the $R^2$ (determination coefficient or explained variance) for each dataset, we find that the only two datasets with a positive $R^2$ are \textsc{mascc} and \textsc{eusc}, at .082 and 0.014 respectively. Even though \textsc{eusc} only has two annotators per instance, it is a large dataset that allows mapping some properties of the features onto the variance of $A_o$.
+The only two datasets with a positive $R^2$ (determination coefficient or explained variance)  are \textsc{mascc} and \textsc{eusc}, at .082 and 0.014 respectively. \textsc{eusc} has only two annotators per instance, but it is a large dataset that allows mapping some properties of the features onto the variance of $A_o$.
 
 %We will consider the proportion of explained variance of the regression model described by the coefficient of determination $R^2$ to be the amount of disagreement our system can give account for, and is thus systematic. 
 
@@ -225,7 +222,7 @@ Table \ref{tab:classresults} shows the results for classification in terms of mi
 
 The \textsc{ensst} dataset is the only one the system cannot fit over all baselines, albeit by a small margin. It is a small, all-words dataset, and the data might be too heterogenous for the model to make sense of it on only 326 instances. The $F_1$ scores are not very high on absolute terms, but we do not expect this task to be any easier than word sense disambiguation. 
 
-Even though the score for \textsc{mascc} is not the highest, and it has a very relaxed \textsc{mfc} baseline, it still has the highest error reduction over baseline of all the datasets. This behavior is, just as in the regression scenario, a combination of the size of the dataset, plus 
+Note that MAE and $F_1$ are not comparable measures. Without evaluating both on error reduction over strictly comparable baselines, we cannot say that classification outperform regression.
 %The two Twitter datasets (XXXX and XXXX) show very different behavior. The framenet dataset has a very large  amount of instances where the amount of possible senses is very low, while the amount of possible senses is always large (XXX) for the Supersense data. \textcolor{red}{The preannotation of the framenet data makes it more streamlined and provides artificial agreement, while the open-guideline free method for the SST data is more exposed to the domain problems of Twitter. I think a lot of the bad performance on TWitter has to do with the badness of the automatically generated features, WHILE for Framenet the sense-inventory features might be the most relevant}
 
 
@@ -241,21 +238,23 @@ Even though the score for \textsc{mascc} is not the highest, and it has a very r
 %\bibliography{acl2015}
 
 \subsection{Feature analysis}
-Figure \ref{fig:correlations} shows the Spearman correlation with $A_o$ for the numeric features for all English datasets. Leaving \textsc{ensst} aside, we observe the strong negative correlation of the sense inventory features (z\_senseentropy, z\_nlabels), but also for the frequency of the target word (a\_targetfreq). High ifrequency items might be partly more difficult to annotate because they are more potentially more polysemous. 
+Figure \ref{fig:correlations} shows the Spearman correlation with $A_o$ for the numeric features for all English datasets. Leaving \textsc{ensst} aside, we observe strong negative correlation of the sense inventory features (z\_senseentropy, z\_nlabels), but also for the frequency of the target word (a\_targetfreq). High-frequency words can be partly more difficult to annotate because they can be more polysemous. 
 
-Given these correlations, the feature repertoire we uses captures better the low-agreement area of the data, but no feature has a consistently high positive correlation with agreement. That is, the predictors for low-agreement are more reliable than those for high agreement. A possible candidate for high-agreement prediction could be the proportion of content words over the length of the context, arguably because more lexically rich context are easier to desambiguate by the annotators.
+Given these correlations, the feature repertoire we use captures better the low-agreement area of the data, but no feature has a consistently high positive correlation with agreement. That is, the predictors for low-agreement are more reliable than those for high agreement. %A possible candidate for high-agreement prediction could be the proportion of content words over the length of the context, arguably because more lexically rich context are easier to desambiguate by the annotators.
 \begin{figure}[htt]
 \includegraphics[scale=0.3]{corrtable.jpg}
 
 \caption{ \label{fig:correlations}Correlation between the numeric-valued features and $A_o$ for the four English datasets}    
 \end{figure}
 
-We have also performed group-wise feature ablation tests on regression and classification, with similar results. Based on the contribution of single feature groups, we find that the sense-inventory group constantly outperforms the other groups, followed by the morphology group. When the sense inventory is ignored from the features, performance almost always decreases, indicating that sense inventory information is very valuable to predict agreement. However, context information is necessary to distinguish between examples of the same word (say, in a one-lemma lexical-sample dataset), where the sense-inventory features would be constant across the whole dataset. Nevertheless, the systems do not always improve when adding context features, which suggests that there is room for improvement in capturing contextual information for sense-annotated instances.
+We have also performed group-wise feature ablation tests on regression and classification, with similar results. Based on the contribution of single feature groups, we find that the sense-inventory group constantly outperforms the other groups, followed by the morphology group. 
+%When the sense inventory is ignored from the features, performance almost always decreases, indicating that sense inventory information is very valuable to predict agreement. 
+However, context information is necessary to distinguish between examples of the same word (say, in a one-lemma lexical-sample dataset), where the sense-inventory features would be constant across the whole dataset. Nevertheless, the systems do not always improve when adding context features, which suggests that there is room for improvement in capturing contextual information for sense-annotated instances.
 \section{Conclusions and further work}
-
+This article provides, to the best of our knowledge, the first attempt to predict instance-wise agreement.
 We have described a method to model agreement as a continuous value  the observed agreement $A_o$, and as three discrete values. We have conduct experiments on nine datasets, which comprise three languages, all-words vs. lexical-sample word annotations, and crowdsourced vs. expert annotations. 
 
-This system can be used as an automatic review method for sense-annotation tasks, because it identifies a proportion of systematic disagreement (in particular the low end of it) that can be attributed to certain linguistic features, which can lead to reviews of annotation guidelines. 
+%This system can be used as an automatic review method for sense-annotation tasks, because it identifies a proportion of systematic disagreement (in particular the low end of it) that can be attributed to certain linguistic features, which can lead to reviews of annotation guidelines. 
 
 The overall conclusiveness of the study requires expanding this research to more datasets and languages, and well as further exploring the difference in annotator bias between expert or crowdsourced annotations. Moreover, our feature repertoire does not include characteristics of the sense inventory in terms of sense relatedness like autohyponymy, depth in the sense ontology, or qualitative properties of the senses like abstractness.
 
