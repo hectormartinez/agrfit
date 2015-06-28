@@ -113,53 +113,46 @@ We use the following datasets. We restrict our study to the subset of examples o
 \textsc{ensst} The Twitter supersense-annotated data of \newcite{Johannsen2014}.\\
 \textsc{eusc} The Basque SemCor \cite{Agirre2006}.\\
 \textsc{dasst} The Danish supersense data of \cite{MartinezAlonso2015}.\\
-%\end{enumerate}
-
+Table \ref{tab:data} provides the characteristics of the dataset. The annotation task can be lexical-simple (ls) or all-words (aw), the number of instances is different from the number of sentences for all-words annotation. The type of annotators can be expert (ex) or crowdsourced (cs). The last two columns describe the target variables of observed agreement and the proportion of low-, mid- and high-agreement instances, cf. \ref{sec:targetvars} for details.
 
 \begin{table*}[Ht!]
 
 \begin{center}
-  \begin{tabular}{lccccccccc}
+  \begin{tabular}{lcccccccccc}
   \toprule 
 
-Dataset& lang & inventory & task & sentences & instances & annotators & type & $\alpha$ & $A_o$ \\ 
+Dataset& lang & inventory & task & sent & inst & ann & type & $\alpha$ & $A_o$ /H& L/M\\ 
 \midrule 
 
-\textsc{mascc} & English & synset & sample & & & & c & \\
-\textsc{masew} & English & synset & sample & & & & c & \\
----\textsc{mase2} & English & synset & sample & & & & c & \\
----\textsc{mase3} & English & synset & sample & & & & c & \\
----\textsc{mase4} & English & synset & sample & & & & c & \\
-\textsc{ensst} & English & supersense & all-words & & & & c & \\
-\textsc{fntw} & English & FrameNet & all-words & & XXX & 3 & e & xxxx & 0.7 \\
-\textsc{eusc} & Basque & synset & sample & & & & c & \\
-\textsc{dasst} & Danish & supersense & all-words & & & & c & \\
+\textsc{mascc} & English & synset & ls & 44.6k & 44.6k & 13-25 & cs & .4 & .14 $\pm$ .24 & 25/44/31\\
+\textsc{mascew} & English & synset & ls & 2.6k & 2.6k & 2-6 & ex & .48 & .07 $\pm$ .35 & 24/21/55\\
+---\textsc{masce2} & English & synset & ls & 1.5k & 1.5k & 5-6 & ex & .51 & .41 $\pm$ .3 & 21/36/43\\
+---\textsc{masce3} & English & synset & ls & 500 & 500 & 3 & ex & .69 & .8 $\pm$ .33 & 28/0/72\\
+---\textsc{macse4} & English & synset & ls & 618 & 618 & 2 & ex & .63 & .73 $\pm$ .44 & 27/0/73\\
+\textsc{ensst} & English & supersense & aw & 39 & 326 & 3 & ex & .67 & .69 $\pm$ .36 & 45/0/55\\
+\textsc{fntw} & English & frame & aw & 236 & 958 & 3 & ex & .82 & .82 $\pm$ .31 & .26/0/74\\
+
+\textsc{eusc} & Basque & synset & ls & 20,6k & 20.6k & 2 & ex & .76 & .76 $\pm$ .43 & 24/0/76\\
+\textsc{dasst} & Danish & supersense & aw & 1.2k & 9.5k & 2 & ex & .65 & .67 $\pm$ .47 & 33/0/67\\
 
 
 \bottomrule
 
   \end{tabular}  
 \end{center}
-\caption{Datasets \label{tab:data} \textcolor{red}{This table needs filling}}
+\caption{Dataset characteristics \label{tab:data} in terms of language, sense inventory, type of annotation task, number of sentences, number of isntances, number of annotators, type of annotators, Krippendorff's $\alpha$, observed agreement and percentage of LOW/MID/HIGH agreement examples.}
 \end{table*} 
 
 \subsection{Features}
 We define an \textit{instance} as a sentence with a target word for annotation. If a sentence has $n$ annotated target words, it yields $n$ instances. For each instance, we calculate the following features for a word $w$ and its syntactic parent $p$ in a sentence $s$, organized in feature groups.\\ 
-\noindent\textsc{freq} Frequency features (2). We calculate the frequency of $w$ and $p$. We scale the frequencies by calculating $log(rank(x)+1)^{-1}$.\\
+\noindent\textsc{freq} Frequency features (2). We calculate the frequency of $w$ and $p$, scaling the frequencies by $log(rank(x)+1)^{-1}$.\\
 \textsc{morph} Morphology features (5). We consider the part-of-speech tag (POS) of $w$, of $p$,and the POS-bigram at the left and at the right of $w$. In order to incorporate information on inflectional complexity, we calculate which proportion of the stem of $w$ is covered by $w$, e.g. the occurrences of `jumping' constitute 22\% of the occurrences of the stem "jump". \\
 \textsc{syn} Syntactic features (5). We calculate the number of dependents of $w$ and $p$, and a bag of words for the labels of the dependents of $w$ and $p$. We also include the distance from $w$ to the root node, and the linear distance between $w$ and $p$.\\
-\textsc{cont} Context features (5). We calculate the amount length of $s$ in tokens, the proportion of $w$ made up of content words, and a bag of words of the context of $w$, i.e. all the words of $s$ except $w$.In order to capture the specificity of the context, we calculate the sentence-wise idf of each stem in $s$, and provide the maximum idf, and the sum of all idfs in $s$. \\ \\
+\textsc{cont} Context features (5). We calculate the amount length of $s$ in tokens, the proportion of $w$ made up of content words, and a bag of words of the context of $w$, i.e. all the words of $s$ except $w$.In order to capture the specificity of the context, we calculate the sentence-wise idf of each stem in $s$, and provide the maximum idf, and the sum of all idfs in $s$. \\
 \textsc{inv} Sense inventory features (2). We calculate the amount of possible senses for $w$, including an additional sense when $w$ could be discarded from the annotation---like the tag `O' for supersenses--- or the right synset was not present in WordNet. We also calculate the sense entropy for each word following \newcite{Yarowsky2002}. 
 
-%\item number of possible senses %\todo[inline]{Maybe a better entropy-based measure?}
-%\item length of the sentence; length of the sentence in content words.
-%\item generality of $w$ (approximated by the entropy of the softmaxed embedding of $w$, cf Lazaridou.
-%\item sense relatedness (wordnet distance between senses, something like this) -- avg, min and max
-%\item sense specificity (depth in wordnet or framenet) --- avg, min and max
-%\item A bag of words of the context of $w$ %--- \todo[inline]{I really would prefer not use lexical features at all, it makes the system more robust across languages.}
-%\end{enumerate}
 
-We use TreeTagger for part-of-speech tagging and TurboParser for dependency parsing. All tagging and parsing models are trained on the Universal Dependencies v1.1, which allows cross-language comparison of features.
+We use TreeTagger (CITE) for part-of-speech tagging and TurboParser (CITE) for dependency parsing. All tagging and parsing models are trained on the Universal Dependencies v1.1 (CITE), which allows cross-language comparison of features.
 
 \subsection{Target variable}
 \paragraph*{Regression} Instance-wise observed agreement ($A_o$) is the target variable for the regression experiments. We calculate  the $A_o$ for each example by calculating the pairwise matches in the annotation and dividing over the amount of pairwise combinations of annotation.
