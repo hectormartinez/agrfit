@@ -96,29 +96,28 @@ $R^2$ does not strictly say how much agreement is systematic, but how much of th
 
 \cite{Lopez2015} study the agreement-to-performance correlation for WSD. \\
 
-Disagreement between annotators is commonly seen as some kind of featureless noise. However, there are authors that take the stance that, when an item is annotated with low-agreement and the labels it gets assigned are disparate, there is a case for seeing this particular example as difficult to annotate. One of the causes for this difficulty can be regular polysemy.
+Disagreement between annotators is commonly seen as some kind of featureless noise. However, when an item is annotated with low-agreement, there is a case for seeing this particular example as difficult to annotate. 
 
 \cite{Tomuro2001a} provides an interpretation on disagreement between sense-annotated corpora. Her hypothesis is that, when humans disagree on senses of a word, there is an underlying relation between the senses, that is, most inter-annotator disagreement is explained by systematic polysemy. 
 
-Tomuro compares the sense annotations of two corpora, SemCor and DSO, and reports an average K between the sense annotations of the two corpora in their matching sentences of 0.264. She concedes however that a good proportion of the difference is a result of SemCor being annotated by lexicographers and DSO by novices, but claims that these differences provide insight on sense distinctions that are easily misjudged. She is also careful to note that the inverse of her hypothesis does not work, and that systematic polysemy does not cause disagreement per se.  \cite{Jezek2010} also remark that the nouns that cause most disagreement in the coercion annotation task are precisely dot objects.
-
-Note that the $\alpha$ coefficient is an aggregate measure that is obtained dataset-wise, and $A_o$ is the only agreement measure available for each individual example.
+Tomuro compares the sense annotations of two corpora, SemCor and DSO, and reports an average K between the sense annotations of the two corpora in their matching sentences of 0.264. She concedes however that a good proportion of the difference is a result of SemCor being annotated by lexicographers and DSO by novices, but claims that these differences provide insight on sense distinctions that are easily misjudged.
 
 \section{Data}
 \subsection{Datasets}
-We use the following datasets. We restrict our study to the subset of examples of each datasets with at least than two annotations per item. In the datasets with two annotators and one adjudicator, we disregard adjudicator because they potentially have a different bias to the annotators'. All datasets are in English unless otherwise noted.
-\noindent\textsc{mascc} The crowdsourced word-sense corpus from \cite{Passenau2010}.\\
-\textsc{masce*} The expert annotations for a series of lexical-sample words from \cite{Passonneau2012}, who conducted several annotation rounds. We include the second, third and fourth round of annotation in our experiments. We evaluate on the whole dataset (\textsc{mascew}) as well as on each round's sub-dataset independently, namely \textsc{masc2}, \textsc{masce3} and \textsc{masce4}.\\
-\textsc{fntw} The Twitter FrameNet data of \cite{Sogaard2015}. We use the frame-name layer as a word-sense layer, taking the frame-evoking word as target word, and disregard the arguments.\\
-\textsc{ensst} The Twitter supersense-annotated data of \newcite{Johannsen2014}.\\
+
+We conduct our study on sense-annotated datasets, and restrict it to the subset of examples of each datasets with at least than two annotations per item. Sometimes a whole dataset is multiply annotated. In the datasets with two annotators and one adjudicator, we disregard adjudicator because they potentially have a different bias to the annotators'.\\
+\noindent\textsc{mascc} The English crowdsourced word-sense corpus from \newcite{Passenau2010}.\\
+\textsc{masce*} The expert annotations for a series of English lexical-sample words from \newcite{Passonneau2012}, who conducted several annotation rounds. We include the second, third and fourth round of annotation in our experiments. We evaluate on the whole dataset (\textsc{mascew}) as well as on each round's sub-dataset independently, namely \textsc{masce2}, \textsc{masce3} and \textsc{masce4}.\\
+\textsc{fntw} The English Twitter FrameNet data of \newcite{Sogaard2015}. We treat the frame-name layer as a word-sense layer, and disregard the arguments.\\
+\textsc{ensst} The English Twitter supersense-annotated data of \newcite{Johannsen2014}.\\
 \textsc{eusc} The Basque SemCor \cite{Agirre2006}.\\
 \textsc{dasst} The Danish supersense data of \cite{MartinezAlonso2015}.\\
-Table \ref{tab:data} provides the characteristics of the dataset. The annotation task can be lexical-simple (ls) or all-words (aw), the number of instances is different from the number of sentences for all-words annotation. The type of annotators can be expert (ex) or crowdsourced (cs). The last two columns describe the target variables of observed agreement and the proportion of low-, mid- and high-agreement instances, cf. \ref{sec:targetvars} for details.
+Table \ref{tab:data} provides the characteristics of the dataset. The annotation task can be lexical-sample (ls) or all-words (aw), the number of instances is different from the number of sentences for all-words annotation. The type of annotators can be expert (ex) or crowdsourced (cs). The agreement scores can differ from those reported in the datasets documentation because they are calculated on the multiple-annotated subset of the data. The last two columns describe the target variables of observed agreement ($A_o$) and the proportion of low-, mid- and high-agreement instances, cf. \ref{sec:targetvars} for details.
 
 \begin{table*}[Ht!]
 
 \begin{center}
-  \begin{tabular}{lcccccccccc}
+  \begin{tabular}{llllrrrcccc}
   \toprule 
 
 Dataset& lang & inventory & task & sent & inst & ann & type & $\alpha$ & $A_o$ /H& L/M\\ 
@@ -127,13 +126,13 @@ Dataset& lang & inventory & task & sent & inst & ann & type & $\alpha$ & $A_o$ /
 \textsc{mascc} & English & synset & ls & 44.6k & 44.6k & 13-25 & cs & .4 & .14 $\pm$ .24 & 25/44/31\\
 \textsc{mascew} & English & synset & ls & 2.6k & 2.6k & 2-6 & ex & .48 & .07 $\pm$ .35 & 24/21/55\\
 ---\textsc{masce2} & English & synset & ls & 1.5k & 1.5k & 5-6 & ex & .51 & .41 $\pm$ .3 & 21/36/43\\
----\textsc{masce3} & English & synset & ls & 500 & 500 & 3 & ex & .69 & .8 $\pm$ .33 & 28/0/72\\
----\textsc{macse4} & English & synset & ls & 618 & 618 & 2 & ex & .63 & .73 $\pm$ .44 & 27/0/73\\
-\textsc{ensst} & English & supersense & aw & 39 & 326 & 3 & ex & .67 & .69 $\pm$ .36 & 45/0/55\\
-\textsc{fntw} & English & frame & aw & 236 & 958 & 3 & ex & .82 & .82 $\pm$ .31 & .26/0/74\\
+---\textsc{masce3} & English & synset & ls & 500 & 500 & 3 & ex & .69 & .8 $\pm$ .33 & 28/00/72\\
+---\textsc{macse4} & English & synset & ls & 618 & 618 & 2 & ex & .63 & .73 $\pm$ .44 & 27/00/73\\
+\textsc{ensst} & English & supersense & aw & 39 & 326 & 3 & ex & .67 & .69 $\pm$ .36 & 45/00/55\\
+\textsc{fntw} & English & frame & aw & 236 & 958 & 3 & ex & .82 & .82 $\pm$ .31 & .26/00/74\\
 
-\textsc{eusc} & Basque & synset & ls & 20,6k & 20.6k & 2 & ex & .76 & .76 $\pm$ .43 & 24/0/76\\
-\textsc{dasst} & Danish & supersense & aw & 1.2k & 9.5k & 2 & ex & .65 & .67 $\pm$ .47 & 33/0/67\\
+\textsc{eusc} & Basque & synset & ls & 20,6k & 20.6k & 2 & ex & .76 & .76 $\pm$ .43 & 240/0/76\\
+\textsc{dasst} & Danish & supersense & aw & 1.2k & 9.5k & 2 & ex & .65 & .67 $\pm$ .47 & 33/00/67\\
 
 
 \bottomrule
@@ -146,29 +145,29 @@ Dataset& lang & inventory & task & sent & inst & ann & type & $\alpha$ & $A_o$ /
 \subsection{Features}
 We define an \textit{instance} as a sentence with a target word for annotation. If a sentence has $n$ annotated target words, it yields $n$ instances. For each instance, we calculate the following features for a word $w$ and its syntactic parent $p$ in a sentence $s$, organized in feature groups.\\ 
 \noindent\textsc{freq} Frequency features (2). We calculate the frequency of $w$ and $p$, scaling the frequencies by $log(rank(x)+1)^{-1}$.\\
-\textsc{morph} Morphology features (5). We consider the part-of-speech tag (POS) of $w$, of $p$,and the POS-bigram at the left and at the right of $w$. In order to incorporate information on inflectional complexity, we calculate which proportion of the stem of $w$ is covered by $w$, e.g. the occurrences of `jumping' constitute 22\% of the occurrences of the stem "jump". \\
+\textsc{morph} Morphology features (5). We consider the part-of-speech tag (POS) of $w$, of $p$,and the POS-bigram at the left and at the right of $w$. In order to incorporate information on inflectional complexity, we calculate which proportion of the stem of $w$ is covered by $w$, e.g. the occurrences of `jumping' constitute 22\% of the occurrences of the stem `jump'. \\
 \textsc{syn} Syntactic features (5). We calculate the number of dependents of $w$ and $p$, and a bag of words for the labels of the dependents of $w$ and $p$. We also include the distance from $w$ to the root node, and the linear distance between $w$ and $p$.\\
-\textsc{cont} Context features (5). We calculate the amount length of $s$ in tokens, the proportion of $w$ made up of content words, and a bag of words of the context of $w$, i.e. all the words of $s$ except $w$.In order to capture the specificity of the context, we calculate the sentence-wise idf of each stem in $s$, and provide the maximum idf, and the sum of all idfs in $s$. \\
+\textsc{cont} Context features (5). We calculate the amount length of $s$ in tokens, the proportion of $w$ made up of content words, and a bag of words of the context of $w$, i.e. all the words of $s$ except $w$. In order to capture the specificity of the context, we calculate the maximum and the sum of the entence-wise idf of each stem in $s$ \\
 \textsc{inv} Sense inventory features (2). We calculate the amount of possible senses for $w$, including an additional sense when $w$ could be discarded from the annotation---like the tag `O' for supersenses--- or the right synset was not present in WordNet. We also calculate the sense entropy for each word following \newcite{Yarowsky2002}. 
 
 
 We use TreeTagger (CITE) for part-of-speech tagging and TurboParser (CITE) for dependency parsing. All tagging and parsing models are trained on the Universal Dependencies v1.1 (CITE), which allows cross-language comparison of features.
 
 \subsection{Target variable}
-\paragraph*{Regression} Instance-wise observed agreement ($A_o$) is the target variable for the regression experiments. We calculate  the $A_o$ for each example by calculating the pairwise matches in the annotation and dividing over the amount of pairwise combinations of annotation.
-\paragraph*{Classification} Agreement level is the target variable for the classification experiments, where we discretize $A_o$ into the three classes LOW , MID and HIGH. We set the threshold for LOW at $Ao \le \frac{1}{3}$ and for HIGH at $Ao \ge \frac{2}{3}$, while the intermediate values receive the label MID.
+\paragraph*{Regression} Instance-wise observed agreement ($A_o$) is the target variable for the regression experiments. We calculate  the $A_o$ for each example by calculating the pairwise matches in the annotation and dividing over the amount of pairwise combinations of annotation. 
+Note that the $\alpha$ coefficient is an aggregate measure that is obtained dataset-wise, and $A_o$ is the only agreement measure available for each individual example.
+\paragraph*{Classification} Agreement level is the target variable for the classification experiments, where we discretize $A_o$ into the three classes, namely LOW , MID and HIGH. We set the threshold for LOW at $Ao \le \frac{1}{3}$, for HIGH at $Ao \ge \frac{2}{3}$, and intermediate values receive the label MID.
 
 
 \section{Experimental setup}
-For regression,we use a L2 regularized regression model
-% , which works, but unfortunately the R^2 scores are much lower than what we get from plain linear regression. 
-The output of the regression is sigmoid-transformed to keep the values in the range $[0,1]$.
-For classification, we train and test a maximum entropy classifier. We use the sklearn\footnote{\url{A}} implemetation for both learning algorithms. We train and test  on 10-fold cross validation.
+For \textbf{regression},we use a L2 regularized regression model
+The output of the regression is sigmoid-transformed to keep the values in the range $[0,1]$. The baselines for regression are so and  so. For \textbf{classification}, we use a maximum entropy classifier. We use the sklearn\footnote{\url{http://scikit-learn.org/}} implementation for both learning algorithms. We train and test  on 10-fold cross validation. 
 
 
-\section{Results}
-\subsection{Regression}
+\subsection{Results}
+\subsubsection{Regression}
 
+Table \ref{tab:regagr_results} shows the results for regression.
 
 
 \begin{table}[Ht!]
@@ -196,9 +195,12 @@ system & linreg & mean & median \\
 \caption{Agreement prediction as regression compared against mean and median $A_o$. Datasets where the system outperforms the hardest baseline are marked in bold. \label{tab:regagr_results}}
 \end{table} 
 
-For positive values of $R^2$, we can claim that there is at least that much proportion of the disagreement that can be explained by the features and is thus systematic. A smoother target variable is easier to fit. Fewer annotators per item yield more jagger distributions of $A_o$, with fewer different intermediate values. The higher the amount of annotators, the better the resolution of the target variable. 
+For positive values of $R^2$, we can claim that there is at least that much proportion of the disagreement that can be explained by the features and is thus systematic. A smoother target variable is easier to fit. Fewer annotators per item yield more jagged distributions of $A_o$, with fewer different intermediate values. The higher the amount of annotators, the better the resolution of the target variable. 
 
-\subsection{Classification}
+\subsubsection{Classification}
+Table \ref{tab:classresults} shows the results for classification.
+
+
 \begin{table}[Ht!]
 
 \begin{center}
@@ -239,7 +241,7 @@ The two Twitter datasets (XXXX and XXXX) show very different behavior. The frame
 %\bibliographystyle{acl}
 %\bibliography{acl2015}
 
-\section{Analysis}
+\subsubsection{Analysis}
 
 \begin{figure}[htt]
 \includegraphics[scale=0.3]{corrtable.jpg}
