@@ -60,7 +60,7 @@
 
 High agreement is a common objective when annotating data for word senses.  
 However, a number of factors make perfect agreement impossible, e.g. the limitations of the sense inventories, the difficulty of the examples or the interpretation preferences of the annotations,
-BINDING SENTENCE HERE.
+Estimating potential agreement is thus a relevant task to supplement the evaluation of sense annotations.
 In this article we propose two methods to predict agreement on word-annotation instances. We experiment with a continuous representation and a three-way discretization of observed agreement. In spite of the difficulty of the task, we find that different levels of agreement can be identified---in particular, low-agreement examples are easier to identify.
 \end{abstract}
 \section{Introduction}
@@ -85,10 +85,10 @@ Observed agrement $A_o$ is a continuous-valued variable and we tackle its predic
 \section{Related work}
 In their seminal study, \newcite{Yarowsky2002} examine on the relation between agreement variation and predictive power of word-sense disambiguation systems, which is later expanded by \newcite{Lopez2015}. Our work is different in that we do not study the relation between agreement and performance, but between example properties and agreement.
 
-\newcite{Tomuro2001} uses the disagreement between annotators of two English sense-annotated corpora to provide insights on the relations between synsets, and more recent studies \cite{Plank2014,Jurgens2013,Jurgens2014} have empirically tackled the issue of inter-annotator disagreement as a phenomenon that is potentially informative for natural language processing, while others advocate for models of annotator behavior \cite{Passonneau2014,Cohn2013}. 
+\newcite{Tomuro2001} uses the disagreement between annotators of two English sense-annotated corpora to provide insights on the relations between synsets, and more recent studies \cite{Jurgens2013,Plank2014,Jurgens2014,lopezdelacalleagirre2015} have empirically tackled the issue of inter-annotator disagreement as a phenomenon that is potentially informative for natural language processing, while others advocate for models of annotator behavior \cite{Passenau2010,Passonneau2014,Cohn2013}. 
 
 \section{Data}
-\subsection{Datasets}
+%\subsection{Datasets}
 
 We conduct our study on sense-annotated datasets, keeping only the examples with at least two annotations per item. 
 %Sometimes a whole dataset is multiply annotated. 
@@ -96,14 +96,14 @@ We conduct our study on sense-annotated datasets, keeping only the examples with
 In the datasets with two annotators and one adjudicator, we disregard adjudications given their potentially different bias.
 
 \begin{itemize}[nolistsep,noitemsep]
-\item[\textbf{1}] \textsc{mascc} The English crowdsourced word-sense corpus from \newcite{Passenau2010}.
+\item[\textbf{1}] \textsc{mascc} The English crowdsourced lexica-sample word-sense corpus from \newcite{Passonneau2014}.
 \item[\textbf{2-5}] \textsc{masce*} The expert annotations for a series of English lexical-sample words from \newcite{Passonneau2012}, with several annotation rounds. We include the second, third and fourth round of annotation in our experiments. We use on the whole dataset (\textsc{Mascew}) pooling all the rounds together, as well as on each round independently, namely \textsc{masce2}, \textsc{;asce3} and \textsc{Masce4}.
 \item[\textbf{6}] \textsc{Fntw} The English Twitter FrameNet data of \newcite{Sogaard2015}. We treat the frame-name layer as a word-sense layer, and disregard the arguments.
 \item[\textbf{7}] \textsc{Ensst} The English supersense-annotated data of \newcite{Johannsen2014}.
 \item[\textbf{8}] \textsc{Eusc} The Basque lexical-sample SemCor of \newcite{Agirre2006}.
 \item[\textbf{9}] \textsc{Dasst} The Danish supersense-annotated  data of \newcite{MartinezAlonso2015}.
 \end{itemize}
-Table \ref{tab:data} provides the characteristics of the datasets. The annotation task can be lexical-sample (ls) or all-words (aw), the number of instances is different from the number of sentences for all-words annotation. The type of annotators can be expert (ex) or crowdsourced (cs). The $\alpha$ scores can differ from those reported in the datasets' documentation given our example-selection criteria. The last two columns describe the target variables of observed agreement ($A_o$) and the proportion of low-, mid- and high-agreement instances, cf. \ref{sec:targetvariable} for details.
+Table \ref{tab:data} provides the characteristics of the datasets. The annotation task can be lexical-sample (ls) or all-words (aw). The no. of instances is different from the no. of sentences for all-words annotation. The type of annotators can be expert (ex) or crowdsourced (cs). The $\alpha$ scores can differ from those reported in the datasets' documentation given our example-selection criteria. The last two columns describe the target variables of observed agreement ($A_o$) and the proportion of low-, mid- and high-agreement instances, cf. \ref{sec:targetvariable} for details.
 
 \begin{table*}[Ht!]
 
@@ -161,7 +161,7 @@ We use the sklearn\footnote{\url{http://scikit-learn.org/}} implementation for a
 
 \subsection{Regression}
 \label{sec:reg}
-Table \ref{tab:regagr_results} shows the results for regression in terms of root mean absolute error (MAE). Datasets were the system outperforms both baselines are in bold.
+Table \ref{tab:regagr_results} shows the results for regression in terms of root mean absolute error (MAE). Datasets where the system outperforms both baselines are in bold.
 
 
 \begin{table}[Ht!]
@@ -191,7 +191,7 @@ Table \ref{tab:regagr_results} shows the results for regression in terms of root
 
 The results for regression show that predicting instance-wise $A_o$ is a hard task. The learnability of the task is limited by the resolution of the target variable; the only two datasets that can beat all baselines (and have thus lower MAE) have many instances, and many annotators (about 50\% of the instances in \textsc{mascew} have five or more annotators). Also, size of the dataset is a relevant factor for a good estimation of $A_o$.
 
-We examine goodness of fit in terms of $R^2$ (determination coefficient or explained variance). The only two datasets with positive $R^2$ are \textsc{mascc} and \textsc{eusc}, at .082 and 0.014 respectively. \textsc{eusc} has only two annotators per instance, but it is a large dataset that allows mapping some properties of the features onto the variance of $A_o$.
+We also examine goodness of fit in terms of $R^2$ (determination coefficient or explained variance). The only two datasets with positive $R^2$ are \textsc{mascc} and \textsc{eusc}, at .082 and 0.014 respectively. \textsc{eusc} has only two annotators per instance, but it is a large dataset that allows mapping some properties of the features onto the variance of $A_o$.
 
 %We will consider the proportion of explained variance of the regression model described by the coefficient of determination $R^2$ to be the amount of disagreement our system can give account for, and is thus systematic. 
 
