@@ -163,7 +163,9 @@ Note that  $\alpha$ is an aggregate measure that is obtained dataset-wise, and $
 
 \section{Experiments}
 We use the scikit-learn\footnote{\url{http://scikit-learn.org/}} implementation for all learning algorithms, and train and test on 10-fold cross validation.
-\paragraph{Regression} We use L2-regularized linear regression. The output of the regression is sigmoid-transformed to keep the values in the range $[0,1]$. The baselines for regression are \textsc{mean}, where all instances receive the mean $A_o$ of the dataset, and  \textsc{median}, that assigns the median $A_o$. 
+\paragraph{Regression} We use L2-regularized linear regression. 
+%The output of the regression is sigmoid-transformed to keep the values in the range $[0,1]$. 
+The baselines for regression are \textsc{mean}, where all instances receive the mean $A_o$ of the dataset, and  \textsc{median}, that assigns the median $A_o$. 
 \paragraph{Classification} We use a maximum-entropy classifier. The baselines for classification are \textsc{mfc}, where all instances receive most frequent class, and the two random baselines: \textsc{stra}, where the assigned values are randomly selected via stratified sampling from the distribution of classes in the dataset, and \textsc{uni} where values are assigned from the uniform distribution of the three labels. 
 
 \subsection{Regression}
